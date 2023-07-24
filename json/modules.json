@@ -15,7 +15,7 @@
       "description": "A module to prevent internet access on boot BEFORE AfWall started and applied",
       "license": "GPL-3.0",
       "states": {
-        "zipUrl": "https://eljoker63.github.io/magisk-repo/modules/AFWall-Boot-AntiLeak/v1.3_4.zip",
+        "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/AFWall-Boot-AntiLeak/v1.3_4.zip",
         "changelog": ""
       }
     },
@@ -28,7 +28,7 @@
       "description": "Using the \"AdGuard DNS\" DNS system-lessly! As simple as that and block ads and trackers.",
       "license": "LGPL-3.0",
       "states": {
-        "zipUrl": "https://eljoker63.github.io/magisk-repo/modules/AdGuardDNS4Magisk/v2.7f_27.zip",
+        "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/AdGuardDNS4Magisk/v2.7f_27.zip",
         "changelog": ""
       }
     },
@@ -41,7 +41,7 @@
       "description": "Using the \"AdGuard DNS\" DNS system-lessly! As simple as that and block ads and trackers.",
       "license": "LGPL-3.0",
       "states": {
-        "zipUrl": "https://eljoker63.github.io/magisk-repo/modules/AdGuardDNS4Magisk-IPv6/v2.7f_27.zip",
+        "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/AdGuardDNS4Magisk-IPv6/v2.7f_27.zip",
         "changelog": ""
       }
     },
@@ -54,7 +54,7 @@
       "description": "An EQ global type soundfx ported by Little Monk reworked for any Android 4.2 and up. Powered by Dolby Surround (DS).",
       "license": "free",
       "states": {
-        "zipUrl": "https://eljoker63.github.io/magisk-repo/modules/Atmos/v2.13_23.zip",
+        "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/Atmos/v2.13_23.zip",
         "changelog": ""
       }
     },
@@ -67,7 +67,7 @@
       "description": "Systemlessly install the nice icons from MiRoom to any MIUI 12-based ROM.",
       "license": "GPL-3.0",
       "states": {
-        "zipUrl": "https://eljoker63.github.io/magisk-repo/modules/Better-MIUI-Icons/MIUI12_v1_1.zip",
+        "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/Better-MIUI-Icons/MIUI12_v1_1.zip",
         "changelog": ""
       }
     },
@@ -80,7 +80,7 @@
       "description": "The Sony Mobile Bravia Engine X-Reality Super Vivid.",
       "license": "MIT",
       "states": {
-        "zipUrl": "https://eljoker63.github.io/magisk-repo/modules/BraviaEngine/v4.0.4_4.zip",
+        "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/BraviaEngine/v4.0.4_4.zip",
         "changelog": ""
       }
     },
@@ -93,8 +93,8 @@
       "description": "Systemless BusyBox installed by and symlinked to the Magisk built-in busybox binary",
       "license": "GPL-2.0",
       "states": {
-        "zipUrl": "https://eljoker63.github.io/magisk-repo/modules/BuiltIn-BusyBox/1.0.6_106.zip",
-        "changelog": "https://eljoker63.github.io/magisk-repo/modules/BuiltIn-BusyBox/1.0.6_106.md"
+        "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/BuiltIn-BusyBox/1.0.6_106.zip",
+        "changelog": "https://eljoker63.github.io/repo-magisk/modules/BuiltIn-BusyBox/1.0.6_106.md"
       }
     },
     {
@@ -106,7 +106,7 @@
       "description": "Simply enables fast charge of some compatible Devices",
       "license": "free",
       "states": {
-        "zipUrl": "https://eljoker63.github.io/magisk-repo/modules/CHARGEX/v1.0_1.zip",
+        "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/CHARGEX/v1.0_1.zip",
         "changelog": ""
       }
     },
@@ -119,8 +119,8 @@
       "description": "Clash meta core with service scripts for Android.",
       "license": "GPL-3.0",
       "states": {
-        "zipUrl": "https://eljoker63.github.io/magisk-repo/modules/Clash4Magisk/1.13.0_101300022.zip",
-        "changelog": "https://eljoker63.github.io/magisk-repo/modules/Clash4Magisk/1.13.0_101300022.md"
+        "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/Clash4Magisk/1.13.0_101300022.zip",
+        "changelog": "https://eljoker63.github.io/repo-magisk/modules/Clash4Magisk/1.13.0_101300022.md"
       }
     },
     {
@@ -132,7 +132,7 @@
       "description": "Turned off logd service, turned off edxposed+magisk+miui internal desktop logging, turned off MIUI kernel logging (from water dragon), added 5 seconds on boot to kill logd service (\u6765\u6e90\u4e8escene@\u611f\u8c22\u561f\u561f\u65af\u57fa), added useless wifi log cleanup+disable, and additionally added metaphysical standby optimization.",
       "license": "free",
       "states": {
-        "zipUrl": "https://eljoker63.github.io/magisk-repo/modules/Closelogd/v7_7.zip",
+        "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/Closelogd/v7_7.zip",
         "changelog": ""
       }
     },
@@ -145,7 +145,7 @@
       "description": "Using the new Cloudflare DNS system-lessly! As simple as that.",
       "license": "LGPL-3.0",
       "states": {
-        "zipUrl": "https://eljoker63.github.io/magisk-repo/modules/CloudflareDNS4Magisk/v2.7_27.zip",
+        "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/CloudflareDNS4Magisk/v2.7_27.zip",
         "changelog": ""
       }
     },
@@ -158,7 +158,7 @@
       "description": "Using the Cloudflare DNS system-lessly! As simple as that.",
       "license": "LGPL-3.0",
       "states": {
-        "zipUrl": "https://eljoker63.github.io/magisk-repo/modules/CloudflareDNS4Magisk-IPv6/v2.7_27.zip",
+        "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/CloudflareDNS4Magisk-IPv6/v2.7_27.zip",
         "changelog": ""
       }
     },
@@ -171,8 +171,8 @@
       "description": "Change Navbar Gesture Indicator color to match the theme's accent color, increase wide and thickness",
       "license": "GPL-3.0",
       "states": {
-        "zipUrl": "https://eljoker63.github.io/magisk-repo/modules/CustomizedNavbar/3.2_5.zip",
-        "changelog": "https://eljoker63.github.io/magisk-repo/modules/CustomizedNavbar/3.2_5.md"
+        "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/CustomizedNavbar/3.2_5.zip",
+        "changelog": "https://eljoker63.github.io/repo-magisk/modules/CustomizedNavbar/3.2_5.md"
       }
     },
     {
@@ -184,7 +184,7 @@
       "description": "This does is helps the multithread line to tell the cpu to easily do more faster proccessing without overheating.",
       "license": "free",
       "states": {
-        "zipUrl": "https://eljoker63.github.io/magisk-repo/modules/DalvikHyperthreading/v2_2.zip",
+        "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/DalvikHyperthreading/v2_2.zip",
         "changelog": ""
       }
     },
@@ -197,7 +197,7 @@
       "description": "Detach Market Links for Theme Ready Apps, originaly created by hinxnz, ported by Rom to works with Magisk.",
       "license": "GPL-3.0",
       "states": {
-        "zipUrl": "https://eljoker63.github.io/magisk-repo/modules/Detach/v5.3_530.zip",
+        "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/Detach/v5.3_530.zip",
         "changelog": ""
       }
     },
@@ -210,7 +210,7 @@
       "description": "I am optimizing memory! \u2022 @modulostk [telegram]",
       "license": "free",
       "states": {
-        "zipUrl": "https://eljoker63.github.io/magisk-repo/modules/EvoMem/v3.3.2_3302.zip",
+        "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/EvoMem/v3.3.2_3302.zip",
         "changelog": ""
       }
     },
@@ -223,8 +223,8 @@
       "description": "Installs F-Droid Privileged Extension systemlessly",
       "license": "free",
       "states": {
-        "zipUrl": "https://eljoker63.github.io/magisk-repo/modules/Fdroid-Priv/Version_0.2.13_20220314.zip",
-        "changelog": "https://eljoker63.github.io/magisk-repo/modules/Fdroid-Priv/Version_0.2.13_20220314.md"
+        "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/Fdroid-Priv/Version_0.2.13_20220314.zip",
+        "changelog": "https://eljoker63.github.io/repo-magisk/modules/Fdroid-Priv/Version_0.2.13_20220314.md"
       }
     },
     {
@@ -236,8 +236,8 @@
       "description": "Aplica Doze a los Google Play Services (GMS), maximizando bater\u00eda. INSTALAR LUEGO DE CONFIGURAR CUENTA GOOGLE.",
       "license": "GPL-2.0",
       "states": {
-        "zipUrl": "https://eljoker63.github.io/magisk-repo/modules/GMSDoze/v1.4A_140.zip",
-        "changelog": "https://eljoker63.github.io/magisk-repo/modules/GMSDoze/v1.4A_140.md"
+        "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/GMSDoze/v1.4A_140.zip",
+        "changelog": "https://eljoker63.github.io/repo-magisk/modules/GMSDoze/v1.4A_140.md"
       }
     },
     {
@@ -249,8 +249,8 @@
       "description": "Aplica Doze a los Servicios de Google Play (GMS), maximizando bater\u00eda. INSTALAR LUEGO DE CONFIGURAR CUENTA GOOGLE. Esta versi\u00f3n bloquea 'Find My Device' de Google.",
       "license": "GPL-2.0",
       "states": {
-        "zipUrl": "https://eljoker63.github.io/magisk-repo/modules/GMSDozeBlockFind/v1.4B_141.zip",
-        "changelog": "https://eljoker63.github.io/magisk-repo/modules/GMSDozeBlockFind/v1.4B_141.md"
+        "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/GMSDozeBlockFind/v1.4B_141.zip",
+        "changelog": "https://eljoker63.github.io/repo-magisk/modules/GMSDozeBlockFind/v1.4B_141.md"
       }
     },
     {
@@ -262,7 +262,7 @@
       "description": "This module aims to increase Android powered devices by up to 75% but at the same time reduces power consumption by up to 25% seamlessly.",
       "license": "free",
       "states": {
-        "zipUrl": "https://eljoker63.github.io/magisk-repo/modules/GPUTurboBoost/6.2_620.zip",
+        "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/GPUTurboBoost/6.2_620.zip",
         "changelog": ""
       }
     },
@@ -275,7 +275,7 @@
       "description": "FIX PING ISSUE ON ONLINE GAMES AND OPTIMISE NET SPEED",
       "license": "free",
       "states": {
-        "zipUrl": "https://eljoker63.github.io/magisk-repo/modules/GSNO/8_9.zip",
+        "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/GSNO/8_9.zip",
         "changelog": ""
       }
     },
@@ -288,7 +288,7 @@
       "description": "Apply Google Sans everywhere, systemlessly.",
       "license": "GPL-3.0",
       "states": {
-        "zipUrl": "https://eljoker63.github.io/magisk-repo/modules/Google-Sans/v1.0_1.zip",
+        "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/Google-Sans/v1.0_1.zip",
         "changelog": ""
       }
     },
@@ -301,7 +301,7 @@
       "description": "Apply Google Sans everywhere, systemlessly. (also contains leaked A11 emojis)",
       "license": "GPL-3.0",
       "states": {
-        "zipUrl": "https://eljoker63.github.io/magisk-repo/modules/Google-Sans-Plus/v1.0_1.zip",
+        "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/Google-Sans-Plus/v1.0_1.zip",
         "changelog": ""
       }
     },
@@ -314,7 +314,7 @@
       "description": "A very simple module to make Greenify work as a privileged app, to achieve a faster hibernation performance, systemlessly.",
       "license": "free",
       "states": {
-        "zipUrl": "https://eljoker63.github.io/magisk-repo/modules/Greenify4Magisk/v4.5.1_BETA_72.zip",
+        "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/Greenify4Magisk/v4.5.1_BETA_72.zip",
         "changelog": ""
       }
     },
@@ -327,7 +327,7 @@
       "description": "Customize Android 10-13's navigation gestures ",
       "license": "GPL-3.0",
       "states": {
-        "zipUrl": "https://eljoker63.github.io/magisk-repo/modules/HideNavBar/v21.0_55.zip",
+        "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/HideNavBar/v21.0_55.zip",
         "changelog": ""
       }
     },
@@ -340,7 +340,7 @@
       "description": "IORap: is available from Android 11+, increases the launch speed of applications.",
       "license": "free",
       "states": {
-        "zipUrl": "https://eljoker63.github.io/magisk-repo/modules/IORap/v3_3.zip",
+        "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/IORap/v3_3.zip",
         "changelog": ""
       }
     },
@@ -353,8 +353,8 @@
       "description": "Este m\u00f3dulo modifica los valores m\u00ednimos de \"Luz Nocturna\" para que sean menos c\u00e1lidos (menos amarillentos). .",
       "license": "GPL-2.0",
       "states": {
-        "zipUrl": "https://eljoker63.github.io/magisk-repo/modules/Luz-Nocturna_Modded/v1.0_1.zip",
-        "changelog": "https://eljoker63.github.io/magisk-repo/modules/Luz-Nocturna_Modded/v1.0_1.md"
+        "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/Luz-Nocturna_Modded/v1.0_1.zip",
+        "changelog": "https://eljoker63.github.io/repo-magisk/modules/Luz-Nocturna_Modded/v1.0_1.md"
       }
     },
     {
@@ -366,7 +366,7 @@
       "description": "Device Performance Optimizer \u2014 Aims To Provide An Optimal Experience At Every Usage Scenario",
       "license": "free",
       "states": {
-        "zipUrl": "https://eljoker63.github.io/magisk-repo/modules/MAGNETAR/19.2.0_UNIFORM_190200.zip",
+        "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/MAGNETAR/19.2.0_UNIFORM_190200.zip",
         "changelog": ""
       }
     },
@@ -379,7 +379,7 @@
       "description": "Enable Mac Randomization on device's it's been left disabled.",
       "license": "GPL-2.0",
       "states": {
-        "zipUrl": "https://eljoker63.github.io/magisk-repo/modules/MacRandomizationEnabler/v1_1.zip",
+        "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/MacRandomizationEnabler/v1_1.zip",
         "changelog": ""
       }
     },
@@ -392,7 +392,7 @@
       "description": "MiXplorer + all addons    ",
       "license": "free",
       "states": {
-        "zipUrl": "https://eljoker63.github.io/magisk-repo/modules/MiXplorer/v6.63.1_B23042510_29.zip",
+        "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/MiXplorer/v6.63.1_B23042510_29.zip",
         "changelog": ""
       }
     },
@@ -405,7 +405,7 @@
       "description": "MIUI Camera for Redmi 9T, Poco M3, Redmi Note 9 4G, Redmi 9T NFC",
       "license": "free",
       "states": {
-        "zipUrl": "https://eljoker63.github.io/magisk-repo/modules/MiuiCamera/v2.1_Crimson_Vermillion_21.zip",
+        "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/MiuiCamera/v2.1_Crimson_Vermillion_21.zip",
         "changelog": ""
       }
     },
@@ -418,7 +418,7 @@
       "description": "Barra de Navegaci\u00f3n reducida a 36DPI, compatible con Android 8 y superiores. Probado en ROMs AOSP.",
       "license": "GPL-2.0",
       "states": {
-        "zipUrl": "https://eljoker63.github.io/magisk-repo/modules/NavBar_Resize/v1.1_11.zip",
+        "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/NavBar_Resize/v1.1_11.zip",
         "changelog": ""
       }
     },
@@ -431,7 +431,7 @@
       "description": "Barra de Navegaci\u00f3n reducida a 36DPI, compatible con Android 8 y superiores (12.1 compatible). Probado en ROMs Miui 10 o superior (Miui 13 compatible).",
       "license": "GPL-2.0",
       "states": {
-        "zipUrl": "https://eljoker63.github.io/magisk-repo/modules/NavBar_Resize_MIUI/v2.0_2.zip",
+        "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/NavBar_Resize_MIUI/v2.0_2.zip",
         "changelog": ""
       }
     },
@@ -444,7 +444,7 @@
       "description": "Remove /proc/stat restriction on Android O and above",
       "license": "WTFPL",
       "states": {
-        "zipUrl": "https://eljoker63.github.io/magisk-repo/modules/NoProcStatRestriction/v0.0.2_2.zip",
+        "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/NoProcStatRestriction/v0.0.2_2.zip",
         "changelog": ""
       }
     },
@@ -457,7 +457,7 @@
       "description": "Disables the restriction of not being able to select certain folders (like downloads/sdcard) when prompted by apps",
       "license": "free",
       "states": {
-        "zipUrl": "https://eljoker63.github.io/magisk-repo/modules/NoStorageRestrict/v5_6.zip",
+        "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/NoStorageRestrict/v5_6.zip",
         "changelog": ""
       }
     },
@@ -470,7 +470,7 @@
       "description": "This module adds .kl file (keylayout) for Dualshock 4/3, Xbox Series X|S, Xbox One/S, Xbox 360.",
       "license": "free",
       "states": {
-        "zipUrl": "https://eljoker63.github.io/magisk-repo/modules/OneController/v1.5.2_152.zip",
+        "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/OneController/v1.5.2_152.zip",
         "changelog": ""
       }
     },
@@ -483,7 +483,7 @@
       "description": "OxygenOS -Google -Oneplus: less is more!",
       "license": "free",
       "states": {
-        "zipUrl": "https://eljoker63.github.io/magisk-repo/modules/OnePlus6Oxygen_22.J.62_debloater/v0.0.1_30.zip",
+        "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/OnePlus6Oxygen_22.J.62_debloater/v0.0.1_30.zip",
         "changelog": ""
       }
     },
@@ -496,7 +496,7 @@
       "description": "Magisk module that maps key code 28 to \"DPAD_ENTER\" instead of \"ENTER\".  This allows for the DPad \"OK\" button to work properly, so that when you press the \"OK\" button, it actually presses the \"Skip Intro\" button.  This fixes a very annoying, and long ignored issue encountered when using a DPad controller inside PLEX on Android TV.  Without this module, when you press the \"OK\" button on a DPad Controller when the \"Skip Intro\" button appears in plex, it'll bring up player controls instead of actually skipping the intro.",
       "license": "free",
       "states": {
-        "zipUrl": "https://eljoker63.github.io/magisk-repo/modules/PLEX_SKIP_INTRO_DPAD_CONTROLLER_FIX/v1_1.zip",
+        "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/PLEX_SKIP_INTRO_DPAD_CONTROLLER_FIX/v1_1.zip",
         "changelog": ""
       }
     },
@@ -509,7 +509,7 @@
       "description": "Adds Photos features and unlimited Google Photos original backup.",
       "license": "free",
       "states": {
-        "zipUrl": "https://eljoker63.github.io/magisk-repo/modules/PixelifyPhotos/1.0-beta_1.zip",
+        "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/PixelifyPhotos/1.0-beta_1.zip",
         "changelog": ""
       }
     },
@@ -522,8 +522,8 @@
       "description": "Este m\u00f3dulo coloca los Quick Settings m\u00e1s rectangulares, con un fondo degradado.",
       "license": "GPL-2.0",
       "states": {
-        "zipUrl": "https://eljoker63.github.io/magisk-repo/modules/QS_Rectangulares/v1.0_1.zip",
-        "changelog": "https://eljoker63.github.io/magisk-repo/modules/QS_Rectangulares/v1.0_1.md"
+        "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/QS_Rectangulares/v1.0_1.zip",
+        "changelog": "https://eljoker63.github.io/repo-magisk/modules/QS_Rectangulares/v1.0_1.md"
       }
     },
     {
@@ -535,7 +535,7 @@
       "description": "Using the Quad9 DNS system-lessy! As simple as that.",
       "license": "free",
       "states": {
-        "zipUrl": "https://eljoker63.github.io/magisk-repo/modules/Quad9DNS/v1_1.zip",
+        "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/Quad9DNS/v1_1.zip",
         "changelog": ""
       }
     },
@@ -548,8 +548,8 @@
       "description": "Module focused on maximizing user experience, multiple profiles you can change!",
       "license": "GPL-2.0",
       "states": {
-        "zipUrl": "https://eljoker63.github.io/magisk-repo/modules/RTKS/v4.6.6_466.zip",
-        "changelog": "https://eljoker63.github.io/magisk-repo/modules/RTKS/v4.6.6_466.md"
+        "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/RTKS/v4.6.6_466.zip",
+        "changelog": "https://eljoker63.github.io/repo-magisk/modules/RTKS/v4.6.6_466.md"
       }
     },
     {
@@ -561,7 +561,7 @@
       "versionCode": 32,
       "license": "free",
       "states": {
-        "zipUrl": "https://eljoker63.github.io/magisk-repo/modules/Reducemiui/3.2_32.zip",
+        "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/Reducemiui/3.2_32.zip",
         "changelog": ""
       }
     },
@@ -574,7 +574,7 @@
       "description": "Optimize the performance of SQLite. translated by @modulostk [telegram]",
       "license": "free",
       "states": {
-        "zipUrl": "https://eljoker63.github.io/magisk-repo/modules/SQLite_Optimization/1.1_114514.zip",
+        "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/SQLite_Optimization/1.1_114514.zip",
         "changelog": ""
       }
     },
@@ -587,7 +587,7 @@
       "description": "STRP BOLT Is an Fast Charge Module | Use Termux to open Main Menu with 'su -c BOLT' | Use at your OWN RISK!",
       "license": "free",
       "states": {
-        "zipUrl": "https://eljoker63.github.io/magisk-repo/modules/STRPxBOLT/v1.3_130.zip",
+        "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/STRPxBOLT/v1.3_130.zip",
         "changelog": ""
       }
     },
@@ -600,7 +600,7 @@
       "description": "Beautify sideslip for MIUI 14. translated by @modulostk",
       "license": "free",
       "states": {
-        "zipUrl": "https://eljoker63.github.io/magisk-repo/modules/SideslideCool/v2.2_2.zip",
+        "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/SideslideCool/v2.2_2.zip",
         "changelog": ""
       }
     },
@@ -613,8 +613,8 @@
       "description": "Upgrade SomcGameEnhancer for Old Xperia Devices, Android 12 only",
       "license": "MIT",
       "states": {
-        "zipUrl": "https://eljoker63.github.io/magisk-repo/modules/SomcGameEnhancer-Upgrade/v7.0.A.1.20_14681108.zip",
-        "changelog": "https://eljoker63.github.io/magisk-repo/modules/SomcGameEnhancer-Upgrade/v7.0.A.1.20_14681108.md"
+        "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/SomcGameEnhancer-Upgrade/v7.0.A.1.20_14681108.zip",
+        "changelog": "https://eljoker63.github.io/repo-magisk/modules/SomcGameEnhancer-Upgrade/v7.0.A.1.20_14681108.md"
       }
     },
     {
@@ -626,8 +626,8 @@
       "description": "Select and debloat preinstalled system apps. Supported up to SAR, Dynamic partitions and A13. Module must be installed through Magisk app, not TWRP - see OP instructions in the XDA thread.",
       "license": "LGPL-2.1",
       "states": {
-        "zipUrl": "https://eljoker63.github.io/magisk-repo/modules/SystemlessDebloater/1.5.3_153.zip",
-        "changelog": "https://eljoker63.github.io/magisk-repo/modules/SystemlessDebloater/1.5.3_153.md"
+        "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/SystemlessDebloater/1.5.3_153.zip",
+        "changelog": "https://eljoker63.github.io/repo-magisk/modules/SystemlessDebloater/1.5.3_153.md"
       }
     },
     {
@@ -639,7 +639,7 @@
       "description": "themed.pro",
       "license": "UNKNOWN",
       "states": {
-        "zipUrl": "https://eljoker63.github.io/magisk-repo/modules/ThemedProject/23.07.18_230718.zip",
+        "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/ThemedProject/23.07.18_230718.zip",
         "changelog": ""
       }
     },
@@ -652,8 +652,8 @@
       "description": "Install (additional) toybox applets. SUPPORTED: ARMv7 and higher ",
       "license": "0BSD",
       "states": {
-        "zipUrl": "https://eljoker63.github.io/magisk-repo/modules/ToyBox-Ext/1.0.8_108.zip",
-        "changelog": "https://eljoker63.github.io/magisk-repo/modules/ToyBox-Ext/1.0.8_108.md"
+        "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/ToyBox-Ext/1.0.8_108.zip",
+        "changelog": "https://eljoker63.github.io/repo-magisk/modules/ToyBox-Ext/1.0.8_108.md"
       }
     },
     {
@@ -665,7 +665,7 @@
       "description": "Apply Ubuntu font systemless",
       "license": "MIT",
       "states": {
-        "zipUrl": "https://eljoker63.github.io/magisk-repo/modules/UbuntuFontVinaooo/v1.0.1_1.zip",
+        "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/UbuntuFontVinaooo/v1.0.1_1.zip",
         "changelog": ""
       }
     },
@@ -678,7 +678,7 @@
       "description": "Follow @cool_modules and @cool_modules69 for more, Go to display cutout under developer/display options to change wifi and signal and battery icons (10 sets present) ",
       "license": "free",
       "states": {
-        "zipUrl": "https://eljoker63.github.io/magisk-repo/modules/Ultimate_Statusbar_icon_pack/v3_3.zip",
+        "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/Ultimate_Statusbar_icon_pack/v3_3.zip",
         "changelog": ""
       }
     },
@@ -691,7 +691,7 @@
       "version": "1.7",
       "license": "free",
       "states": {
-        "zipUrl": "https://eljoker63.github.io/magisk-repo/modules/VH-FN/1.7_1.zip",
+        "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/VH-FN/1.7_1.zip",
         "changelog": ""
       }
     },
@@ -704,7 +704,7 @@
       "description": " CLEAN ALL CACHE",
       "license": "free",
       "states": {
-        "zipUrl": "https://eljoker63.github.io/magisk-repo/modules/X_CACHE/V_5.7_20.zip",
+        "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/X_CACHE/V_5.7_20.zip",
         "changelog": ""
       }
     },
@@ -717,7 +717,7 @@
       "description": " Governor Cpu Dan Gpu, I/O Scheduler, Zram, Thermal extreme & Strandar, Close App, game features, change screen resolution, Clean Cache. ( no tweaks, the choice depends on your device and kernel )",
       "license": "GPL-3.0",
       "states": {
-        "zipUrl": "https://eljoker63.github.io/magisk-repo/modules/x-mod/V_6.2_20.zip",
+        "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/x-mod/V_6.2_20.zip",
         "changelog": ""
       }
     },
@@ -730,7 +730,7 @@
       "description": "Aumenta la sensibilidad y respuesta t\u00e1ctil a niveles extremos.",
       "license": "free",
       "states": {
-        "zipUrl": "https://eljoker63.github.io/magisk-repo/modules/XtremeSensivity\ud83d\udd25/v5.0_10.zip",
+        "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/XtremeSensivity\ud83d\udd25/v5.0_10.zip",
         "changelog": ""
       }
     },
@@ -743,7 +743,7 @@
       "description": "This modules tweaks your kernel parameters.",
       "license": "MIT",
       "states": {
-        "zipUrl": "https://eljoker63.github.io/magisk-repo/modules/YAKT/v7_1.zip",
+        "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/YAKT/v7_1.zip",
         "changelog": ""
       }
     },
@@ -756,8 +756,8 @@
       "description": "Mainly intended for extending battery service life on Android devices. In a nutshell, this is achieved through limiting charging current, temperature, and voltage. Any root solution is supported. Regardless of whether the system is rooted with Magisk, the installation is always \"systemless\".",
       "license": "GPL-3.0",
       "states": {
-        "zipUrl": "https://eljoker63.github.io/magisk-repo/modules/acc/v2023.6.26_202306260.zip",
-        "changelog": "https://eljoker63.github.io/magisk-repo/modules/acc/v2023.6.26_202306260.md"
+        "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/acc/v2023.6.26_202306260.zip",
+        "changelog": "https://eljoker63.github.io/repo-magisk/modules/acc/v2023.6.26_202306260.md"
       }
     },
     {
@@ -769,8 +769,8 @@
       "description": "Static ARM adb and fastboot binaries for Android built with the NDK",
       "license": "free",
       "states": {
-        "zipUrl": "https://eljoker63.github.io/magisk-repo/modules/adb-ndk/1.0.41_104111.zip",
-        "changelog": "https://eljoker63.github.io/magisk-repo/modules/adb-ndk/1.0.41_104111.md"
+        "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/adb-ndk/1.0.41_104111.zip",
+        "changelog": "https://eljoker63.github.io/repo-magisk/modules/adb-ndk/1.0.41_104111.md"
       }
     },
     {
@@ -782,7 +782,7 @@
       "description": "\u7ebf\u7a0b\u8c03\u6574\u7a0b\u5e8f\uff0c\u652f\u6301\u4e3b\u6d41\u6e38\u620f\uff0c\u5f53\u7136\u4e5f\u652f\u6301\u4e00\u4e9b\u5c0f\u4f17\u6e38\u620f",
       "license": "free",
       "states": {
-        "zipUrl": "https://eljoker63.github.io/magisk-repo/modules/asoul_affinity_opt/A.24_236.zip",
+        "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/asoul_affinity_opt/A.24_236.zip",
         "changelog": ""
       }
     },
@@ -795,8 +795,8 @@
       "description": "Disabling very large audio jitter generators (w.r.t. battery draining & optimizations, and wireless connectivity) for reducing audio jitter distortion on all digital audio outputs.",
       "license": "AGPL-3.0",
       "states": {
-        "zipUrl": "https://eljoker63.github.io/magisk-repo/modules/audio-jitter-silencer/v1.0.4_1004.zip",
-        "changelog": "https://eljoker63.github.io/magisk-repo/modules/audio-jitter-silencer/v1.0.4_1004.md"
+        "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/audio-jitter-silencer/v1.0.4_1004.zip",
+        "changelog": "https://eljoker63.github.io/repo-magisk/modules/audio-jitter-silencer/v1.0.4_1004.md"
       }
     },
     {
@@ -808,8 +808,8 @@
       "description": "Setting audio misc. configuration values (e.g. 100 volume steps, raising the resampling quality, disabling the effects framework, etc.)",
       "license": "AGPL-3.0",
       "states": {
-        "zipUrl": "https://eljoker63.github.io/magisk-repo/modules/audio-misc-settings/v1.3.3_1303.zip",
-        "changelog": "https://eljoker63.github.io/magisk-repo/modules/audio-misc-settings/v1.3.3_1303.md"
+        "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/audio-misc-settings/v1.3.3_1303.zip",
+        "changelog": "https://eljoker63.github.io/repo-magisk/modules/audio-misc-settings/v1.3.3_1303.md"
       }
     },
     {
@@ -821,7 +821,7 @@
       "description": "An easy CLI backup tool without using a custom recovery.",
       "license": "GPL-3.0",
       "states": {
-        "zipUrl": "https://eljoker63.github.io/magisk-repo/modules/backup/v1.0_1.zip",
+        "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/backup/v1.0_1.zip",
         "changelog": ""
       }
     },
@@ -834,7 +834,7 @@
       "description": " Disable shit from the device to have a better autonomy.",
       "license": "free",
       "states": {
-        "zipUrl": "https://eljoker63.github.io/magisk-repo/modules/byeshit/v666.7_6667.zip",
+        "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/byeshit/v666.7_6667.zip",
         "changelog": ""
       }
     },
@@ -847,7 +847,7 @@
       "description": "An Android-patched Magisk Module implementation of ChArch.",
       "license": "free",
       "states": {
-        "zipUrl": "https://eljoker63.github.io/magisk-repo/modules/charch/v1.0_1.zip",
+        "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/charch/v1.0_1.zip",
         "changelog": ""
       }
     },
@@ -860,7 +860,7 @@
       "description": "Initialize Dinit init for the default ChArch rootfs instance.",
       "license": "GPL-3.0",
       "states": {
-        "zipUrl": "https://eljoker63.github.io/magisk-repo/modules/charch_dinit/v1.1_2.zip",
+        "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/charch_dinit/v1.1_2.zip",
         "changelog": ""
       }
     },
@@ -873,7 +873,7 @@
       "description": "Initialize OpenRC for the default ChArch rootfs instance.",
       "license": "GPL-3.0",
       "states": {
-        "zipUrl": "https://eljoker63.github.io/magisk-repo/modules/charch_openrc/v1.1_2.zip",
+        "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/charch_openrc/v1.1_2.zip",
         "changelog": ""
       }
     },
@@ -886,7 +886,7 @@
       "description": "Initialize SSHD for the default ChArch rootfs instance.",
       "license": "GPL-3.0",
       "states": {
-        "zipUrl": "https://eljoker63.github.io/magisk-repo/modules/charch_sshd/v1.0_1.zip",
+        "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/charch_sshd/v1.0_1.zip",
         "changelog": ""
       }
     },
@@ -899,7 +899,7 @@
       "description": "An Android Linux Kernel command line patch tool using Magisk's magiskboot binary.",
       "license": "GPL-3.0",
       "states": {
-        "zipUrl": "https://eljoker63.github.io/magisk-repo/modules/cmdpatch/v1.0_1.zip",
+        "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/cmdpatch/v1.0_1.zip",
         "changelog": ""
       }
     },
@@ -912,7 +912,7 @@
       "description": "Magisk module comprising essential apps (including a patched version of Google Play Store compatible with microG) and convenient settings for vanilla Android builds.",
       "license": "GPL-3.0",
       "states": {
-        "zipUrl": "https://eljoker63.github.io/magisk-repo/modules/com.omergoktas.Foundation/v1.2_102.zip",
+        "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/com.omergoktas.Foundation/v1.2_102.zip",
         "changelog": ""
       }
     },
@@ -925,7 +925,7 @@
       "description": "This module adds custom certificate authorities from a pre-defined path on the Android file system to the system trust store.",
       "license": "GPL-3.0",
       "states": {
-        "zipUrl": "https://eljoker63.github.io/magisk-repo/modules/custom-certificate-authorities/v1.0.1_101.zip",
+        "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/custom-certificate-authorities/v1.0.1_101.zip",
         "changelog": ""
       }
     },
@@ -938,8 +938,8 @@
       "description": "Data backup creator for restoring by data_restore.zip from or Magisk module installer or TWRP",
       "license": "MIT",
       "states": {
-        "zipUrl": "https://eljoker63.github.io/magisk-repo/modules/data_backup/v2.14_7.zip",
-        "changelog": "https://eljoker63.github.io/magisk-repo/modules/data_backup/v2.14_7.md"
+        "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/data_backup/v2.14_7.zip",
+        "changelog": "https://eljoker63.github.io/repo-magisk/modules/data_backup/v2.14_7.md"
       }
     },
     {
@@ -951,7 +951,7 @@
       "description": "Enable /data/data isolation for old Android version (Android 10 and lower). Require Magisk process monitor tool v1.1+",
       "license": "GPL-3.0",
       "states": {
-        "zipUrl": "https://eljoker63.github.io/magisk-repo/modules/data_isolation_support/1.2_3.zip",
+        "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/data_isolation_support/1.2_3.zip",
         "changelog": ""
       }
     },
@@ -964,8 +964,8 @@
       "description": "A remover of DRC (Dynamic Range Control, i.e., compression) sticking to all audio outputs on some major devices.",
       "license": "AGPL-3.0",
       "states": {
-        "zipUrl": "https://eljoker63.github.io/magisk-repo/modules/drc-remover/v1.2.1_1201.zip",
-        "changelog": "https://eljoker63.github.io/magisk-repo/modules/drc-remover/v1.2.1_1201.md"
+        "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/drc-remover/v1.2.1_1201.zip",
+        "changelog": "https://eljoker63.github.io/repo-magisk/modules/drc-remover/v1.2.1_1201.md"
       }
     },
     {
@@ -977,7 +977,7 @@
       "description": "Changes how Android's dex2oat compiles packages to save space, rather than focus on speed. ",
       "license": "MIT",
       "states": {
-        "zipUrl": "https://eljoker63.github.io/magisk-repo/modules/ezme-dex-space/v1_1000.zip",
+        "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/ezme-dex-space/v1_1000.zip",
         "changelog": ""
       }
     },
@@ -990,7 +990,7 @@
       "description": "Change some props and \"remove\" LineageOS ones",
       "license": "MIT",
       "states": {
-        "zipUrl": "https://eljoker63.github.io/magisk-repo/modules/ezme-nodebug/v1_1000.zip",
+        "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/ezme-nodebug/v1_1000.zip",
         "changelog": ""
       }
     },
@@ -1003,8 +1003,8 @@
       "description": "Koruri font patch for Japanese users. Koruri is open source Japanese font.",
       "license": "WTFPL",
       "states": {
-        "zipUrl": "https://eljoker63.github.io/magisk-repo/modules/magisk-module-koruri-font/v25_25.zip",
-        "changelog": "https://eljoker63.github.io/magisk-repo/modules/magisk-module-koruri-font/v25_25.md"
+        "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/magisk-module-koruri-font/v25_25.zip",
+        "changelog": "https://eljoker63.github.io/repo-magisk/modules/magisk-module-koruri-font/v25_25.md"
       }
     },
     {
@@ -1016,8 +1016,8 @@
       "description": "Mejiro font patch for Japanese users.",
       "license": "WTFPL",
       "states": {
-        "zipUrl": "https://eljoker63.github.io/magisk-repo/modules/magisk-module-mejiro-font/v19_19.zip",
-        "changelog": "https://eljoker63.github.io/magisk-repo/modules/magisk-module-mejiro-font/v19_19.md"
+        "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/magisk-module-mejiro-font/v19_19.zip",
+        "changelog": "https://eljoker63.github.io/repo-magisk/modules/magisk-module-mejiro-font/v19_19.md"
       }
     },
     {
@@ -1029,7 +1029,7 @@
       "description": "Dynamic freezing Magisk app. Process Monitor Tool v2.1+ is required for this module to work.",
       "license": "free",
       "states": {
-        "zipUrl": "https://eljoker63.github.io/magisk-repo/modules/frozen_magisk_app/1.2_3.zip",
+        "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/frozen_magisk_app/1.2_3.zip",
         "changelog": ""
       }
     },
@@ -1042,7 +1042,7 @@
       "description": "null",
       "license": "GPL-3.0",
       "states": {
-        "zipUrl": "https://eljoker63.github.io/magisk-repo/modules/gaming/vFINAL_5.zip",
+        "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/gaming/vFINAL_5.zip",
         "changelog": ""
       }
     },
@@ -1055,8 +1055,8 @@
       "description": "\u7528\u6237\u8bcd\u5178 (user_dict_3_3), \u652f\u6301\u7b80\u62fc\u548c\u53cc\u62fc. \u517158053\u4e2a\u8bcd\u6761. \u6839\u636e\u624b\u673a\u6027\u80fd\u4e0d\u540c, \u65b0\u8bcd\u5e93\u9700\u89811\u5206\u949f\u5de6\u53f3\u751f\u6548. \u6d4b\u8bd5\u65b9\u6cd5: \u201c\u5149\u00b7\u9047\u201d. \u82e5\u8bcd\u5e93\u5931\u6548, \u8bf7\u91cd\u65b0\u5237\u5165\u5e76\u9009\u62e9\u6062\u590d; \u518d\u4e0d\u884c\u9009\u62e9\u5168\u65b0\u5b89\u88c5",
       "license": "MIT",
       "states": {
-        "zipUrl": "https://eljoker63.github.io/magisk-repo/modules/gboard-dict-3/v2.1.1_20220513.zip",
-        "changelog": "https://eljoker63.github.io/magisk-repo/modules/gboard-dict-3/v2.1.1_20220513.md"
+        "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/gboard-dict-3/v2.1.1_20220513.zip",
+        "changelog": "https://eljoker63.github.io/repo-magisk/modules/gboard-dict-3/v2.1.1_20220513.md"
       }
     },
     {
@@ -1068,7 +1068,7 @@
       "description": " Heimdall is a tool for flashing firmware (aka ROMs) onto Samsung Galaxy series devices over a USB connection. It accomplishes this using the same protocol as Odin . This static binary support multi architectures built with the NDK",
       "license": "free",
       "states": {
-        "zipUrl": "https://eljoker63.github.io/magisk-repo/modules/heimdall-ndk/v2.0.2_202.zip",
+        "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/heimdall-ndk/v2.0.2_202.zip",
         "changelog": ""
       }
     },
@@ -1081,7 +1081,7 @@
       "description": "Protect your system from bootloop caused by Magisk modules.",
       "license": "free",
       "states": {
-        "zipUrl": "https://eljoker63.github.io/magisk-repo/modules/huskydg_bootloopsaver/v1.8.1_10015.zip",
+        "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/huskydg_bootloopsaver/v1.8.1_10015.zip",
         "changelog": ""
       }
     },
@@ -1094,7 +1094,7 @@
       "description": "",
       "license": "free",
       "states": {
-        "zipUrl": "https://eljoker63.github.io/magisk-repo/modules/iUnlockerIII/_1.zip",
+        "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/iUnlockerIII/_1.zip",
         "changelog": ""
       }
     },
@@ -1107,7 +1107,7 @@
       "description": "Use your mobile device to boot Linux distributions/ISO files on your PC",
       "license": "free",
       "states": {
-        "zipUrl": "https://eljoker63.github.io/magisk-repo/modules/isodrive/1.2_12.zip",
+        "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/isodrive/1.2_12.zip",
         "changelog": ""
       }
     },
@@ -1120,7 +1120,7 @@
       "description": "sRGB & KCAL Presets (command \ud835\ude60\ud835\ude58\ud835\ude56\ud835\ude61).",
       "license": "free",
       "states": {
-        "zipUrl": "https://eljoker63.github.io/magisk-repo/modules/kcal_rvns/1.6.1_1.zip",
+        "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/kcal_rvns/1.6.1_1.zip",
         "changelog": ""
       }
     },
@@ -1133,7 +1133,7 @@
       "description": "Systemless linux chroot installer and chroot boot script",
       "license": "GPL-3.0",
       "states": {
-        "zipUrl": "https://eljoker63.github.io/magisk-repo/modules/lhroot/v2.2.0_1.zip",
+        "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/lhroot/v2.2.0_1.zip",
         "changelog": ""
       }
     },
@@ -1146,7 +1146,7 @@
       "description": "An android CLI flash tool without custom recoveries. Usage: flash [ZIP...]",
       "license": "GPL-3.0",
       "states": {
-        "zipUrl": "https://eljoker63.github.io/magisk-repo/modules/magic-flash/v1.6_10006.zip",
+        "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/magic-flash/v1.6_10006.zip",
         "changelog": ""
       }
     },
@@ -1159,7 +1159,7 @@
       "description": "A Magisk Module aiming to control (change/disable) Android Captive Portal Detection.",
       "license": "GPL-3.0",
       "states": {
-        "zipUrl": "https://eljoker63.github.io/magisk-repo/modules/magisk-captive-control/v1.0.0_100.zip",
+        "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/magisk-captive-control/v1.0.0_100.zip",
         "changelog": ""
       }
     },
@@ -1172,7 +1172,7 @@
       "description": "A Magisk Module aiming to eliminate DRM from Android systemlessly.",
       "license": "GPL-3.0",
       "states": {
-        "zipUrl": "https://eljoker63.github.io/magisk-repo/modules/magisk-drm-disabler/v1.3.1_131.zip",
+        "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/magisk-drm-disabler/v1.3.1_131.zip",
         "changelog": ""
       }
     },
@@ -1185,7 +1185,7 @@
       "description": "Use OverlayFS to make read-only system partitions become read-write partitions. OverlayFS MUST be supported by kernel!",
       "license": "free",
       "states": {
-        "zipUrl": "https://eljoker63.github.io/magisk-repo/modules/magisk_overlayfs/v3.1.2_30102.zip",
+        "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/magisk_overlayfs/v3.1.2_30102.zip",
         "changelog": ""
       }
     },
@@ -1198,7 +1198,7 @@
       "description": "Provide the way for modules to run script whenever app process start. More information, please visit http://github.com/huskydg/magisk_proc_monitor",
       "license": "GPL-3.0",
       "states": {
-        "zipUrl": "https://eljoker63.github.io/magisk-repo/modules/magisk_proc_monitor/2.2_9.zip",
+        "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/magisk_proc_monitor/2.2_9.zip",
         "changelog": ""
       }
     },
@@ -1211,7 +1211,7 @@
       "description": "Ptrace-based MagiskHide, allows hiding root without need to enable Zygisk. Read DenyList as hidelist. Android 11+ is recommended.",
       "license": "GPL-3.0",
       "states": {
-        "zipUrl": "https://eljoker63.github.io/magisk-repo/modules/magiskhide/1.10.3_16.zip",
+        "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/magiskhide/1.10.3_16.zip",
         "changelog": ""
       }
     },
@@ -1224,7 +1224,7 @@
       "description": "microG, Playstore, Calendar Sync, Contacts Sync ",
       "license": "free",
       "states": {
-        "zipUrl": "https://eljoker63.github.io/magisk-repo/modules/microG-GApps/v0.2.28.231657_29.zip",
+        "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/microG-GApps/v0.2.28.231657_29.zip",
         "changelog": ""
       }
     },
@@ -1237,7 +1237,7 @@
       "description": "Provide a systemless implementation of mkshrc for a better terminal experience on Android devices.",
       "license": "GPL-3.0",
       "states": {
-        "zipUrl": "https://eljoker63.github.io/magisk-repo/modules/mkshrc/1.3.5_135.zip",
+        "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/mkshrc/1.3.5_135.zip",
         "changelog": ""
       }
     },
@@ -1250,7 +1250,7 @@
       "description": "Node.js is a cross-platform, open-source server environment that can run on Windows, Linux, Unix, macOS, and more.",
       "license": "MIT",
       "states": {
-        "zipUrl": "https://eljoker63.github.io/magisk-repo/modules/node_on_android/1.4.9_149.zip",
+        "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/node_on_android/1.4.9_149.zip",
         "changelog": ""
       }
     },
@@ -1263,7 +1263,7 @@
       "description": "This module hides the notch black bar",
       "license": "GPL-2.0",
       "states": {
-        "zipUrl": "https://eljoker63.github.io/magisk-repo/modules/noneDisplayCutout/V1_1.zip",
+        "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/noneDisplayCutout/V1_1.zip",
         "changelog": ""
       }
     },
@@ -1276,8 +1276,8 @@
       "description": "Unlocks features like 48MP RAW10 support, auxiliary lenses (in custom ROMs only), Zero Shutter Lag (ZSL), etc. on the OnePlus 8, 8 Pro, 8T, and 9R",
       "license": "GPL-2.0",
       "states": {
-        "zipUrl": "https://eljoker63.github.io/magisk-repo/modules/oneplus-8series-9r-camera-unlocker/v1.2_1200.zip",
-        "changelog": "https://eljoker63.github.io/magisk-repo/modules/oneplus-8series-9r-camera-unlocker/v1.2_1200.md"
+        "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/oneplus-8series-9r-camera-unlocker/v1.2_1200.zip",
+        "changelog": "https://eljoker63.github.io/repo-magisk/modules/oneplus-8series-9r-camera-unlocker/v1.2_1200.md"
       }
     },
     {
@@ -1289,8 +1289,8 @@
       "description": "Unlocks face detection and all cameras for use by third party apps on the OnePlus 9 and 9 Pro",
       "license": "GPL-2.0",
       "states": {
-        "zipUrl": "https://eljoker63.github.io/magisk-repo/modules/oneplus-9-9pro-camera-unlocker/v1.2_1200.zip",
-        "changelog": "https://eljoker63.github.io/magisk-repo/modules/oneplus-9-9pro-camera-unlocker/v1.2_1200.md"
+        "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/oneplus-9-9pro-camera-unlocker/v1.2_1200.zip",
+        "changelog": "https://eljoker63.github.io/repo-magisk/modules/oneplus-9-9pro-camera-unlocker/v1.2_1200.md"
       }
     },
     {
@@ -1302,8 +1302,8 @@
       "description": "This module replaces the necessary camera libraries with modified ones which fix the Dotted Pattern Overlay issue, Front Camera HDR-Enhanced as well as Portrait Mode using the Google Camera Mod on the OnePlus 5/5T",
       "license": "GPL-2.0",
       "states": {
-        "zipUrl": "https://eljoker63.github.io/magisk-repo/modules/oneplusdotfix/v6.3_6300.zip",
-        "changelog": "https://eljoker63.github.io/magisk-repo/modules/oneplusdotfix/v6.3_6300.md"
+        "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/oneplusdotfix/v6.3_6300.zip",
+        "changelog": "https://eljoker63.github.io/repo-magisk/modules/oneplusdotfix/v6.3_6300.md"
       }
     },
     {
@@ -1315,7 +1315,7 @@
       "description": " Adjust device parameters and disable Android logs for optimal performance in daily use.",
       "license": "free",
       "states": {
-        "zipUrl": "https://eljoker63.github.io/magisk-repo/modules/onfiretweaks/v1.9_19.zip",
+        "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/onfiretweaks/v1.9_19.zip",
         "changelog": ""
       }
     },
@@ -1328,8 +1328,8 @@
       "description": "Open Fonts change your system fonts",
       "license": "GPL-3.0",
       "states": {
-        "zipUrl": "https://eljoker63.github.io/magisk-repo/modules/open_fonts/3.1.1_119.zip",
-        "changelog": "https://eljoker63.github.io/magisk-repo/modules/open_fonts/3.1.1_119.md"
+        "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/open_fonts/3.1.1_119.zip",
+        "changelog": "https://eljoker63.github.io/repo-magisk/modules/open_fonts/3.1.1_119.md"
       }
     },
     {
@@ -1341,8 +1341,8 @@
       "description": "Open Webview change your system webview",
       "license": "GPL-3.0",
       "states": {
-        "zipUrl": "https://eljoker63.github.io/magisk-repo/modules/open_webview/2.1.0_104.zip",
-        "changelog": "https://eljoker63.github.io/magisk-repo/modules/open_webview/2.1.0_104.md"
+        "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/open_webview/2.1.0_104.zip",
+        "changelog": "https://eljoker63.github.io/repo-magisk/modules/open_webview/2.1.0_104.md"
       }
     },
     {
@@ -1354,7 +1354,7 @@
       "description": "Remap the Google Assistant Button as a camera button.",
       "license": "MIT",
       "states": {
-        "zipUrl": "https://eljoker63.github.io/magisk-repo/modules/pdx213_assistant_camera_remap/v1.2_1.zip",
+        "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/pdx213_assistant_camera_remap/v1.2_1.zip",
         "changelog": ""
       }
     },
@@ -1367,7 +1367,7 @@
       "description": "This module adds a setting to Wi-Fi, the purpose of this change is to reduce the number of wake ups in standby after WiFi is turned on and disable logs for save battery. @modulostk [telegram]",
       "license": "free",
       "states": {
-        "zipUrl": "https://eljoker63.github.io/magisk-repo/modules/qcom_rx_wakelock/v3_3.zip",
+        "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/qcom_rx_wakelock/v3_3.zip",
         "changelog": ""
       }
     },
@@ -1380,7 +1380,7 @@
       "description": " Qualcomm Download (QDL) is open source flashtool that implements the Qualcomm Sahara and Firehose protocols, and can be used for program (or unbrick) MSM based devices. This static binary support multi architectures built with the NDK",
       "license": "free",
       "states": {
-        "zipUrl": "https://eljoker63.github.io/magisk-repo/modules/qdl-ndk/v1.0_20220806.zip",
+        "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/qdl-ndk/v1.0_20220806.zip",
         "changelog": ""
       }
     },
@@ -1393,7 +1393,7 @@
       "description": "Only for ColorOS, realmeUI. Other models are not allowed!",
       "license": "free",
       "states": {
-        "zipUrl": "https://eljoker63.github.io/magisk-repo/modules/remove_coloros_lanshuai/1.6_17.zip",
+        "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/remove_coloros_lanshuai/1.6_17.zip",
         "changelog": ""
       }
     },
@@ -1406,7 +1406,7 @@
       "description": "Another enhanced implementation of Xposed Framework. Supports Android 8.1 ~ 13. Requires Riru 25.0.1 or above installed.",
       "license": "free",
       "states": {
-        "zipUrl": "https://eljoker63.github.io/magisk-repo/modules/riru_lsposed/v1.8.6_6715.zip",
+        "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/riru_lsposed/v1.8.6_6715.zip",
         "changelog": ""
       }
     },
@@ -1419,7 +1419,7 @@
       "description": "A universal fix for SafetyNet and Play Integrity API on Android 8\u201313 devices with hardware attestation.",
       "license": "free",
       "states": {
-        "zipUrl": "https://eljoker63.github.io/magisk-repo/modules/safetynet-fix/v2.4.0-MOD_2.0_24020.zip",
+        "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/safetynet-fix/v2.4.0-MOD_2.0_24020.zip",
         "changelog": ""
       }
     },
@@ -1432,7 +1432,7 @@
       "description": "Increase the saturation of the panel to 2x.",
       "license": "GPL-3.0",
       "states": {
-        "zipUrl": "https://eljoker63.github.io/magisk-repo/modules/saturation/v1.1_2.zip",
+        "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/saturation/v1.1_2.zip",
         "changelog": ""
       }
     },
@@ -1445,8 +1445,8 @@
       "description": "Change Your Selinux Mode",
       "license": "MIT",
       "states": {
-        "zipUrl": "https://eljoker63.github.io/magisk-repo/modules/selinux_mode/2.6.2_262.zip",
-        "changelog": "https://eljoker63.github.io/magisk-repo/modules/selinux_mode/2.6.2_262.md"
+        "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/selinux_mode/2.6.2_262.zip",
+        "changelog": "https://eljoker63.github.io/repo-magisk/modules/selinux_mode/2.6.2_262.md"
       }
     },
     {
@@ -1458,7 +1458,7 @@
       "description": "Reset sensitive properties to safe state and try to bypass Safetynet / Play Integrity",
       "license": "GPL-3.0",
       "states": {
-        "zipUrl": "https://eljoker63.github.io/magisk-repo/modules/sensitive_props/v3_3.zip",
+        "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/sensitive_props/v3_3.zip",
         "changelog": ""
       }
     },
@@ -1471,7 +1471,7 @@
       "description": "Enables SkiaGL more info go to: @modifyport",
       "license": "free",
       "states": {
-        "zipUrl": "https://eljoker63.github.io/magisk-repo/modules/skiagloptimization/v2-EOL_1.zip",
+        "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/skiagloptimization/v2-EOL_1.zip",
         "changelog": ""
       }
     },
@@ -1484,8 +1484,8 @@
       "description": "Replace the SUPL (Secure User-Plane Location) provider in Android's gps.conf.",
       "license": "BSD-3-Clause",
       "states": {
-        "zipUrl": "https://eljoker63.github.io/magisk-repo/modules/supl-replacer/v2.2.1_5.zip",
-        "changelog": "https://eljoker63.github.io/magisk-repo/modules/supl-replacer/v2.2.1_5.md"
+        "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/supl-replacer/v2.2.1_5.zip",
+        "changelog": "https://eljoker63.github.io/repo-magisk/modules/supl-replacer/v2.2.1_5.md"
       }
     },
     {
@@ -1497,7 +1497,7 @@
       "description": "Universal compressed-memory swap (zram, etc etc) destroyer - run faster and more reliably ",
       "license": "free",
       "states": {
-        "zipUrl": "https://eljoker63.github.io/magisk-repo/modules/swaptorpedo/v1.1_2.zip",
+        "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/swaptorpedo/v1.1_2.zip",
         "changelog": ""
       }
     },
@@ -1510,7 +1510,7 @@
       "description": "A Magisk Module that aims to stop SystemUI from bootlooping.",
       "license": "GPL-3.0",
       "states": {
-        "zipUrl": "https://eljoker63.github.io/magisk-repo/modules/systemui-bootloop/v1.0.0_100.zip",
+        "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/systemui-bootloop/v1.0.0_100.zip",
         "changelog": ""
       }
     },
@@ -1523,7 +1523,7 @@
       "description": "Remove the outdated TrichromeLibrary after reboot | \u91cd\u542f\u540e\u79fb\u9664\u8fc7\u65f6\u7684 TrichromeLibrary",
       "license": "MIT",
       "states": {
-        "zipUrl": "https://eljoker63.github.io/magisk-repo/modules/trichromelibrary-squoosh/v1.4_20220623.zip",
+        "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/trichromelibrary-squoosh/v1.4_20220623.zip",
         "changelog": ""
       }
     },
@@ -1536,7 +1536,7 @@
       "description": "Changes your system emoji to Twemoji!",
       "license": "MIT",
       "states": {
-        "zipUrl": "https://eljoker63.github.io/magisk-repo/modules/ttf-twemoji/v14.0.3_1403.zip",
+        "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/ttf-twemoji/v14.0.3_1403.zip",
         "changelog": ""
       }
     },
@@ -1549,7 +1549,7 @@
       "description": "Mejora el rendimiento de Call of Duty Mobile, Genshin Impact y otros juegos de motor Unity \u2022 Improves the performance of Call of Duty Mobile, Genshin Impact and other Unity engine games",
       "license": "free",
       "states": {
-        "zipUrl": "https://eljoker63.github.io/magisk-repo/modules/unityfix/5.0_5.zip",
+        "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/unityfix/5.0_5.zip",
         "changelog": ""
       }
     },
@@ -1562,7 +1562,7 @@
       "description": "Patches Google Play services app and its background processes to be able to use battery optimizations",
       "license": "free",
       "states": {
-        "zipUrl": "https://eljoker63.github.io/magisk-repo/modules/universal-gms-doze/1.8.8_188.zip",
+        "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/universal-gms-doze/1.8.8_188.zip",
         "changelog": ""
       }
     },
@@ -1575,7 +1575,7 @@
       "description": " UPX (Ultimate Packer for Executables) is a free and open source executable packer supporting a number of file formats from different operating systems . This static binary support multi architectures built with the NDK",
       "license": "free",
       "states": {
-        "zipUrl": "https://eljoker63.github.io/magisk-repo/modules/upx-ndk/v3.96_396.zip",
+        "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/upx-ndk/v3.96_396.zip",
         "changelog": ""
       }
     },
@@ -1588,8 +1588,8 @@
       "description": "USB (HAL) audio class drivers have a limiter of sample rates at 96kHz. This mod unlocks the limiter.",
       "license": "AGPL-3.0",
       "states": {
-        "zipUrl": "https://eljoker63.github.io/magisk-repo/modules/usb-samplerate-unlocker/v1.5.1_1501.zip",
-        "changelog": "https://eljoker63.github.io/magisk-repo/modules/usb-samplerate-unlocker/v1.5.1_1501.md"
+        "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/usb-samplerate-unlocker/v1.5.1_1501.zip",
+        "changelog": "https://eljoker63.github.io/repo-magisk/modules/usb-samplerate-unlocker/v1.5.1_1501.md"
       }
     },
     {
@@ -1601,7 +1601,7 @@
       "description": "Disable HAL and Kernel config checks on boot.",
       "license": "GPL-3.0",
       "states": {
-        "zipUrl": "https://eljoker63.github.io/magisk-repo/modules/vintf-bypass/v1.1_2.zip",
+        "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/vintf-bypass/v1.1_2.zip",
         "changelog": ""
       }
     },
@@ -1614,7 +1614,7 @@
       "description": "fbind is a versatile mounting utility for folders, disk images, LUKS/LUKS2 encrypted volumes, regular partitions and more.",
       "license": "GPL-3.0",
       "states": {
-        "zipUrl": "https://eljoker63.github.io/magisk-repo/modules/fbind/v2021.12.6_202112060.zip",
+        "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/fbind/v2021.12.6_202112060.zip",
         "changelog": ""
       }
     },
@@ -1627,7 +1627,7 @@
       "description": "Friendly and fast tool for sending HTTP requests",
       "license": "MIT",
       "states": {
-        "zipUrl": "https://eljoker63.github.io/magisk-repo/modules/xhhttp/v0.18.0_180.zip",
+        "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/xhhttp/v0.18.0_180.zip",
         "changelog": ""
       }
     },
@@ -1640,7 +1640,7 @@
       "description": "YouTube Music ReVanced repacked by HuskyDG. Require Magisk Process Monitor tool v2.1+ for Dynamic Mount",
       "license": "free",
       "states": {
-        "zipUrl": "https://eljoker63.github.io/magisk-repo/modules/ytmusic_revancedinject/5.38.53_2.zip",
+        "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/ytmusic_revancedinject/5.38.53_2.zip",
         "changelog": ""
       }
     },
@@ -1653,7 +1653,7 @@
       "description": "YouTube ReVanced repacked by HuskyDG. Require Magisk Process Monitor tool v2.1+ for Dynamic Mount",
       "license": "free",
       "states": {
-        "zipUrl": "https://eljoker63.github.io/magisk-repo/modules/ytrevancedinject/18.01.36_4.zip",
+        "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/ytrevancedinject/18.01.36_4.zip",
         "changelog": ""
       }
     },
@@ -1666,7 +1666,7 @@
       "versionCode": 202307170,
       "license": "GPL-3.0",
       "states": {
-        "zipUrl": "https://eljoker63.github.io/magisk-repo/modules/zram-swap-manager/v2023.7.17_202307170.zip",
+        "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/zram-swap-manager/v2023.7.17_202307170.zip",
         "changelog": ""
       }
     },
@@ -1679,7 +1679,7 @@
       "description": "Provide hooks for Cleaner. Requires Magisk 24.0+ and Zygisk enabled.",
       "license": "free",
       "states": {
-        "zipUrl": "https://eljoker63.github.io/magisk-repo/modules/zygisk_cleanerhooks/v1.6_1156.zip",
+        "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/zygisk_cleanerhooks/v1.6_1156.zip",
         "changelog": ""
       }
     }

@@ -6,15 +6,15 @@
       "timestamp": 1678041567.0,
       "version": "1.0.6",
       "versionCode": 106,
-      "zipUrl": "https://eljoker63.github.io/magisk-repo/modules/ToyBox-Ext/1.0.6_106.zip",
-      "changelog": "https://eljoker63.github.io/magisk-repo/modules/ToyBox-Ext/1.0.6_106.md"
+      "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/ToyBox-Ext/1.0.6_106.zip",
+      "changelog": "https://eljoker63.github.io/repo-magisk/modules/ToyBox-Ext/1.0.6_106.md"
     },
     {
       "timestamp": 1686000966.0,
       "version": "1.0.8",
       "versionCode": 108,
-      "zipUrl": "https://eljoker63.github.io/magisk-repo/modules/ToyBox-Ext/1.0.8_108.zip",
-      "changelog": "https://eljoker63.github.io/magisk-repo/modules/ToyBox-Ext/1.0.8_108.md"
+      "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/ToyBox-Ext/1.0.8_108.zip",
+      "changelog": "https://eljoker63.github.io/repo-magisk/modules/ToyBox-Ext/1.0.8_108.md"
     }
   ]
 }

@@ -5,14 +5,14 @@
       "timestamp": 1690223563.3376715,
       "version": "v3",
       "versionCode": 3,
-      "zipUrl": "https://eljoker63.github.io/magisk-repo/modules/qcom_rx_wakelock/v3_3.zip",
+      "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/qcom_rx_wakelock/v3_3.zip",
       "changelog": ""
     },
     {
       "timestamp": 1690223567.128695,
       "version": "v1.2",
       "versionCode": 1,
-      "zipUrl": "https://eljoker63.github.io/magisk-repo/modules/qcom_rx_wakelock/v1.2_1.zip",
+      "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/qcom_rx_wakelock/v1.2_1.zip",
       "changelog": ""
     }
   ],

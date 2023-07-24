@@ -6,15 +6,15 @@
       "timestamp": 1654345622.0,
       "version": "v2022.6.4",
       "versionCode": 202206040,
-      "zipUrl": "https://eljoker63.github.io/magisk-repo/modules/acc/v2022.6.4_202206040.zip",
-      "changelog": "https://eljoker63.github.io/magisk-repo/modules/acc/v2022.6.4_202206040.md"
+      "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/acc/v2022.6.4_202206040.zip",
+      "changelog": "https://eljoker63.github.io/repo-magisk/modules/acc/v2022.6.4_202206040.md"
     },
     {
       "timestamp": 1687760775.0,
       "version": "v2023.6.26",
       "versionCode": 202306260,
-      "zipUrl": "https://eljoker63.github.io/magisk-repo/modules/acc/v2023.6.26_202306260.zip",
-      "changelog": "https://eljoker63.github.io/magisk-repo/modules/acc/v2023.6.26_202306260.md"
+      "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/acc/v2023.6.26_202306260.zip",
+      "changelog": "https://eljoker63.github.io/repo-magisk/modules/acc/v2023.6.26_202306260.md"
     }
   ]
 }

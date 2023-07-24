@@ -1,10 +1,10 @@
 
 - This repository stores modules for [MRepo](https://github.com/ya0211/MRepo).
-- This is not an officially supported [AEware Repo Magisk Modules](https://eljoker63.github.io/magisk-repo).
+- This is not an officially supported [AEware Repo Magisk Modules](https://eljoker63.github.io/repo-magisk).
 
 ## Use in MRepo
 ```
-https://eljoker63.github.io/magisk-repo/
+https://eljoker63.github.io/repo-magisk/
 ```
 
 ## How to update?

@@ -6,22 +6,22 @@
       "timestamp": 1680505721.0,
       "version": "v1.4.1",
       "versionCode": 1401,
-      "zipUrl": "https://eljoker63.github.io/magisk-repo/modules/usb-samplerate-unlocker/v1.4.1_1401.zip",
+      "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/usb-samplerate-unlocker/v1.4.1_1401.zip",
       "changelog": ""
     },
     {
       "timestamp": 1681301324.0,
       "version": "v1.5.0",
       "versionCode": 1500,
-      "zipUrl": "https://eljoker63.github.io/magisk-repo/modules/usb-samplerate-unlocker/v1.5.0_1500.zip",
-      "changelog": "https://eljoker63.github.io/magisk-repo/modules/usb-samplerate-unlocker/v1.5.0_1500.md"
+      "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/usb-samplerate-unlocker/v1.5.0_1500.zip",
+      "changelog": "https://eljoker63.github.io/repo-magisk/modules/usb-samplerate-unlocker/v1.5.0_1500.md"
     },
     {
       "timestamp": 1686569585.0,
       "version": "v1.5.1",
       "versionCode": 1501,
-      "zipUrl": "https://eljoker63.github.io/magisk-repo/modules/usb-samplerate-unlocker/v1.5.1_1501.zip",
-      "changelog": "https://eljoker63.github.io/magisk-repo/modules/usb-samplerate-unlocker/v1.5.1_1501.md"
+      "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/usb-samplerate-unlocker/v1.5.1_1501.zip",
+      "changelog": "https://eljoker63.github.io/repo-magisk/modules/usb-samplerate-unlocker/v1.5.1_1501.md"
     }
   ]
 }
