@@ -1,0 +1,13 @@
+{
+  "id": "SystemlessDebloater",
+  "versions": [
+    {
+      "timestamp": 1683123396.0,
+      "version": "1.5.3",
+      "versionCode": 153,
+      "zipUrl": "https://eljoker63.github.io/magisk-repo/modules/SystemlessDebloater/1.5.3_153.zip",
+      "changelog": "https://eljoker63.github.io/magisk-repo/modules/SystemlessDebloater/1.5.3_153.md"
+    }
+  ],
+  "timestamp": 1683123396.0
+}

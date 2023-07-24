@@ -1,0 +1,13 @@
+{
+  "id": "supl-replacer",
+  "versions": [
+    {
+      "timestamp": 1678882493.0,
+      "version": "v2.2.1",
+      "versionCode": 5,
+      "zipUrl": "https://eljoker63.github.io/magisk-repo/modules/supl-replacer/v2.2.1_5.zip",
+      "changelog": "https://eljoker63.github.io/magisk-repo/modules/supl-replacer/v2.2.1_5.md"
+    }
+  ],
+  "timestamp": 1678882493.0
+}

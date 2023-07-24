@@ -1,0 +1,13 @@
+{
+  "id": "open_fonts",
+  "versions": [
+    {
+      "timestamp": 1682263480.0,
+      "version": "3.1.1",
+      "versionCode": 119,
+      "zipUrl": "https://eljoker63.github.io/magisk-repo/modules/open_fonts/3.1.1_119.zip",
+      "changelog": "https://eljoker63.github.io/magisk-repo/modules/open_fonts/3.1.1_119.md"
+    }
+  ],
+  "timestamp": 1682263480.0
+}

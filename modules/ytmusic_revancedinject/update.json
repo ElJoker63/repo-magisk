@@ -1,0 +1,13 @@
+{
+  "id": "ytmusic_revancedinject",
+  "versions": [
+    {
+      "timestamp": 1673338863.0,
+      "version": "5.38.53",
+      "versionCode": 2,
+      "zipUrl": "https://eljoker63.github.io/magisk-repo/modules/ytmusic_revancedinject/5.38.53_2.zip",
+      "changelog": ""
+    }
+  ],
+  "timestamp": 1673338863.0
+}

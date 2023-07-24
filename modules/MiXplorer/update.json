@@ -1,0 +1,13 @@
+{
+  "id": "MiXplorer",
+  "versions": [
+    {
+      "timestamp": 1685699391.0,
+      "version": "v6.63.1_B23042510",
+      "versionCode": 29,
+      "zipUrl": "https://eljoker63.github.io/magisk-repo/modules/MiXplorer/v6.63.1_B23042510_29.zip",
+      "changelog": ""
+    }
+  ],
+  "timestamp": 1685699391.0
+}

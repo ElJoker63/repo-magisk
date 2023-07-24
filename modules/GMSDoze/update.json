@@ -1,0 +1,13 @@
+{
+  "id": "GMSDoze",
+  "versions": [
+    {
+      "timestamp": 1683468066.0,
+      "version": "v1.4A",
+      "versionCode": 140,
+      "zipUrl": "https://eljoker63.github.io/magisk-repo/modules/GMSDoze/v1.4A_140.zip",
+      "changelog": "https://eljoker63.github.io/magisk-repo/modules/GMSDoze/v1.4A_140.md"
+    }
+  ],
+  "timestamp": 1683468066.0
+}

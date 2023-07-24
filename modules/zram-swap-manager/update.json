@@ -1,0 +1,13 @@
+{
+  "id": "zram-swap-manager",
+  "versions": [
+    {
+      "timestamp": 1690060098.0,
+      "version": "v2023.7.17",
+      "versionCode": 202307170,
+      "zipUrl": "https://eljoker63.github.io/magisk-repo/modules/zram-swap-manager/v2023.7.17_202307170.zip",
+      "changelog": ""
+    }
+  ],
+  "timestamp": 1690060098.0
+}

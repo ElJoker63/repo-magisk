@@ -1,0 +1,13 @@
+{
+  "id": "MacRandomizationEnabler",
+  "versions": [
+    {
+      "timestamp": 1598109398.0,
+      "version": "v1",
+      "versionCode": 1,
+      "zipUrl": "https://eljoker63.github.io/magisk-repo/modules/MacRandomizationEnabler/v1_1.zip",
+      "changelog": ""
+    }
+  ],
+  "timestamp": 1598109398.0
+}

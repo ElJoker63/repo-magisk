@@ -1,0 +1,8 @@
+{
+  "id": "qcom_rx_wakelock",
+  "update_to": "Wifi Bonding Battery Saver v3 @modulostk.zip",
+  "license": "free",
+  "added": 1690225414.844623,
+  "last_update": 1690223567.128695,
+  "versions": 2
+}

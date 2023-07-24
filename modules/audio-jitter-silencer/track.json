@@ -1,0 +1,9 @@
+{
+  "id": "audio-jitter-silencer",
+  "update_to": "https://github.com/Magisk-Modules-Alt-Repo/audio-jitter-silencer.git",
+  "license": "AGPL-3.0",
+  "changelog": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/audio-jitter-silencer/main/changelog.md",
+  "added": 1680541846.392866,
+  "last_update": 1687682273.0,
+  "versions": 3
+}

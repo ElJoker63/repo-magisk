@@ -1,0 +1,9 @@
+{
+  "id": "magisk_overlayfs",
+  "update_to": "https://github.com/Magisk-Modules-Alt-Repo/magisk_overlayfs.git",
+  "license": "free",
+  "changelog": "",
+  "added": 1686562396.873108,
+  "last_update": 1686805349.0,
+  "versions": 1
+}

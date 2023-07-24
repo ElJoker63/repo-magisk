@@ -1,0 +1,13 @@
+{
+  "id": "font-mejiro-oshi",
+  "versions": [
+    {
+      "timestamp": 1677543320.0,
+      "version": "v19",
+      "versionCode": 19,
+      "zipUrl": "https://eljoker63.github.io/magisk-repo/modules/magisk-module-mejiro-font/v19_19.zip",
+      "changelog": "https://eljoker63.github.io/magisk-repo/modules/magisk-module-mejiro-font/v19_19.md"
+    }
+  ],
+  "timestamp": 1677543320.0
+}

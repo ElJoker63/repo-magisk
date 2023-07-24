@@ -1,0 +1,13 @@
+{
+  "id": "BraviaEngine",
+  "versions": [
+    {
+      "timestamp": 1644775126.0,
+      "version": "v4.0.4",
+      "versionCode": 4,
+      "zipUrl": "https://eljoker63.github.io/magisk-repo/modules/BraviaEngine/v4.0.4_4.zip",
+      "changelog": ""
+    }
+  ],
+  "timestamp": 1644775126.0
+}

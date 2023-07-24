@@ -1,0 +1,9 @@
+{
+  "id": "adb-ndk",
+  "update_to": "https://raw.githubusercontent.com/Magisk-Modules-Repo/adb-ndk/master/update.json",
+  "license": "free",
+  "changelog": "",
+  "added": 1679025505.129431,
+  "last_update": 1690201704.0,
+  "versions": 1
+}

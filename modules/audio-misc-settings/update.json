@@ -1,0 +1,13 @@
+{
+  "id": "audio-misc-settings",
+  "versions": [
+    {
+      "timestamp": 1688751967.0,
+      "version": "v1.3.3",
+      "versionCode": 1303,
+      "zipUrl": "https://eljoker63.github.io/magisk-repo/modules/audio-misc-settings/v1.3.3_1303.zip",
+      "changelog": "https://eljoker63.github.io/magisk-repo/modules/audio-misc-settings/v1.3.3_1303.md"
+    }
+  ],
+  "timestamp": 1688751967.0
+}

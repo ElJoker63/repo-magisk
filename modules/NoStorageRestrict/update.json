@@ -1,0 +1,13 @@
+{
+  "id": "NoStorageRestrict",
+  "versions": [
+    {
+      "timestamp": 1679266482.0,
+      "version": "v5",
+      "versionCode": 6,
+      "zipUrl": "https://eljoker63.github.io/magisk-repo/modules/NoStorageRestrict/v5_6.zip",
+      "changelog": ""
+    }
+  ],
+  "timestamp": 1679266482.0
+}

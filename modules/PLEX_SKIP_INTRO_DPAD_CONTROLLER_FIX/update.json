@@ -1,0 +1,13 @@
+{
+  "id": "PLEX_SKIP_INTRO_DPAD_CONTROLLER_FIX",
+  "versions": [
+    {
+      "timestamp": 1645367235.0,
+      "version": "v1",
+      "versionCode": 1,
+      "zipUrl": "https://eljoker63.github.io/magisk-repo/modules/PLEX_SKIP_INTRO_DPAD_CONTROLLER_FIX/v1_1.zip",
+      "changelog": ""
+    }
+  ],
+  "timestamp": 1645367235.0
+}

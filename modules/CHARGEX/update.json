@@ -1,0 +1,13 @@
+{
+  "id": "CHARGEX",
+  "versions": [
+    {
+      "timestamp": 1690218703.4945326,
+      "version": "v1.0",
+      "versionCode": 1,
+      "zipUrl": "https://eljoker63.github.io/magisk-repo/modules/CHARGEX/v1.0_1.zip",
+      "changelog": ""
+    }
+  ],
+  "timestamp": 1690218703.4945326
+}

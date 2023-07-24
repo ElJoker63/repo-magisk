@@ -1,0 +1,13 @@
+{
+  "id": "custom-certificate-authorities",
+  "versions": [
+    {
+      "timestamp": 1644751003.0,
+      "version": "v1.0.1",
+      "versionCode": 101,
+      "zipUrl": "https://eljoker63.github.io/magisk-repo/modules/custom-certificate-authorities/v1.0.1_101.zip",
+      "changelog": ""
+    }
+  ],
+  "timestamp": 1644751003.0
+}

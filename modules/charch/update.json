@@ -1,0 +1,13 @@
+{
+  "id": "charch",
+  "versions": [
+    {
+      "timestamp": 1638831717.0,
+      "version": "v1.0",
+      "versionCode": 1,
+      "zipUrl": "https://eljoker63.github.io/magisk-repo/modules/charch/v1.0_1.zip",
+      "changelog": ""
+    }
+  ],
+  "timestamp": 1638831717.0
+}

@@ -1,0 +1,20 @@
+{
+  "id": "SideslideCool",
+  "versions": [
+    {
+      "timestamp": 1690223597.162904,
+      "version": "v2.2",
+      "versionCode": 2,
+      "zipUrl": "https://eljoker63.github.io/magisk-repo/modules/SideslideCool/v2.2_2.zip",
+      "changelog": ""
+    },
+    {
+      "timestamp": 1690223597.839723,
+      "version": "v2.1",
+      "versionCode": 1,
+      "zipUrl": "https://eljoker63.github.io/magisk-repo/modules/SideslideCool/v2.1_1.zip",
+      "changelog": ""
+    }
+  ],
+  "timestamp": 1690223597.839723
+}

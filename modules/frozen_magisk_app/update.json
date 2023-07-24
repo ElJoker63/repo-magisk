@@ -1,0 +1,13 @@
+{
+  "id": "frozen_magisk_app",
+  "versions": [
+    {
+      "timestamp": 1673245267.0,
+      "version": "1.2",
+      "versionCode": 3,
+      "zipUrl": "https://eljoker63.github.io/magisk-repo/modules/frozen_magisk_app/1.2_3.zip",
+      "changelog": ""
+    }
+  ],
+  "timestamp": 1673245267.0
+}

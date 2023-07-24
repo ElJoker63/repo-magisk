@@ -1,0 +1,13 @@
+{
+  "id": "backup",
+  "versions": [
+    {
+      "timestamp": 1599015487.0,
+      "version": "v1.0",
+      "versionCode": 1,
+      "zipUrl": "https://eljoker63.github.io/magisk-repo/modules/backup/v1.0_1.zip",
+      "changelog": ""
+    }
+  ],
+  "timestamp": 1599015487.0
+}

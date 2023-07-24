@@ -1,0 +1,13 @@
+{
+  "id": "YAKT",
+  "timestamp": 1679349492.0,
+  "versions": [
+    {
+      "timestamp": 1679349492.0,
+      "version": "v7",
+      "versionCode": 1,
+      "zipUrl": "https://eljoker63.github.io/magisk-repo/modules/YAKT/v7_1.zip",
+      "changelog": ""
+    }
+  ]
+}

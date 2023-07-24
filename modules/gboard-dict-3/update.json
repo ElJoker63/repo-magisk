@@ -1,0 +1,13 @@
+{
+  "id": "gboard-dict-3",
+  "versions": [
+    {
+      "timestamp": 1652409636.0,
+      "version": "v2.1.1",
+      "versionCode": 20220513,
+      "zipUrl": "https://eljoker63.github.io/magisk-repo/modules/gboard-dict-3/v2.1.1_20220513.zip",
+      "changelog": "https://eljoker63.github.io/magisk-repo/modules/gboard-dict-3/v2.1.1_20220513.md"
+    }
+  ],
+  "timestamp": 1652409636.0
+}

@@ -1,0 +1,13 @@
+{
+  "id": "ezme-nodebug",
+  "versions": [
+    {
+      "timestamp": 1663012287.0,
+      "version": "v1",
+      "versionCode": 1000,
+      "zipUrl": "https://eljoker63.github.io/magisk-repo/modules/ezme-nodebug/v1_1000.zip",
+      "changelog": ""
+    }
+  ],
+  "timestamp": 1663012287.0
+}

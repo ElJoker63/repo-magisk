@@ -1,0 +1,13 @@
+{
+  "id": "Reducemiui",
+  "versions": [
+    {
+      "timestamp": 1690223592.7402167,
+      "version": "3.2",
+      "versionCode": 32,
+      "zipUrl": "https://eljoker63.github.io/magisk-repo/modules/Reducemiui/3.2_32.zip",
+      "changelog": ""
+    }
+  ],
+  "timestamp": 1690223592.7402167
+}

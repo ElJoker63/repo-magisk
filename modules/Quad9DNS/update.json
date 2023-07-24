@@ -1,0 +1,13 @@
+{
+  "id": "Quad9DNS",
+  "versions": [
+    {
+      "timestamp": 1690218893.332086,
+      "version": "v1",
+      "versionCode": 1,
+      "zipUrl": "https://eljoker63.github.io/magisk-repo/modules/Quad9DNS/v1_1.zip",
+      "changelog": ""
+    }
+  ],
+  "timestamp": 1690218893.332086
+}

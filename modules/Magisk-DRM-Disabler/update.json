@@ -1,0 +1,13 @@
+{
+  "id": "magisk-drm-disabler",
+  "versions": [
+    {
+      "timestamp": 1612778235.0,
+      "version": "v1.3.1",
+      "versionCode": 131,
+      "zipUrl": "https://eljoker63.github.io/magisk-repo/modules/magisk-drm-disabler/v1.3.1_131.zip",
+      "changelog": ""
+    }
+  ],
+  "timestamp": 1612778235.0
+}

@@ -1,0 +1,13 @@
+{
+  "id": "GPUTurboBoost",
+  "versions": [
+    {
+      "timestamp": 1690218885.8449538,
+      "version": "6.2",
+      "versionCode": 620,
+      "zipUrl": "https://eljoker63.github.io/magisk-repo/modules/GPUTurboBoost/6.2_620.zip",
+      "changelog": ""
+    }
+  ],
+  "timestamp": 1690218885.8449538
+}

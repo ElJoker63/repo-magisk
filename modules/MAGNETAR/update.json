@@ -1,0 +1,13 @@
+{
+  "id": "MAGNETAR",
+  "versions": [
+    {
+      "timestamp": 1690218706.9075272,
+      "version": "19.2.0 (UNIFORM)",
+      "versionCode": 190200,
+      "zipUrl": "https://eljoker63.github.io/magisk-repo/modules/MAGNETAR/19.2.0_UNIFORM_190200.zip",
+      "changelog": ""
+    }
+  ],
+  "timestamp": 1690218706.9075272
+}

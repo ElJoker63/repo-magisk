@@ -1,0 +1,13 @@
+{
+  "id": "Atmos",
+  "versions": [
+    {
+      "timestamp": 1690218654.8440053,
+      "version": "v2.13",
+      "versionCode": 23,
+      "zipUrl": "https://eljoker63.github.io/magisk-repo/modules/Atmos/v2.13_23.zip",
+      "changelog": ""
+    }
+  ],
+  "timestamp": 1690218654.8440053
+}

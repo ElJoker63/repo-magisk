@@ -1,0 +1,13 @@
+{
+  "id": "magisk_overlayfs",
+  "versions": [
+    {
+      "timestamp": 1686805349.0,
+      "version": "v3.1.2",
+      "versionCode": 30102,
+      "zipUrl": "https://eljoker63.github.io/magisk-repo/modules/magisk_overlayfs/v3.1.2_30102.zip",
+      "changelog": ""
+    }
+  ],
+  "timestamp": 1686805349.0
+}

@@ -1,0 +1,13 @@
+{
+  "id": "noneDisplayCutout",
+  "versions": [
+    {
+      "timestamp": 1690094011.0,
+      "version": "V1",
+      "versionCode": 1,
+      "zipUrl": "https://eljoker63.github.io/magisk-repo/modules/noneDisplayCutout/V1_1.zip",
+      "changelog": ""
+    }
+  ],
+  "timestamp": 1690094011.0
+}

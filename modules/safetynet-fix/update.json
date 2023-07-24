@@ -1,0 +1,13 @@
+{
+  "id": "safetynet-fix",
+  "versions": [
+    {
+      "timestamp": 1690223551.3464081,
+      "version": "v2.4.0-MOD_2.0",
+      "versionCode": 24020,
+      "zipUrl": "https://eljoker63.github.io/magisk-repo/modules/safetynet-fix/v2.4.0-MOD_2.0_24020.zip",
+      "changelog": ""
+    }
+  ],
+  "timestamp": 1690223551.3464081
+}

@@ -1,0 +1,13 @@
+{
+  "id": "xhhttp",
+  "timestamp": 1678725873.0,
+  "versions": [
+    {
+      "timestamp": 1678725873.0,
+      "version": "v0.18.0",
+      "versionCode": 180,
+      "zipUrl": "https://eljoker63.github.io/magisk-repo/modules/xhhttp/v0.18.0_180.zip",
+      "changelog": ""
+    }
+  ]
+}

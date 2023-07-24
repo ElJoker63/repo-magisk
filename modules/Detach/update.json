@@ -1,0 +1,13 @@
+{
+  "id": "Detach",
+  "versions": [
+    {
+      "timestamp": 1645534294.0,
+      "version": "v5.3",
+      "versionCode": 530,
+      "zipUrl": "https://eljoker63.github.io/magisk-repo/modules/Detach/v5.3_530.zip",
+      "changelog": ""
+    }
+  ],
+  "timestamp": 1645534294.0
+}

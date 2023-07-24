@@ -1,0 +1,27 @@
+{
+  "id": "audio-jitter-silencer",
+  "timestamp": 1687682273.0,
+  "versions": [
+    {
+      "timestamp": 1680505886.0,
+      "version": "v1.0.1",
+      "versionCode": 1001,
+      "zipUrl": "https://eljoker63.github.io/magisk-repo/modules/audio-jitter-silencer/v1.0.1_1001.zip",
+      "changelog": ""
+    },
+    {
+      "timestamp": 1681206641.0,
+      "version": "v1.0.2",
+      "versionCode": 1002,
+      "zipUrl": "https://eljoker63.github.io/magisk-repo/modules/audio-jitter-silencer/v1.0.2_1002.zip",
+      "changelog": "https://eljoker63.github.io/magisk-repo/modules/audio-jitter-silencer/v1.0.2_1002.md"
+    },
+    {
+      "timestamp": 1687682273.0,
+      "version": "v1.0.4",
+      "versionCode": 1004,
+      "zipUrl": "https://eljoker63.github.io/magisk-repo/modules/audio-jitter-silencer/v1.0.4_1004.zip",
+      "changelog": "https://eljoker63.github.io/magisk-repo/modules/audio-jitter-silencer/v1.0.4_1004.md"
+    }
+  ]
+}
