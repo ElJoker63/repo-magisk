@@ -488,19 +488,6 @@
       }
     },
     {
-      "id": "MiuiCamera",
-      "name": "MIUICamera",
-      "version": "v2.1 Crimson Vermillion",
-      "versionCode": 21,
-      "author": "Vern Kuato",
-      "description": "MIUI Camera for Redmi 9T, Poco M3, Redmi Note 9 4G, Redmi 9T NFC",
-      "license": "",
-      "states": {
-        "zipUrl": "https://eljoker63.github.io/magisk-repo/modules/MiuiCamera/v2.1_Crimson_Vermillion_21.zip",
-        "changelog": ""
-      }
-    },
-    {
       "id": "MiuiCore",
       "name": "Miui Core",
       "version": "v4.12",
