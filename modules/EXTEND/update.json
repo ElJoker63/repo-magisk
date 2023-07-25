@@ -1,0 +1,13 @@
+{
+  "id": "EXTEND",
+  "versions": [
+    {
+      "timestamp": 1690310068.8944786,
+      "version": "2.5",
+      "versionCode": 25,
+      "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/EXTEND/2.5_25.zip",
+      "changelog": ""
+    }
+  ],
+  "timestamp": 1690310068.8944786
+}

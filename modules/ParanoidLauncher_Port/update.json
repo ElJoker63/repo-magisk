@@ -1,0 +1,13 @@
+{
+  "id": "ParanoidLauncher_Port",
+  "versions": [
+    {
+      "timestamp": 1690309917.2610526,
+      "version": "v1.0",
+      "versionCode": 1,
+      "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/ParanoidLauncher_Port/v1.0_1.zip",
+      "changelog": ""
+    }
+  ],
+  "timestamp": 1690309917.2610526
+}

@@ -1,0 +1,13 @@
+{
+  "id": "gps-opt-boost",
+  "versions": [
+    {
+      "timestamp": 1690309762.3085227,
+      "version": "v1.1",
+      "versionCode": 20,
+      "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/gps-opt-boost/v1.1_20.zip",
+      "changelog": ""
+    }
+  ],
+  "timestamp": 1690309762.3085227
+}

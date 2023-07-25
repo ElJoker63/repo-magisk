@@ -1,0 +1,13 @@
+{
+  "id": "ramphone",
+  "versions": [
+    {
+      "timestamp": 1690310062.5656369,
+      "version": "v15",
+      "versionCode": 15,
+      "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/ramphone/v15_15.zip",
+      "changelog": ""
+    }
+  ],
+  "timestamp": 1690310062.5656369
+}

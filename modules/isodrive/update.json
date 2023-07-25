@@ -7,7 +7,14 @@
       "versionCode": 12,
       "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/isodrive/1.2_12.zip",
       "changelog": ""
+    },
+    {
+      "timestamp": 1690236958.0,
+      "version": "1.3",
+      "versionCode": 13,
+      "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/isodrive/1.3_13.zip",
+      "changelog": ""
     }
   ],
-  "timestamp": 1685695745.0
+  "timestamp": 1690236958.0
 }

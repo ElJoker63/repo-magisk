@@ -1,0 +1,13 @@
+{
+  "id": "snaptweak",
+  "versions": [
+    {
+      "timestamp": 1690310033.5784163,
+      "version": "v10",
+      "versionCode": 10,
+      "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/snaptweak/v10_10.zip",
+      "changelog": ""
+    }
+  ],
+  "timestamp": 1690310033.5784163
+}

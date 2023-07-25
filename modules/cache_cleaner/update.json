@@ -1,0 +1,13 @@
+{
+  "id": "cache_cleaner",
+  "versions": [
+    {
+      "timestamp": 1690309973.1135724,
+      "version": "v1.6-Stable",
+      "versionCode": 8,
+      "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/cache_cleaner/v1.6-Stable_8.zip",
+      "changelog": ""
+    }
+  ],
+  "timestamp": 1690309973.1135724
+}

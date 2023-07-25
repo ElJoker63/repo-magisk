@@ -1,0 +1,13 @@
+{
+  "id": "MiuiCore",
+  "versions": [
+    {
+      "timestamp": 1690200854.872133,
+      "version": "v4.12",
+      "versionCode": 42,
+      "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/MiuiCore/v4.12_42.zip",
+      "changelog": ""
+    }
+  ],
+  "timestamp": 1690200854.872133
+}

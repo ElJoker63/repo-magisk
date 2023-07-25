@@ -1,0 +1,13 @@
+{
+  "id": "YouTube",
+  "versions": [
+    {
+      "timestamp": 1690326755.1477566,
+      "version": "18.27.35",
+      "versionCode": 1,
+      "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/YouTube/18.27.35_1.zip",
+      "changelog": ""
+    }
+  ],
+  "timestamp": 1690326755.1477566
+}

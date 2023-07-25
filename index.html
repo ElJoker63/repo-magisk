@@ -19,7 +19,7 @@
       <div class="caption1 mb-2" id="publishedByText">Creado por <a href="https://t.me/ElJoker63" target="_blank">ElJoker63</a></div>
       LINK DEL REPOSITORIO
         <div class="caption1" id="publishedByText">
-          <a href="https://eljoker63.github.io/repo-magisk/" target="_blank">https://eljoker63.github.io/repo-magisk</a>
+          <a href="https://eljoker63.github.io/magisk-repo/" target="_blank">https://eljoker63.github.io/magisk-repo</a>
         </div>
     </div>
   </div>
@@ -71,20 +71,18 @@
         jsonData.modules.forEach(module => {
           const listItem = document.createElement('span');
           listItem.innerHTML = `
-          <fluent-data-grid-row data-package-name="${module.name}" data-package-id="com.vrchat.udonsharp" role="row" row-type="default" style="grid-template-columns: 1fr 100px 220px; display: grid;" grid-template-columns="1fr 100px 220px">
-            <fluent-data-grid-cell grid-column="1" tabindex="-1" role="gridcell" style="grid-column: 1;" cell-type="default">
-              <div class="col">
-                <div class="packageName">${module.name}</div>
+          <fluent-data-grid-row data-package-name="${module.name}" data-package-id="com.vrchat.udonsharp" role="row" row-type="default">
+            <a href="${module.states.zipUrl}"><fluent-data-grid-cell grid-column="1" role="gridcell" style="grid-column: 1;" cell-type="default">
+                <div class="packageName">${module.name} (${module.version})</div>
                 <div class="caption1">${module.description}</div>
                 <div class="caption2">${module.author}</div>
-              </div>
-            </fluent-data-grid-cell>
-            <fluent-data-grid-cell grid-column="2" class="row align-items-center" tabindex="-1" role="gridcell" style="grid-column: 2;" cell-type="default">
+            </fluent-data-grid-cell></a>
+            <!--fluent-data-grid-cell grid-column="2" class="row align-items-center" tabindex="-1" role="gridcell" style="grid-column: 2;" cell-type="default">
               (${module.version})
-            </fluent-data-grid-cell>
-            <fluent-data-grid-cell grid-column="3" class="row align-items-center justify-content-end" tabindex="-1" role="gridcell" style="grid-column: 3;" cell-type="default">
+            </fluent-data-grid-cell-->
+            <!--fluent-data-grid-cell grid-column="3" class="row align-items-center justify-content-end" tabindex="-1" role="gridcell" style="grid-column: 3;" cell-type="default">
               <a href="${module.states.zipUrl}"><fluent-button appearance="accent" class="rowAddToVccButton accent"  current-value="">Descargar ZIP</fluent-button></a>
-            </fluent-data-grid-cell>`;
+            </fluent-data-grid-cell-->`;
           modulesList.appendChild(listItem);
         });
       })

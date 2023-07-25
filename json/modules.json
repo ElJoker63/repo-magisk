@@ -1,6 +1,6 @@
 {
   "name": "AEware Repo Magisk Modules",
-  "timestamp": 1690230296.852213,
+  "timestamp": 1690327484.915044,
   "metadata": {
     "version": "1.0.0.cbb0d5f",
     "versionCode": 253
@@ -16,6 +16,19 @@
       "license": "GPL-3.0",
       "states": {
         "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/AFWall-Boot-AntiLeak/v1.3_4.zip",
+        "changelog": ""
+      }
+    },
+    {
+      "id": "AIST",
+      "name": "AIST for devices based on Qualcomm",
+      "version": "v1.9",
+      "versionCode": 71,
+      "author": "Oleg_Skalskiy",
+      "description": "This module Improving Audio Quality On Android & System Tweaks (optional).",
+      "license": "free",
+      "states": {
+        "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/AIST/v1.9_71.zip",
         "changelog": ""
       }
     },
@@ -72,6 +85,19 @@
       }
     },
     {
+      "id": "Bootanimation",
+      "name": "Google Bootanimation",
+      "version": "1",
+      "versionCode": 1,
+      "author": "Kingsman44",
+      "description": "Adds Google bootanimation 1080p",
+      "license": "free",
+      "states": {
+        "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/Bootanimation/1_1.zip",
+        "changelog": ""
+      }
+    },
+    {
       "id": "BraviaEngine",
       "name": "Sony Bravia Engine",
       "version": "v4.0.4",
@@ -107,6 +133,19 @@
       "license": "free",
       "states": {
         "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/CHARGEX/v1.0_1.zip",
+        "changelog": ""
+      }
+    },
+    {
+      "id": "Cheetah_Prop",
+      "name": "Pixel 7 Pro (CHEETAH) Prop",
+      "version": "2023-07-05",
+      "versionCode": 230705,
+      "author": "imortal_ginlgo",
+      "description": "Spoof your device to CHEETAH pixel prop Android 14 ",
+      "license": "free",
+      "states": {
+        "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/Cheetah_Prop/2023-07-05_230705.zip",
         "changelog": ""
       }
     },
@@ -202,6 +241,19 @@
       }
     },
     {
+      "id": "EXTEND",
+      "name": "MIUI EXTEND",
+      "version": "2.5",
+      "versionCode": 25,
+      "author": "Minhhai",
+      "description": "T\u1ed1i \u01b0u ho\u00e1 h\u1ec7 th\u1ed1ng v\u00e0 m\u00e1y b\u1ea1n tr\u1edf n\u00ean tr\u01a1n tru",
+      "license": "free",
+      "states": {
+        "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/EXTEND/2.5_25.zip",
+        "changelog": ""
+      }
+    },
+    {
       "id": "EvoMem",
       "name": "Memory Evolution Lite",
       "version": "v3.3.2",
@@ -225,6 +277,19 @@
       "states": {
         "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/Fdroid-Priv/Version_0.2.13_20220314.zip",
         "changelog": "https://eljoker63.github.io/repo-magisk/modules/Fdroid-Priv/Version_0.2.13_20220314.md"
+      }
+    },
+    {
+      "id": "Flipendo",
+      "name": "Flipendo [Extreme Battery Saver]",
+      "version": "v1.0",
+      "versionCode": 1,
+      "author": "\ud835\udc68\ud835\udc8e\ud835\udc93 \ud835\udc6e\ud835\udc82\ud835\udc8e\ud835\udc82\ud835\udc8d \u2765",
+      "description": "Flipendo [Extreme Battery Saver] For A13 Only",
+      "license": "free",
+      "states": {
+        "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/Flipendo/v1.0_1.zip",
+        "changelog": ""
       }
     },
     {
@@ -267,6 +332,19 @@
       }
     },
     {
+      "id": "GPhotoEraser",
+      "name": "G-Photo Eraser",
+      "version": "1.0",
+      "versionCode": 1,
+      "author": "Hafizd",
+      "description": "Enable G-Photo Magic eraser",
+      "license": "free",
+      "states": {
+        "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/GPhotoEraser/1.0_1.zip",
+        "changelog": ""
+      }
+    },
+    {
       "id": "GSNO",
       "name": "GODSPEED NET OPTIMIZER",
       "version": "8",
@@ -276,6 +354,19 @@
       "license": "free",
       "states": {
         "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/GSNO/8_9.zip",
+        "changelog": ""
+      }
+    },
+    {
+      "id": "GameSpace",
+      "name": "GameSpace [risingOS]",
+      "version": "v1.0",
+      "versionCode": 1,
+      "author": "\ud835\udc68\ud835\udc8e\ud835\udc93 \ud835\udc6e\ud835\udc82\ud835\udc8e\ud835\udc82\ud835\udc8d \u2765",
+      "description": "Replace GameSpace From Any Custom Rom To GameSpace [risingOS] A13 Only",
+      "license": "free",
+      "states": {
+        "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/GameSpace/v1.0_1.zip",
         "changelog": ""
       }
     },
@@ -397,6 +488,58 @@
       }
     },
     {
+      "id": "MiuiCamera",
+      "name": "MIUICamera",
+      "version": "v2.1 Crimson Vermillion",
+      "versionCode": 21,
+      "author": "Vern Kuato",
+      "description": "MIUI Camera for Redmi 9T, Poco M3, Redmi Note 9 4G, Redmi 9T NFC",
+      "license": "",
+      "states": {
+        "zipUrl": "https://eljoker63.github.io/magisk-repo/modules/MiuiCamera/v2.1_Crimson_Vermillion_21.zip",
+        "changelog": ""
+      }
+    },
+    {
+      "id": "MiuiCore",
+      "name": "Miui Core",
+      "version": "v4.12",
+      "versionCode": 42,
+      "author": "Rei Ryuki the Fixer",
+      "description": "System core framework library of Miui ROM ported from Xiaomi Mi 9 (cepheus) as a dependency of any Miui app and Magisk Module for any Android 5 and up non-Miui ROM.",
+      "license": "free",
+      "states": {
+        "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/MiuiCore/v4.12_42.zip",
+        "changelog": ""
+      }
+    },
+    {
+      "id": "MiuiSecurity",
+      "name": "Miui Security",
+      "version": "v1.12",
+      "versionCode": 12,
+      "author": "Rei Ryuki the Fixer",
+      "description": "Miui Security app by Xiaomi Inc. ported for any Android 5 and up non-Miui ROM.",
+      "license": "free",
+      "states": {
+        "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/MiuiSecurity/v1.12_12.zip",
+        "changelog": ""
+      }
+    },
+    {
+      "id": "MiuiSettingsMod",
+      "name": "Miui Settings Mod",
+      "version": "v0.3",
+      "versionCode": 3,
+      "author": "Rei Ryuki the Fixer",
+      "description": "Settings app ported from Xiaomi Mi 9 as a dependency of any Miui app & Miui Magisk module for any Android 5 and up non-Miui ROM.",
+      "license": "free",
+      "states": {
+        "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/MiuiSettingsMod/v0.3_3.zip",
+        "changelog": ""
+      }
+    },
+    {
       "id": "NavBar_Resize",
       "name": "36DPI NavBar AOSP",
       "version": "v1.1",
@@ -449,6 +592,19 @@
       }
     },
     {
+      "id": "OctaviLauncher_Port",
+      "name": "Systemless Octavi Launcher Port",
+      "version": "v2.0",
+      "versionCode": 2,
+      "author": "\ud835\udc68\ud835\udc8e\ud835\udc93 \ud835\udc6e\ud835\udc82\ud835\udc8e\ud835\udc82\ud835\udc8d \u2765",
+      "description": "Change your launcher into Octavi Launcher for A13 Only",
+      "license": "free",
+      "states": {
+        "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/OctaviLauncher_Port/v2.0_2.zip",
+        "changelog": ""
+      }
+    },
+    {
       "id": "OneController",
       "name": "1Controller - 1 Module to support all Controllers.",
       "version": "v1.5.2",
@@ -484,6 +640,32 @@
       "license": "free",
       "states": {
         "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/PLEX_SKIP_INTRO_DPAD_CONTROLLER_FIX/v1_1.zip",
+        "changelog": ""
+      }
+    },
+    {
+      "id": "PUIA13Theme",
+      "name": "PUI For A13&A14 Theme",
+      "version": "5.7.1",
+      "versionCode": 5710,
+      "author": "\u5929\u4f1e\u685c",
+      "description": "Support AOSP13-14&Custom Rom A13-14&Pixel A13-14",
+      "license": "free",
+      "states": {
+        "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/PUIA13Theme/5.7.1_5710.zip",
+        "changelog": ""
+      }
+    },
+    {
+      "id": "ParanoidLauncher_Port",
+      "name": "Systemless Paranoid Launcher Port",
+      "version": "v1.0",
+      "versionCode": 1,
+      "author": "\ud835\udc68\ud835\udc8e\ud835\udc93 \ud835\udc6e\ud835\udc82\ud835\udc8e\ud835\udc82\ud835\udc8d \u2765",
+      "description": "Change your launcher into ParanoidLauncher for A13 Only",
+      "license": "free",
+      "states": {
+        "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/ParanoidLauncher_Port/v1.0_1.zip",
         "changelog": ""
       }
     },
@@ -735,6 +917,19 @@
       }
     },
     {
+      "id": "YouTube",
+      "version": "18.27.35",
+      "versionCode": 1,
+      "name": "YouTube Premium",
+      "author": "Anhsnguyetj",
+      "description": "YouTube t\u1ed1t nh\u1ea5t b\u1ea1n c\u00f3 th\u1ec3 bi\u1ebft",
+      "license": "free",
+      "states": {
+        "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/YouTube/18.27.35_1.zip",
+        "changelog": ""
+      }
+    },
+    {
       "id": "acc",
       "name": "Advanced Charging Controller (ACC)",
       "version": "v2023.6.26",
@@ -826,6 +1021,19 @@
       }
     },
     {
+      "id": "cache_cleaner",
+      "name": "Cache Cleaner",
+      "version": "v1.6-Stable",
+      "versionCode": 8,
+      "author": "Taka\ud83c\udf3f",
+      "description": "This module will clean all apps cache automatically if the total cache size is more than 1GB and can be done manually by typing \"su -c cleaner\" in the Terminal.",
+      "license": "free",
+      "states": {
+        "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/cache_cleaner/v1.6-Stable_8.zip",
+        "changelog": ""
+      }
+    },
+    {
       "id": "charch",
       "name": "ChArch",
       "version": "v1.0",
@@ -887,6 +1095,19 @@
       "license": "GPL-3.0",
       "states": {
         "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/cmdpatch/v1.0_1.zip",
+        "changelog": ""
+      }
+    },
+    {
+      "id": "cocon_font_module",
+      "name": "Cocon-Regular",
+      "version": "v1.0",
+      "versionCode": 1,
+      "author": "\ud835\udc68\ud835\udc8e\ud835\udc93 \ud835\udc6e\ud835\udc82\ud835\udc8e\ud835\udc82\ud835\udc8d \u2765",
+      "description": "Cocon Font by \ud835\udc68\ud835\udc8e\ud835\udc93 \ud835\udc6e\ud835\udc82\ud835\udc8e\ud835\udc82\ud835\udc8d \u2765 ( TG @AMRGAMAL1 )",
+      "license": "free",
+      "states": {
+        "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/cocon_font_module/v1.0_1.zip",
         "changelog": ""
       }
     },
@@ -975,7 +1196,7 @@
       "versionCode": 1000,
       "author": "ez-me",
       "description": "Change some props and \"remove\" LineageOS ones",
-      "license": "MIT",
+      "license": "free",
       "states": {
         "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/ezme-nodebug/v1_1000.zip",
         "changelog": ""
@@ -1047,6 +1268,19 @@
       }
     },
     {
+      "id": "gps-opt-boost",
+      "name": "Optimizing & Boosting GPS",
+      "version": "v1.1",
+      "versionCode": 20,
+      "author": "Oleg_Skalskiy",
+      "description": "Optimizing & Boosting GPS ",
+      "license": "free",
+      "states": {
+        "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/gps-opt-boost/v1.1_20.zip",
+        "changelog": ""
+      }
+    },
+    {
       "id": "heimdall-ndk",
       "name": "Heimdall For Android NDK",
       "version": "v2.0.2",
@@ -1089,12 +1323,12 @@
       "id": "isodrive",
       "name": "Isodrive",
       "author": "Marcel Alexandru Nitan",
-      "version": "1.2",
-      "versionCode": 12,
+      "version": "1.3",
+      "versionCode": 13,
       "description": "Use your mobile device to boot Linux distributions/ISO files on your PC",
       "license": "free",
       "states": {
-        "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/isodrive/1.2_12.zip",
+        "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/isodrive/1.3_13.zip",
         "changelog": ""
       }
     },
@@ -1372,6 +1606,19 @@
       }
     },
     {
+      "id": "ramphone",
+      "name": "MASTER RAM | ENCHANTED",
+      "version": "v15",
+      "versionCode": 15,
+      "author": "@Anhsnguyetj",
+      "description": "Qu\u1ea3n l\u00fd \u0111a nhi\u1ec7m , gi\u1eef \u1ee9ng d\u1ee5ng t\u1ed1i \u01b0u ram , d\u1ecbch v\u1ee5 ch\u1ea1y n\u1ec1n t\u1ea5t c\u1ea3 1 c\u00e1ch t\u1ed1t nh\u1ea5t",
+      "license": "free",
+      "states": {
+        "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/ramphone/v15_15.zip",
+        "changelog": ""
+      }
+    },
+    {
       "id": "remove_coloros_lanshuai",
       "name": "Removing ColorOS Negative Optimization",
       "version": "1.6",
@@ -1394,6 +1641,32 @@
       "license": "free",
       "states": {
         "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/riru_lsposed/v1.8.6_6715.zip",
+        "changelog": ""
+      }
+    },
+    {
+      "id": "roidroot",
+      "name": " Android T\u1ed1i \u01b0u ho\u00e1",
+      "version": "v2",
+      "versionCode": 2,
+      "author": "@Anhsnguyetj",
+      "description": " T\u1ed1i \u01b0u thay \u0111\u1ed5i cho android t\u1eeb 10 \u0111\u1ebfn 13",
+      "license": "free",
+      "states": {
+        "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/roidroot/v2_2.zip",
+        "changelog": ""
+      }
+    },
+    {
+      "id": "rvx_yt",
+      "name": "YouTube RVX",
+      "version": "v18.24.37",
+      "versionCode": 182437,
+      "author": "selfmuser",
+      "description": "YouTube(com.google.android.youtube) Revanced Extended Module",
+      "license": "free",
+      "states": {
+        "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/rvx_yt/v18.24.37_182437.zip",
         "changelog": ""
       }
     },
@@ -1463,6 +1736,19 @@
       }
     },
     {
+      "id": "snaptweak",
+      "name": " Snapdragon optimization",
+      "version": "v10",
+      "versionCode": 10,
+      "author": "@Anhsnguyetj",
+      "description": " CPU - GPU - KENNEL SNAPDRAGON OPTIMIZATION",
+      "license": "free",
+      "states": {
+        "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/snaptweak/v10_10.zip",
+        "changelog": ""
+      }
+    },
+    {
       "id": "supl-replacer",
       "name": "A-GPS SUPL replacer",
       "version": "v2.2.1",
@@ -1485,6 +1771,19 @@
       "license": "free",
       "states": {
         "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/swaptorpedo/v1.1_2.zip",
+        "changelog": ""
+      }
+    },
+    {
+      "id": "systemless-hosts-KernelSU-module",
+      "name": "systemless hosts KernelSU module",
+      "version": "v1.0.5",
+      "versionCode": 105,
+      "author": "symbuzzer (avalibeyaz.com/github)",
+      "description": "Required module to use applications such as AdAway on KernelSU",
+      "license": "free",
+      "states": {
+        "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/systemless-hosts-KernelSU-module/v1.0.5_105.zip",
         "changelog": ""
       }
     },

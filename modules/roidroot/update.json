@@ -1,0 +1,13 @@
+{
+  "id": "roidroot",
+  "versions": [
+    {
+      "timestamp": 1690251824.6606405,
+      "version": "v2",
+      "versionCode": 2,
+      "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/roidroot/v2_2.zip",
+      "changelog": ""
+    }
+  ],
+  "timestamp": 1690251824.6606405
+}

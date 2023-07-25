@@ -5,6 +5,10 @@
   * {
     box-sizing: border-box;
   }
+
+  a{
+    text-decoration: none;
+  }
   
   body {
     padding: 0;
@@ -51,17 +55,20 @@
   }
   
   h1 {
+    align-items: center;
     margin-bottom: 0.5rem;
   }
   
   .caption1 {
     font-size: 1rem;
+    text-decoration: none;
     color: var(--neutral-foreground-hover);
   }
   
   .caption2 {
     font-size: 0.8rem;
     margin-top: 0.25rem;
+    text-decoration: none;
     color: var(--neutral-foreground-rest);
   }
   
@@ -83,6 +90,7 @@
     font-size: 1.1rem;
     font-weight: 600;
     margin: 0.25rem 0;
+    text-decoration: none;
   }
   
   .searchBlock {
