@@ -1,0 +1,13 @@
+{
+  "id": "playintegrityfix",
+  "versions": [
+    {
+      "timestamp": 1690328588.7452676,
+      "version": "v4.0",
+      "versionCode": 9,
+      "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/playintegrityfix/v4.0_9.zip",
+      "changelog": ""
+    }
+  ],
+  "timestamp": 1690328588.7452676
+}
