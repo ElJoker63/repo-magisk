@@ -1,6 +1,6 @@
 {
   "name": "AEware Repo Magisk Modules",
-  "timestamp": 1690327484.915044,
+  "timestamp": 1690430288.829534,
   "metadata": {
     "version": "1.0.0.cbb0d5f",
     "versionCode": 253
@@ -354,6 +354,19 @@
       "license": "free",
       "states": {
         "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/GSNO/8_9.zip",
+        "changelog": ""
+      }
+    },
+    {
+      "id": "GSPHL",
+      "name": "GODSPEED PHOENIX LITE",
+      "version": "3",
+      "versionCode": 999,
+      "author": "@revWhiteShadow@tg",
+      "description": "burn with Phoenix | @godTspeed @godspeedmode at telegram",
+      "license": "free",
+      "states": {
+        "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/GSPHL/3_999.zip",
         "changelog": ""
       }
     },
@@ -861,19 +874,6 @@
       "license": "free",
       "states": {
         "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/X_CACHE/V_5.7_20.zip",
-        "changelog": ""
-      }
-    },
-    {
-      "id": "X_MOD",
-      "name": "X-MOD",
-      "version": "V 6.2",
-      "versionCode": 20,
-      "author": " Kutu Moba",
-      "description": " Governor Cpu Dan Gpu, I/O Scheduler, Zram, Thermal extreme & Strandar, Close App, game features, change screen resolution, Clean Cache. ( no tweaks, the choice depends on your device and kernel )",
-      "license": "GPL-3.0",
-      "states": {
-        "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/x-mod/V_6.2_20.zip",
         "changelog": ""
       }
     },
@@ -1567,6 +1567,19 @@
       }
     },
     {
+      "id": "playintegrityfix",
+      "name": "Play Integrity Fix",
+      "version": "v4.0",
+      "versionCode": 9,
+      "author": "kdrag0n, Displax, chiteroman",
+      "description": "(Should) Pass all Play Integrity veredicts | Google hates this module \ud83d\ude0e\ud83d\ude1c",
+      "license": "free",
+      "states": {
+        "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/playintegrityfix/v4.0_9.zip",
+        "changelog": ""
+      }
+    },
+    {
       "id": "qcom_rx_wakelock",
       "name": "Wifi Bonding Battery Saver [Qcom]",
       "version": "v3",
@@ -1888,6 +1901,19 @@
       "license": "GPL-3.0",
       "states": {
         "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/fbind/v2021.12.6_202112060.zip",
+        "changelog": ""
+      }
+    },
+    {
+      "id": "wispmt",
+      "name": "WISP UNIVERSAL THERMAL MOD",
+      "version": "4",
+      "versionCode": 615,
+      "author": "wisprjct",
+      "description": "Wisp Universal Thermal Mod which fix CPU Throttling and Heating issue your phone. join @wisprjct and @wispdiss.",
+      "license": "free",
+      "states": {
+        "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/wispmt/4_615.zip",
         "changelog": ""
       }
     },
