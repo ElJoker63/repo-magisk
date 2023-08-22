@@ -2,7 +2,7 @@
   "name": "AEware Repo Magisk Modules",
   "metadata": {
     "version": 1,
-    "timestamp": 1692690636.092568
+    "timestamp": 1692695045.137175
   },
   "modules": [
     {
@@ -53,6 +53,32 @@
           "version": "v1.9",
           "versionCode": 71,
           "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/AIST/v1.9_71.zip",
+          "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "ANRTM",
+      "name": "ANR Timeout Multiplier",
+      "version": "v0.2",
+      "versionCode": 2,
+      "author": "Rei Ryuki the Fixer",
+      "description": "Increases ANR (Application Not Responding) timeout annoying pops-up in Android 12 and up.",
+      "track": {
+        "type": "GIT",
+        "added": 1692691695.177669,
+        "license": "MIT",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1686282590.0,
+          "version": "v0.2",
+          "versionCode": 2,
+          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/ANRTM/v0.2_2.zip",
           "changelog": ""
         }
       ]
@@ -481,6 +507,58 @@
       ]
     },
     {
+      "id": "DolbyAtmos",
+      "name": "Dolby Atmos Moto G52",
+      "version": "v1.8",
+      "versionCode": 18,
+      "author": "Rei Ryuki the Fixer",
+      "description": "An equalizer global type soundfx ported from Motorola G52 (rhode) for any Android 11 and up, 64 bit architecture.",
+      "track": {
+        "type": "GIT",
+        "added": 1692691452.13209,
+        "license": "MIT",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1687262744.0,
+          "version": "v1.8",
+          "versionCode": 18,
+          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/DolbyAtmos/v1.8_18.zip",
+          "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "DolbyAudio",
+      "name": "Dolby Audio Moto G Pro",
+      "version": "v6.1",
+      "versionCode": 61,
+      "author": "Rei Ryuki the Fixer",
+      "description": "An equalizer global type soundfx ported from Motorola G Pro (sofiap_sprout) for any Android 9 and up, 64 bit architecture.",
+      "track": {
+        "type": "GIT",
+        "added": 1692691347.332125,
+        "license": "MIT",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1687267145.0,
+          "version": "v6.1",
+          "versionCode": 61,
+          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/DolbyAudio/v6.1_61.zip",
+          "changelog": ""
+        }
+      ]
+    },
+    {
       "id": "EXTEND",
       "name": "MIUI EXTEND",
       "version": "2.5",
@@ -696,8 +774,8 @@
       "author": "@revWhiteShadow@tg",
       "description": "FIX PING ISSUE ON ONLINE GAMES AND OPTIMISE NET SPEED",
       "track": {
-        "type": "LOCAL_ZIP",
-        "added": 1690198612.2051804,
+        "type": "GIT",
+        "added": 1690428294.374239,
         "license": "free",
         "homepage": "",
         "source": "",
@@ -706,7 +784,7 @@
       },
       "versions": [
         {
-          "timestamp": 1690198612.2051804,
+          "timestamp": 1692692761.0,
           "version": "8",
           "versionCode": 9,
           "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/GSNO/8_9.zip",
@@ -826,7 +904,7 @@
       "author": "Abacate123",
       "description": "A very simple module to make Greenify work as a privileged app, to achieve a faster hibernation performance, systemlessly.",
       "track": {
-        "type": "GIT",
+        "type": "LOCAL_ZIP",
         "added": 1690223089.037489,
         "license": "free",
         "homepage": "",
@@ -836,7 +914,7 @@
       },
       "versions": [
         {
-          "timestamp": 1690218636.886289,
+          "timestamp": 1690223448.1378932,
           "version": "v4.5.1 (BETA)",
           "versionCode": 72,
           "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/Greenify4Magisk/v4.5.1_BETA_72.zip",
@@ -1152,6 +1230,32 @@
       ]
     },
     {
+      "id": "MotoWaves",
+      "name": "Moto Waves V2 Edge 20 Pro",
+      "version": "v0.3",
+      "versionCode": 3,
+      "author": "Rei Ryuki the Fixer",
+      "description": "An equalizer global type soundfx ported from Motorola Edge 20 Pro (pstar) for any Android 11 and above, architecture arm64 & arm.",
+      "track": {
+        "type": "GIT",
+        "added": 1692691752.517222,
+        "license": "MIT",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1685871448.0,
+          "version": "v0.3",
+          "versionCode": 3,
+          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/MotoWaves/v0.3_3.zip",
+          "changelog": ""
+        }
+      ]
+    },
+    {
       "id": "NavBar_Resize",
       "name": "36DPI NavBar AOSP",
       "version": "v1.1",
@@ -1251,6 +1355,32 @@
           "version": "v5",
           "versionCode": 6,
           "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/NoStorageRestrict/v5_6.zip",
+          "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "OZOAudioCapture",
+      "name": "Nokia OZO Audio Capture OnePlus 9 Pro",
+      "version": "v0.3",
+      "versionCode": 3,
+      "author": "Rei Ryuki the Fixer",
+      "description": "Pre Process type soundfx ported from OnePlus 9 Pro for Android 11 and up. Enhance your audio quality in audio/video recordings.",
+      "track": {
+        "type": "GIT",
+        "added": 1692691803.825671,
+        "license": "MIT",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1684297323.0,
+          "version": "v0.3",
+          "versionCode": 3,
+          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/OZOAudioCapture/v0.3_3.zip",
           "changelog": ""
         }
       ]
@@ -2123,6 +2253,32 @@
       ]
     },
     {
+      "id": "ZRAMSwapConfigurator",
+      "name": "ZRAM Swap Configurator",
+      "version": "v1.15",
+      "versionCode": 15,
+      "author": "Rei Ryuki the Fixer",
+      "description": "Configures your device ZRAM Swap disk.",
+      "track": {
+        "type": "GIT",
+        "added": 1692691917.467656,
+        "license": "MIT",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1684130177.0,
+          "version": "v1.15",
+          "versionCode": 15,
+          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/ZRAMSwapConfigurator/v1.15_15.zip",
+          "changelog": ""
+        }
+      ]
+    },
+    {
       "id": "acc",
       "name": "Advanced Charging Controller (ACC)",
       "version": "v2023.8.19",
@@ -2668,6 +2824,32 @@
           "version": "1.2",
           "versionCode": 3,
           "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/data_isolation_support/1.2_3.zip",
+          "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "diracmisoundfxRemover",
+      "name": "dirac & misoundfx Remover",
+      "version": "v0.2",
+      "versionCode": 2,
+      "author": "Rei Ryuki the Fixer",
+      "description": "Removes dirac & misoundfx and their apps.",
+      "track": {
+        "type": "GIT",
+        "added": 1692691518.757745,
+        "license": "MIT",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1686479799.0,
+          "version": "v0.2",
+          "versionCode": 2,
+          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/diracmisoundfxRemover/v0.2_2.zip",
           "changelog": ""
         }
       ]
