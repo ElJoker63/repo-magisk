@@ -7,6 +7,13 @@
       "versionCode": 1303,
       "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/audio-misc-settings/v1.3.3_1303.zip",
       "changelog": "https://eljoker63.github.io/repo-magisk/modules/audio-misc-settings/v1.3.3_1303.md"
+    },
+    {
+      "timestamp": 1691936900.0,
+      "version": "v1.3.4",
+      "versionCode": 1304,
+      "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/audio-misc-settings/v1.3.4_1304.zip",
+      "changelog": "https://eljoker63.github.io/repo-magisk/modules/audio-misc-settings/v1.3.4_1304.md"
     }
   ],
   "timestamp": 1688751967.0

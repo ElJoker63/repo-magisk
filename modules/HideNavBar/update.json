@@ -7,6 +7,13 @@
       "versionCode": 55,
       "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/HideNavBar/v21.0_55.zip",
       "changelog": ""
+    },
+    {
+      "timestamp": 1691819224.0,
+      "version": "v22.0",
+      "versionCode": 56,
+      "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/HideNavBar/v22.0_56.zip",
+      "changelog": ""
     }
   ],
   "timestamp": 1672873450.0

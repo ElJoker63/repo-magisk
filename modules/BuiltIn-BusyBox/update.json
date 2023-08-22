@@ -7,6 +7,13 @@
       "versionCode": 106,
       "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/BuiltIn-BusyBox/1.0.6_106.zip",
       "changelog": "https://eljoker63.github.io/repo-magisk/modules/BuiltIn-BusyBox/1.0.6_106.md"
+    },
+    {
+      "timestamp": 1691527282.0,
+      "version": "1.0.7",
+      "versionCode": 107,
+      "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/BuiltIn-BusyBox/1.0.7_107.zip",
+      "changelog": "https://eljoker63.github.io/repo-magisk/modules/BuiltIn-BusyBox/1.0.7_107.md"
     }
   ],
   "timestamp": 1686205026.0
