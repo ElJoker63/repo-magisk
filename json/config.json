@@ -1,0 +1,11 @@
+{
+  "NAME": "AEware Repo Magisk Modules",
+  "BASE_URL": "https://eljoker63.github.io/repo-magisk/",
+  "MAX_NUM": 5,
+  "ENABLE_LOG": true,
+  "LOG_DIR": "log",
+  "ENV": {
+    "CONFIG_VERSION": 1,
+    "TRACK_VERSION": 1
+  }
+}
