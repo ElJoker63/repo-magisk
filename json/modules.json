@@ -2,7 +2,7 @@
   "name": "AEware Repo Magisk Modules",
   "metadata": {
     "version": 1,
-    "timestamp": 1692686445.753503
+    "timestamp": 1692688006.734725
   },
   "modules": [
     {
@@ -697,7 +697,7 @@
       "description": "FIX PING ISSUE ON ONLINE GAMES AND OPTIMISE NET SPEED",
       "track": {
         "type": "LOCAL_ZIP",
-        "added": null,
+        "added": 1690198612.2051804,
         "license": "free",
         "homepage": "",
         "source": "",
@@ -1303,6 +1303,32 @@
           "version": "v0.0.1",
           "versionCode": 30,
           "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/OnePlus6Oxygen_22.J.62_debloater/v0.0.1_30.zip",
+          "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "OneUIHome",
+      "name": "One UI Home",
+      "version": "v1.12",
+      "versionCode": 12,
+      "author": "Rei Ryuki the Fixer",
+      "description": "One UI Home launcher app by Samsung Electronics Co., Ltd. ported for any Android 8 and up.",
+      "track": {
+        "type": "GIT",
+        "added": 1692686790.554855,
+        "license": "MIT",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1687585548.0,
+          "version": "v1.12",
+          "versionCode": 12,
+          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/OneUIHome/v1.12_12.zip",
           "changelog": ""
         }
       ]
