@@ -7,6 +7,13 @@
       "versionCode": 42,
       "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/MiuiCore/v4.12_42.zip",
       "changelog": ""
+    },
+    {
+      "timestamp": 1692087543.0,
+      "version": "v4.17",
+      "versionCode": 47,
+      "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/MiuiCore/v4.17_47.zip",
+      "changelog": ""
     }
   ],
   "timestamp": 1690200854.872133

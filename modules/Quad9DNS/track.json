@@ -1,8 +1,8 @@
 {
   "id": "Quad9DNS",
-  "update_to": "Quad9DNS4Magisk.zip",
+  "update_to": "https://github.com/xerta555/Quad9DNS4Magisk.git",
   "added": 1690223099.182567,
   "last_update": 1690218893.332086,
   "versions": 1,
-  "license": "free"
+  "license": "GPL-3.0"
 }

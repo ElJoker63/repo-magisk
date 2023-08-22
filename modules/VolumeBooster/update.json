@@ -1,0 +1,13 @@
+{
+  "id": "VolumeBooster",
+  "timestamp": 1687597798.0,
+  "versions": [
+    {
+      "timestamp": 1687597798.0,
+      "version": "v0.2",
+      "versionCode": 2,
+      "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/VolumeBooster/v0.2_2.zip",
+      "changelog": ""
+    }
+  ]
+}

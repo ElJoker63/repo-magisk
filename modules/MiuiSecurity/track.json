@@ -1,8 +1,8 @@
 {
   "id": "MiuiSecurity",
-  "update_to": "MiuiSecurity-MagiskModule-20230501145225.zip",
+  "update_to": "https://github.com/reiryuki/Miui-Security-Magisk-Module.git",
   "license": "free",
   "added": 1690252195.282956,
-  "last_update": 1690200871.579794,
-  "versions": 1
+  "last_update": 1692496122.0,
+  "versions": 2
 }

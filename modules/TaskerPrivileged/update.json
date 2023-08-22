@@ -1,0 +1,13 @@
+{
+  "id": "TaskerPrivileged",
+  "timestamp": 1687590829.0,
+  "versions": [
+    {
+      "timestamp": 1687590829.0,
+      "version": "v2.11",
+      "versionCode": 21,
+      "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/TaskerPrivileged/v2.11_21.zip",
+      "changelog": ""
+    }
+  ]
+}

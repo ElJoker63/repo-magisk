@@ -1,8 +1,8 @@
 {
   "id": "asoul_affinity_opt",
-  "update_to": "A-SOUL Games Optimization vA.24 @modulostk.zip",
+  "update_to": "https://github.com/nakixii/Magisk_AsoulOpt/raw/main/AsoulOpt.json",
   "license": "free",
   "added": 1690225357.51293,
-  "last_update": 1690223593.522435,
-  "versions": 1
+  "last_update": 1692204521.0,
+  "versions": 2
 }

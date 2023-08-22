@@ -1,0 +1,13 @@
+{
+  "id": "XperiaMusic",
+  "timestamp": 1687845819.0,
+  "versions": [
+    {
+      "timestamp": 1687845819.0,
+      "version": "v3.2",
+      "versionCode": 22,
+      "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/XperiaMusic/v3.2_22.zip",
+      "changelog": ""
+    }
+  ]
+}
