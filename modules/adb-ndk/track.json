@@ -1,9 +1,10 @@
 {
   "id": "adb-ndk",
   "update_to": "https://raw.githubusercontent.com/Magisk-Modules-Repo/adb-ndk/master/update.json",
-  "license": "free",
-  "changelog": "",
+  "source": "https://github.com/Magisk-Modules-Repo/adb-ndk.git",
+  "support": "https://is.gd/osm0_",
+  "donate": "https://github.com/sponsors/osm0sis",
   "added": 1679025505.129431,
-  "last_update": 1690201704.0,
+  "last_update": 1686557746.0,
   "versions": 1
 }
