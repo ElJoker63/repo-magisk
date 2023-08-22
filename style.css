@@ -9,6 +9,10 @@
   a{
     text-decoration: none;
   }
+  a view{
+    text-decoration: none;
+    color:lightskyblue
+  }
   
   body {
     padding: 0;
