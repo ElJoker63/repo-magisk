@@ -1,7 +1,8 @@
 {
   "id": "AdGuardDNS4Magisk",
-  "update_to": "https://github.com/Magisk-Modules-Alt-Repo/AdGuardDNS4Magisk.git",
-  "license": "LGPL-3.0",
+  "update_to": "https://github.com/Magisk-Modules-Alt-Repo/AdGuardDNS4Magisk.git","source": "https://github.com/Magisk-Modules-Repo/adb-ndk.git",
+  "support": "https://is.gd/osm0_",
+  "donate": "https://github.com/sponsors/osm0sis",
   "changelog": "",
   "added": 1680541839.65951,
   "last_update": 1683124699.0,
