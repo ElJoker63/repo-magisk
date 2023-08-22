@@ -1,0 +1,13 @@
+{
+  "id": "ZRAMSwapConfigurator",
+  "timestamp": 1684130177.0,
+  "versions": [
+    {
+      "timestamp": 1684130177.0,
+      "version": "v1.15",
+      "versionCode": 15,
+      "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/ZRAMSwapConfigurator/v1.15_15.zip",
+      "changelog": ""
+    }
+  ]
+}

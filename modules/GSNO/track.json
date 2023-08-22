@@ -1,7 +1,8 @@
 {
   "id": "GSNO",
-  "update_to": "GSNOv8.zip",
+  "update_to": "https://github.com/ElJoker63/GSNO.git",
   "license": "free",
-  "last_update": 1690198612.2051804,
+  "added": 1690428294.374239,
+  "last_update": 1692692761.0,
   "versions": 1
 }

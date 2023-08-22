@@ -1,0 +1,13 @@
+{
+  "id": "DolbyAtmos",
+  "timestamp": 1687262744.0,
+  "versions": [
+    {
+      "timestamp": 1687262744.0,
+      "version": "v1.8",
+      "versionCode": 18,
+      "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/DolbyAtmos/v1.8_18.zip",
+      "changelog": ""
+    }
+  ]
+}

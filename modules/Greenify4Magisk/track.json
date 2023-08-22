@@ -1,8 +1,8 @@
 {
   "id": "Greenify4Magisk",
-  "update_to": "https://github.com/RohanDebroy/Greenify4Magisk.git",
+  "update_to": "v4.5.1_BETA_72.zip",
+  "license": "free",
   "added": 1690223089.037489,
-  "last_update": 1690218636.886289,
-  "versions": 1,
-  "license": "free"
+  "last_update": 1690223448.1378932,
+  "versions": 1
 }

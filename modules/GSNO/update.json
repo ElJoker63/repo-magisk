@@ -1,13 +1,13 @@
 {
   "id": "GSNO",
+  "timestamp": 1692692761.0,
   "versions": [
     {
-      "timestamp": 1690198612.2051804,
+      "timestamp": 1692692761.0,
       "version": "8",
       "versionCode": 9,
       "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/GSNO/8_9.zip",
       "changelog": ""
     }
-  ],
-  "timestamp": 1690198612.2051804
+  ]
 }

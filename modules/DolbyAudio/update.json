@@ -1,0 +1,13 @@
+{
+  "id": "DolbyAudio",
+  "timestamp": 1687267145.0,
+  "versions": [
+    {
+      "timestamp": 1687267145.0,
+      "version": "v6.1",
+      "versionCode": 61,
+      "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/DolbyAudio/v6.1_61.zip",
+      "changelog": ""
+    }
+  ]
+}

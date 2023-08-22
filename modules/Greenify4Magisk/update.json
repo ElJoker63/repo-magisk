@@ -1,13 +1,13 @@
 {
   "id": "Greenify4Magisk",
+  "timestamp": 1690223448.1378932,
   "versions": [
     {
-      "timestamp": 1690218636.886289,
+      "timestamp": 1690223448.1378932,
       "version": "v4.5.1 (BETA)",
       "versionCode": 72,
       "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/Greenify4Magisk/v4.5.1_BETA_72.zip",
       "changelog": ""
     }
-  ],
-  "timestamp": 1690218636.886289
+  ]
 }
