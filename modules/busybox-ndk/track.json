@@ -1,0 +1,9 @@
+{
+  "id": "busybox-ndk",
+  "update_to": "https://raw.githubusercontent.com/Magisk-Modules-Repo/busybox-ndk/master/update.json",
+  "license": "",
+  "changelog": "",
+  "added": 1679025505.129431,
+  "last_update": 1686557854.0,
+  "versions": 2
+}

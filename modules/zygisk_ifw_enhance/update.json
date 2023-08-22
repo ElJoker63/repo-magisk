@@ -1,0 +1,13 @@
+{
+  "id": "zygisk_ifw_enhance",
+  "timestamp": 1675569635.0,
+  "versions": [
+    {
+      "timestamp": 1675569635.0,
+      "version": "v21",
+      "versionCode": 21,
+      "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/zygisk_ifw_enhance/v21_21.zip",
+      "changelog": "https://eljoker63.github.io/repo-magisk/modules/zygisk_ifw_enhance/v21_21.md"
+    }
+  ]
+}

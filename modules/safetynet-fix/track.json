@@ -1,8 +1,9 @@
 {
   "id": "safetynet-fix",
-  "update_to": "Universal SafetyNet Fix v2.4.0 [MOD 2.0] @modulostk.zip",
-  "license": "free",
-  "added": 1690225145.319474,
-  "last_update": 1690223551.3464081,
+  "update_to": "https://raw.githubusercontent.com/kdrag0n/safetynet-fix/master/update.json",
+  "license": "MIT",
+  "changelog": "",
+  "added": 1679025505.129431,
+  "last_update": 1673286512.0,
   "versions": 1
 }

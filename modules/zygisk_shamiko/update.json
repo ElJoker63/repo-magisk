@@ -1,0 +1,27 @@
+{
+  "id": "zygisk_shamiko",
+  "timestamp": 1685850239.0,
+  "versions": [
+    {
+      "timestamp": 1668657230.0,
+      "version": "v0.6 (126)",
+      "versionCode": 126,
+      "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/zygisk_shamiko/v0.6_(126)_126.zip",
+      "changelog": "https://eljoker63.github.io/repo-magisk/modules/zygisk_shamiko/v0.6_(126)_126.md"
+    },
+    {
+      "timestamp": 1680843186.0,
+      "version": "v0.7 (161)",
+      "versionCode": 161,
+      "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/zygisk_shamiko/v0.7_(161)_161.zip",
+      "changelog": "https://eljoker63.github.io/repo-magisk/modules/zygisk_shamiko/v0.7_(161)_161.md"
+    },
+    {
+      "timestamp": 1685850239.0,
+      "version": "v0.7.3 (174)",
+      "versionCode": 174,
+      "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/zygisk_shamiko/v0.7.3_174.zip",
+      "changelog": "https://eljoker63.github.io/repo-magisk/modules/zygisk_shamiko/v0.7.3_174.md"
+    }
+  ]
+}

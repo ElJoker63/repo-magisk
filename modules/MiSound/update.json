@@ -1,0 +1,13 @@
+{
+  "id": "MiSound",
+  "timestamp": 1687276179.0,
+  "versions": [
+    {
+      "timestamp": 1687276179.0,
+      "version": "v2.6",
+      "versionCode": 26,
+      "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/MiSound/v2.6_26.zip",
+      "changelog": ""
+    }
+  ]
+}

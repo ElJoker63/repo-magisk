@@ -1,0 +1,13 @@
+{
+  "id": "zygisk-sui",
+  "timestamp": 1665741019.0,
+  "versions": [
+    {
+      "timestamp": 1665741019.0,
+      "version": "v12.7.2",
+      "versionCode": 300,
+      "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/zygisk-sui/v12.7.2_300.zip",
+      "changelog": "https://eljoker63.github.io/repo-magisk/modules/zygisk-sui/v12.7.2_300.md"
+    }
+  ]
+}

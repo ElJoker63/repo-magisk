@@ -1,0 +1,13 @@
+{
+  "id": "zygisk_clipboard_whitelist",
+  "timestamp": 1675570123.0,
+  "versions": [
+    {
+      "timestamp": 1675570123.0,
+      "version": "v24",
+      "versionCode": 24,
+      "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/zygisk_clipboard_whitelist/v24_24.zip",
+      "changelog": "https://eljoker63.github.io/repo-magisk/modules/zygisk_clipboard_whitelist/v24_24.md"
+    }
+  ]
+}

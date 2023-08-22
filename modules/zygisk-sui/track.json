@@ -1,0 +1,9 @@
+{
+  "id": "zygisk-sui",
+  "update_to": "https://rikkaapps.github.io/release/sui_zygisk.json",
+  "license": "GPL-3.0",
+  "changelog": "",
+  "added": 1679025505.129431,
+  "last_update": 1665741019.0,
+  "versions": 1
+}

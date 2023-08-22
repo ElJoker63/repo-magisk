@@ -1,13 +1,20 @@
 {
   "id": "adb-ndk",
+  "timestamp": 1686557746.0,
   "versions": [
     {
-      "timestamp": 1690201704.0,
+      "timestamp": 1680541683.0,
+      "version": "1.0.41",
+      "versionCode": 104109,
+      "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/adb-ndk/1.0.41_104109.zip",
+      "changelog": "https://eljoker63.github.io/repo-magisk/modules/adb-ndk/1.0.41_104109.md"
+    },
+    {
+      "timestamp": 1686557746.0,
       "version": "1.0.41",
       "versionCode": 104111,
       "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/adb-ndk/1.0.41_104111.zip",
       "changelog": "https://eljoker63.github.io/repo-magisk/modules/adb-ndk/1.0.41_104111.md"
     }
-  ],
-  "timestamp": 1690201704.0
+  ]
 }

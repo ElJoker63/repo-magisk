@@ -2,7 +2,7 @@
   "name": "AEware Repo Magisk Modules",
   "metadata": {
     "version": 1,
-    "timestamp": 1692688006.734725
+    "timestamp": 1692690636.092568
   },
   "modules": [
     {
@@ -826,7 +826,7 @@
       "author": "Abacate123",
       "description": "A very simple module to make Greenify work as a privileged app, to achieve a faster hibernation performance, systemlessly.",
       "track": {
-        "type": "LOCAL_ZIP",
+        "type": "GIT",
         "added": 1690223089.037489,
         "license": "free",
         "homepage": "",
@@ -1003,6 +1003,32 @@
           "version": "v2.8",
           "versionCode": 18,
           "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/MiMusic/v2.8_18.zip",
+          "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "MiSound",
+      "name": "Mi Sound Redmi K40",
+      "version": "v2.6",
+      "versionCode": 26,
+      "author": "Rei Ryuki the Fixer",
+      "description": "Equalizers global type soundfx by Xiaomi Inc. ported from Redmi K40 (alioth). Dolby Atmos EQ for any Android 11 and up. Mi Sound EQ for Miui ROM Android 8 and up.",
+      "track": {
+        "type": "GIT",
+        "added": 1692689844.601682,
+        "license": "MIT",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1687276179.0,
+          "version": "v2.6",
+          "versionCode": 26,
+          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/MiSound/v2.6_26.zip",
           "changelog": ""
         }
       ]
@@ -1653,6 +1679,58 @@
       ]
     },
     {
+      "id": "SoundAlive",
+      "name": "Sound Alive Samsung Galaxy A53 5G",
+      "version": "v0.4",
+      "versionCode": 4,
+      "author": "Rei Ryuki the Fixer",
+      "description": "An equalizer global type soundfx ported from Samsung Galaxy A53 5G (a53x) for any Android 5 and up.",
+      "track": {
+        "type": "GIT",
+        "added": 1692689707.038869,
+        "license": "MIT",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1687538041.0,
+          "version": "v0.4",
+          "versionCode": 4,
+          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/SoundAlive/v0.4_4.zip",
+          "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "SoundEnhancement",
+      "name": "Sound Enhancement Sony Xperia 10",
+      "version": "v7.2",
+      "versionCode": 72,
+      "author": "Rei Ryuki the Fixer",
+      "description": "EQ global type soundfx ported from Sony Xperia 10 (I4113) and Sony Xperia 1 II (XQ-AT51) for any Android 9 and up.",
+      "track": {
+        "type": "GIT",
+        "added": 1692689786.00816,
+        "license": "MIT",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1687308301.0,
+          "version": "v7.2",
+          "versionCode": 72,
+          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/SoundEnhancement/v7.2_72.zip",
+          "changelog": ""
+        }
+      ]
+    },
+    {
       "id": "SystemlessDebloater",
       "name": "Systemless Debloater",
       "version": "1.5.3",
@@ -2094,7 +2172,7 @@
       "track": {
         "type": "ONLINE_JSON",
         "added": 1679025505.129431,
-        "license": "free",
+        "license": "",
         "homepage": "",
         "source": "",
         "support": "",
@@ -2102,7 +2180,14 @@
       },
       "versions": [
         {
-          "timestamp": 1690201704.0,
+          "timestamp": 1680541683.0,
+          "version": "1.0.41",
+          "versionCode": 104109,
+          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/adb-ndk/1.0.41_104109.zip",
+          "changelog": "https://eljoker63.github.io/repo-magisk/modules/adb-ndk/1.0.41_104109.md"
+        },
+        {
+          "timestamp": 1686557746.0,
           "version": "1.0.41",
           "versionCode": 104111,
           "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/adb-ndk/1.0.41_104111.zip",
@@ -2239,6 +2324,39 @@
           "versionCode": 1,
           "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/backup/v1.0_1.zip",
           "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "busybox-ndk",
+      "name": "Busybox for Android NDK",
+      "version": "1.36.1",
+      "versionCode": 13612,
+      "author": "osm0sis @ xda-developers",
+      "description": "Static busybox binary for all Android architectures built with the NDK",
+      "track": {
+        "type": "ONLINE_JSON",
+        "added": 1679025505.129431,
+        "license": "",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1680541591.0,
+          "version": "1.34.1",
+          "versionCode": 13413,
+          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/busybox-ndk/1.34.1_13413.zip",
+          "changelog": "https://eljoker63.github.io/repo-magisk/modules/busybox-ndk/1.34.1_13413.md"
+        },
+        {
+          "timestamp": 1686557854.0,
+          "version": "1.36.1",
+          "versionCode": 13612,
+          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/busybox-ndk/1.36.1_13612.zip",
+          "changelog": "https://eljoker63.github.io/repo-magisk/modules/busybox-ndk/1.36.1_13612.md"
         }
       ]
     },
@@ -3611,14 +3729,14 @@
     {
       "id": "safetynet-fix",
       "name": "Universal SafetyNet Fix",
-      "version": "v2.4.0-MOD_2.0",
-      "versionCode": 24020,
-      "author": "kdrag0n, modded by Displax",
-      "description": "A universal fix for SafetyNet and Play Integrity API on Android 8\u201313 devices with hardware attestation.",
+      "version": "v2.4.0",
+      "versionCode": 20400,
+      "author": "kdrag0n",
+      "description": "A universal fix for SafetyNet and Play Integrity on Android 8\u201313 devices with hardware attestation.",
       "track": {
-        "type": "LOCAL_ZIP",
-        "added": 1690225145.319474,
-        "license": "free",
+        "type": "ONLINE_JSON",
+        "added": 1679025505.129431,
+        "license": "MIT",
         "homepage": "",
         "source": "",
         "support": "",
@@ -3626,11 +3744,11 @@
       },
       "versions": [
         {
-          "timestamp": 1690223551.3464081,
-          "version": "v2.4.0-MOD_2.0",
-          "versionCode": 24020,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/safetynet-fix/v2.4.0-MOD_2.0_24020.zip",
-          "changelog": ""
+          "timestamp": 1673286512.0,
+          "version": "v2.4.0",
+          "versionCode": 20400,
+          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/safetynet-fix/v2.4.0_20400.zip",
+          "changelog": "https://eljoker63.github.io/repo-magisk/modules/safetynet-fix/v2.4.0_20400.md"
         }
       ]
     },
@@ -4228,6 +4346,58 @@
       ]
     },
     {
+      "id": "zygisk-storage-isolation",
+      "name": "Zygisk - Enhanced mode for Storage Isolation",
+      "version": "v28.1.0",
+      "versionCode": 85,
+      "author": "Rikka",
+      "description": "Enable Enhanced mode for Storage Isolation. This module requires Magisk 24.0+ and Zygisk enabled.",
+      "track": {
+        "type": "ONLINE_JSON",
+        "added": 1680541356.760972,
+        "license": "",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1679899057.0,
+          "version": "v28.1.0",
+          "versionCode": 85,
+          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/zygisk-storage-isolation/v28.1.0_85.zip",
+          "changelog": "https://eljoker63.github.io/repo-magisk/modules/zygisk-storage-isolation/v28.1.0_85.md"
+        }
+      ]
+    },
+    {
+      "id": "zygisk-sui",
+      "name": "Zygisk - Sui",
+      "version": "v12.7.2",
+      "versionCode": 300,
+      "author": "Rikka",
+      "description": "Modern superuser interface implementation. This module requires Magisk 24.0+ and Zygisk enabled. DO NOT add SystemUI and Settings to DenyList.",
+      "track": {
+        "type": "ONLINE_JSON",
+        "added": 1679025505.129431,
+        "license": "GPL-3.0",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1665741019.0,
+          "version": "v12.7.2",
+          "versionCode": 300,
+          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/zygisk-sui/v12.7.2_300.zip",
+          "changelog": "https://eljoker63.github.io/repo-magisk/modules/zygisk-sui/v12.7.2_300.md"
+        }
+      ]
+    },
+    {
       "id": "zygisk_cleanerhooks",
       "name": "Cleaner Hooks",
       "version": "v1.6",
@@ -4249,6 +4419,150 @@
           "version": "v1.6",
           "versionCode": 1156,
           "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/zygisk_cleanerhooks/v1.6_1156.zip",
+          "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "zygisk_clipboard_whitelist",
+      "name": "Zygisk - Clipboard Whitelist",
+      "version": "v24",
+      "versionCode": 24,
+      "author": "Kr328",
+      "description": "Allow apps access clipboard in background.",
+      "track": {
+        "type": "ONLINE_JSON",
+        "added": 1679025505.129431,
+        "license": "GPL-3.0",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1675570123.0,
+          "version": "v24",
+          "versionCode": 24,
+          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/zygisk_clipboard_whitelist/v24_24.zip",
+          "changelog": "https://eljoker63.github.io/repo-magisk/modules/zygisk_clipboard_whitelist/v24_24.md"
+        }
+      ]
+    },
+    {
+      "id": "zygisk_ifw_enhance",
+      "name": "Zygisk - IFW Enhance",
+      "version": "v21",
+      "versionCode": 21,
+      "author": "Kr328",
+      "description": "Allows Intent Firewall to filter results of queryIntent(Activities/Services) APIs.",
+      "track": {
+        "type": "ONLINE_JSON",
+        "added": 1679025505.129431,
+        "license": "GPL-3.0",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1675569635.0,
+          "version": "v21",
+          "versionCode": 21,
+          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/zygisk_ifw_enhance/v21_21.zip",
+          "changelog": "https://eljoker63.github.io/repo-magisk/modules/zygisk_ifw_enhance/v21_21.md"
+        }
+      ]
+    },
+    {
+      "id": "zygisk_lsposed",
+      "name": "Zygisk - LSPosed",
+      "version": "v1.8.6 (6712)",
+      "versionCode": 6712,
+      "author": "LSPosed Developers",
+      "description": "Another enhanced implementation of Xposed Framework. Supports Android 8.1 ~ 13. Requires Magisk 24.0+ and Zygisk enabled.",
+      "track": {
+        "type": "ONLINE_JSON",
+        "added": 1679025505.129431,
+        "license": "GPL-3.0",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1673882223.0,
+          "version": "v1.8.6 (6712)",
+          "versionCode": 6712,
+          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/zygisk_lsposed/v1.8.6_(6712)_6712.zip",
+          "changelog": "https://eljoker63.github.io/repo-magisk/modules/zygisk_lsposed/v1.8.6_(6712)_6712.md"
+        }
+      ]
+    },
+    {
+      "id": "zygisk_shamiko",
+      "name": "Shamiko",
+      "version": "v0.7.3 (174)",
+      "versionCode": 174,
+      "author": "LSPosed Developers",
+      "description": "\u3053\u308c\u3067\u52dd\u3063\u305f\u3068\u601d\u3046\u306a\u3088\u2015\u2015\u2015!!",
+      "track": {
+        "type": "ONLINE_JSON",
+        "added": 1679025505.129431,
+        "license": "",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1668657230.0,
+          "version": "v0.6 (126)",
+          "versionCode": 126,
+          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/zygisk_shamiko/v0.6_(126)_126.zip",
+          "changelog": "https://eljoker63.github.io/repo-magisk/modules/zygisk_shamiko/v0.6_(126)_126.md"
+        },
+        {
+          "timestamp": 1680843186.0,
+          "version": "v0.7 (161)",
+          "versionCode": 161,
+          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/zygisk_shamiko/v0.7_(161)_161.zip",
+          "changelog": "https://eljoker63.github.io/repo-magisk/modules/zygisk_shamiko/v0.7_(161)_161.md"
+        },
+        {
+          "timestamp": 1685850239.0,
+          "version": "v0.7.3 (174)",
+          "versionCode": 174,
+          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/zygisk_shamiko/v0.7.3_174.zip",
+          "changelog": "https://eljoker63.github.io/repo-magisk/modules/zygisk_shamiko/v0.7.3_174.md"
+        }
+      ]
+    },
+    {
+      "id": "zygisksu",
+      "name": "Zygisk on KernelSU",
+      "version": "v4-0.6.4 (73)",
+      "versionCode": 73,
+      "author": "Nullptr, 5ec1cff",
+      "description": "Run Zygisk on KernelSU.",
+      "track": {
+        "type": "ONLINE_ZIP",
+        "added": 1679025505.129431,
+        "license": "GPL-3.0",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1679572814.0,
+          "version": "v4-0.6.4 (73)",
+          "versionCode": 73,
+          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/zygiskksu/v4-0.6.4_(73)_73.zip",
           "changelog": ""
         }
       ]

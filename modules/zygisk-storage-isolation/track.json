@@ -1,0 +1,9 @@
+{
+  "id": "zygisk-storage-isolation",
+  "update_to": "https://rikkaapps.github.io/release/si_zygisk.json",
+  "license": "",
+  "changelog": "",
+  "added": 1680541356.760972,
+  "last_update": 1679899057.0,
+  "versions": 1
+}

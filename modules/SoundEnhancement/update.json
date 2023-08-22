@@ -1,0 +1,13 @@
+{
+  "id": "SoundEnhancement",
+  "timestamp": 1687308301.0,
+  "versions": [
+    {
+      "timestamp": 1687308301.0,
+      "version": "v7.2",
+      "versionCode": 72,
+      "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/SoundEnhancement/v7.2_72.zip",
+      "changelog": ""
+    }
+  ]
+}

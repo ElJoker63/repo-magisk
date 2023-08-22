@@ -1,0 +1,13 @@
+{
+  "id": "zygisk_lsposed",
+  "timestamp": 1673882223.0,
+  "versions": [
+    {
+      "timestamp": 1673882223.0,
+      "version": "v1.8.6 (6712)",
+      "versionCode": 6712,
+      "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/zygisk_lsposed/v1.8.6_(6712)_6712.zip",
+      "changelog": "https://eljoker63.github.io/repo-magisk/modules/zygisk_lsposed/v1.8.6_(6712)_6712.md"
+    }
+  ]
+}
