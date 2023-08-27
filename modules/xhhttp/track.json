@@ -2,6 +2,9 @@
   "id": "xhhttp",
   "update_to": "https://github.com/Magisk-Modules-Alt-Repo/xhhttp.git",
   "license": "MIT",
+  "homepage": "https://github.com/ducaale/xh",
+  "source": "https://github.com/Magisk-Modules-Alt-Repo/xhhttp.git",
+  "support": "https://github.com/Magisk-Modules-Alt-Repo/xhhttp/issues",
   "changelog": "",
   "added": 1680542026.215782,
   "last_update": 1678725873.0

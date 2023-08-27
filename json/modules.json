@@ -2,7 +2,7 @@
   "name": "AEware Repo Magisk Modules",
   "metadata": {
     "version": 1,
-    "timestamp": 1692695045.137175
+    "timestamp": 1693131523.817737
   },
   "modules": [
     {
@@ -923,6 +923,32 @@
       ]
     },
     {
+      "id": "HenBz",
+      "name": "HenBz AI",
+      "version": "1.0 Beta",
+      "versionCode": 10,
+      "author": "HenBz 2.0",
+      "description": " | beta version HenBz AI tweaks auto mode |",
+      "track": {
+        "type": "LOCAL_ZIP",
+        "added": 1693130775.562665,
+        "license": "",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1693130549.4949694,
+          "version": "1.0 Beta",
+          "versionCode": 10,
+          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/HenBz/1.0_Beta_10.zip",
+          "changelog": ""
+        }
+      ]
+    },
+    {
       "id": "HideNavBar",
       "name": "Fullscreen/Immersive Gestures (Q-T)",
       "version": "v22.0",
@@ -977,6 +1003,32 @@
           "version": "v3",
           "versionCode": 3,
           "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/IORap/v3_3.zip",
+          "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "Kaguyagaming",
+      "name": "Kaguya Gaming AI 3.0",
+      "version": "v3.0 AI",
+      "versionCode": 30,
+      "author": "ZxyonQiy",
+      "description": "Module All in One for Your Gaming  and AI Cpu and Gpu Control,Joined My Channel for Next Update || @ZxyonQiyChnnel",
+      "track": {
+        "type": "LOCAL_ZIP",
+        "added": 1693129237.541764,
+        "license": "",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1693128815.9136636,
+          "version": "v3.0 AI",
+          "versionCode": 30,
+          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/Kaguyagaming/v3.0_AI_30.zip",
           "changelog": ""
         }
       ]
@@ -1232,8 +1284,8 @@
     {
       "id": "MotoWaves",
       "name": "Moto Waves V2 Edge 20 Pro",
-      "version": "v0.3",
-      "versionCode": 3,
+      "version": "v0.4",
+      "versionCode": 4,
       "author": "Rei Ryuki the Fixer",
       "description": "An equalizer global type soundfx ported from Motorola Edge 20 Pro (pstar) for any Android 11 and above, architecture arm64 & arm.",
       "track": {
@@ -1251,6 +1303,13 @@
           "version": "v0.3",
           "versionCode": 3,
           "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/MotoWaves/v0.3_3.zip",
+          "changelog": ""
+        },
+        {
+          "timestamp": 1692755905.0,
+          "version": "v0.4",
+          "versionCode": 4,
+          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/MotoWaves/v0.4_4.zip",
           "changelog": ""
         }
       ]
@@ -1362,8 +1421,8 @@
     {
       "id": "OZOAudioCapture",
       "name": "Nokia OZO Audio Capture OnePlus 9 Pro",
-      "version": "v0.3",
-      "versionCode": 3,
+      "version": "v0.4",
+      "versionCode": 4,
       "author": "Rei Ryuki the Fixer",
       "description": "Pre Process type soundfx ported from OnePlus 9 Pro for Android 11 and up. Enhance your audio quality in audio/video recordings.",
       "track": {
@@ -1381,6 +1440,13 @@
           "version": "v0.3",
           "versionCode": 3,
           "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/OZOAudioCapture/v0.3_3.zip",
+          "changelog": ""
+        },
+        {
+          "timestamp": 1692876383.0,
+          "version": "v0.4",
+          "versionCode": 4,
+          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/OZOAudioCapture/v0.4_4.zip",
           "changelog": ""
         }
       ]
@@ -2255,8 +2321,8 @@
     {
       "id": "ZRAMSwapConfigurator",
       "name": "ZRAM Swap Configurator",
-      "version": "v1.15",
-      "versionCode": 15,
+      "version": "v1.16",
+      "versionCode": 16,
       "author": "Rei Ryuki the Fixer",
       "description": "Configures your device ZRAM Swap disk.",
       "track": {
@@ -2274,6 +2340,13 @@
           "version": "v1.15",
           "versionCode": 15,
           "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/ZRAMSwapConfigurator/v1.15_15.zip",
+          "changelog": ""
+        },
+        {
+          "timestamp": 1692835356.0,
+          "version": "v1.16",
+          "versionCode": 16,
+          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/ZRAMSwapConfigurator/v1.16_16.zip",
           "changelog": ""
         }
       ]
@@ -2831,8 +2904,8 @@
     {
       "id": "diracmisoundfxRemover",
       "name": "dirac & misoundfx Remover",
-      "version": "v0.2",
-      "versionCode": 2,
+      "version": "v0.3",
+      "versionCode": 3,
       "author": "Rei Ryuki the Fixer",
       "description": "Removes dirac & misoundfx and their apps.",
       "track": {
@@ -2850,6 +2923,13 @@
           "version": "v0.2",
           "versionCode": 2,
           "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/diracmisoundfxRemover/v0.2_2.zip",
+          "changelog": ""
+        },
+        {
+          "timestamp": 1693126963.0,
+          "version": "v0.3",
+          "versionCode": 3,
+          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/diracmisoundfxRemover/v0.3_3.zip",
           "changelog": ""
         }
       ]
@@ -4434,9 +4514,9 @@
         "type": "GIT",
         "added": 1680542026.215782,
         "license": "MIT",
-        "homepage": "",
-        "source": "",
-        "support": "",
+        "homepage": "https://github.com/ducaale/xh",
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/xhhttp.git",
+        "support": "https://github.com/Magisk-Modules-Alt-Repo/xhhttp/issues",
         "donate": ""
       },
       "versions": [
@@ -4446,6 +4526,32 @@
           "versionCode": 180,
           "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/xhhttp/v0.18.0_180.zip",
           "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "xmlpak-RE",
+      "name": "xmlpak-RE \u2013 a road to vendor apps",
+      "version": "v6.0",
+      "versionCode": 60,
+      "author": "Rushi Ranpise ,RKBDI, Tadi (j1505243 at xda)",
+      "description": "This module enables you to download and install vendor apps from Google Play. Compatibility is not guaranteed.",
+      "track": {
+        "type": "ONLINE_JSON",
+        "added": 1692473114.97988,
+        "license": "",
+        "homepage": "https://github.com/Magisk-Modules-Alt-Repo/xmlpak-RE",
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/xmlpak-RE.git",
+        "support": "https://github.com/Magisk-Modules-Alt-Repo/xmlpak-RE/issues",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1690999140.0,
+          "version": "v6.0",
+          "versionCode": 60,
+          "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/xmlpak-RE/v6.0_60.zip",
+          "changelog": "https://ya0211.github.io/magisk-modules-alt-repo/modules/xmlpak-RE/v6.0_60.md"
         }
       ]
     },
@@ -4512,10 +4618,10 @@
         "type": "GIT",
         "added": 1680542034.715106,
         "license": "GPL-3.0",
-        "homepage": "",
-        "source": "",
+        "homepage": "https://github.com/VR-25/zram-swap-manager",
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/zram-swap-manager.git",
         "support": "",
-        "donate": ""
+        "donate": "https://patreon.com/VR25"
       },
       "versions": [
         {

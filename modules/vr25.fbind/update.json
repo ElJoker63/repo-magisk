@@ -1,5 +1,6 @@
 {
-  "id": "vr25.fbind",
+  "id": "fbind",
+  "timestamp": 1638809703.0,
   "versions": [
     {
       "timestamp": 1638809703.0,
@@ -8,6 +9,5 @@
       "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/fbind/v2021.12.6_202112060.zip",
       "changelog": ""
     }
-  ],
-  "timestamp": 1638809703.0
+  ]
 }

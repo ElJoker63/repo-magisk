@@ -3,6 +3,9 @@
   "update_to": "https://github.com/VR-25/zram-swap-manager.git",
   "license": "GPL-3.0",
   "changelog": "",
+  "homepage": "https://github.com/VR-25/zram-swap-manager",
+  "source": "https://github.com/Magisk-Modules-Alt-Repo/zram-swap-manager.git",
+  "donate": "https://patreon.com/VR25",
   "added": 1680542034.715106,
   "last_update": 1690060098.0,
   "versions": 1

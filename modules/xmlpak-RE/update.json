@@ -1,0 +1,13 @@
+{
+  "id": "xmlpak-RE",
+  "timestamp": 1690999140.0,
+  "versions": [
+    {
+      "timestamp": 1690999140.0,
+      "version": "v6.0",
+      "versionCode": 60,
+      "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/xmlpak-RE/v6.0_60.zip",
+      "changelog": "https://ya0211.github.io/magisk-modules-alt-repo/modules/xmlpak-RE/v6.0_60.md"
+    }
+  ]
+}

@@ -8,6 +8,13 @@
       "versionCode": 3,
       "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/OZOAudioCapture/v0.3_3.zip",
       "changelog": ""
+    },
+    {
+      "timestamp": 1692876383.0,
+      "version": "v0.4",
+      "versionCode": 4,
+      "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/OZOAudioCapture/v0.4_4.zip",
+      "changelog": ""
     }
   ]
 }
