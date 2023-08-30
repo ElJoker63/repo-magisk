@@ -1,7 +1,7 @@
 {
   "id": "acc",
-  "update_to": "https://github.com/Magisk-Modules-Alt-Repo/acc.git",
-  "changelog": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/acc/master/changelog.md",
+  "update_to": "https://raw.githubusercontent.com/VR-25/acc.git",
+  "changelog": "https://raw.githubusercontent.com/VR-25/acc/dev/changelog.md",
   "license": "GPL-3.0",
   "added": 1680541838.119451,
   "last_update": 1692431280.0,

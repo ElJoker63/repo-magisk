@@ -8,6 +8,13 @@
       "versionCode": 18,
       "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/DolbyAtmos/v1.8_18.zip",
       "changelog": ""
+    },
+    {
+      "timestamp": 1693302804.0,
+      "version": "v1.9",
+      "versionCode": 19,
+      "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/DolbyAtmos/v1.9_19.zip",
+      "changelog": ""
     }
   ]
 }

@@ -2,7 +2,7 @@
   "name": "AEware Repo Magisk Modules",
   "metadata": {
     "version": 1,
-    "timestamp": 1693131523.817737
+    "timestamp": 1693353282.66483
   },
   "modules": [
     {
@@ -509,8 +509,8 @@
     {
       "id": "DolbyAtmos",
       "name": "Dolby Atmos Moto G52",
-      "version": "v1.8",
-      "versionCode": 18,
+      "version": "v1.9",
+      "versionCode": 19,
       "author": "Rei Ryuki the Fixer",
       "description": "An equalizer global type soundfx ported from Motorola G52 (rhode) for any Android 11 and up, 64 bit architecture.",
       "track": {
@@ -529,14 +529,21 @@
           "versionCode": 18,
           "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/DolbyAtmos/v1.8_18.zip",
           "changelog": ""
+        },
+        {
+          "timestamp": 1693302804.0,
+          "version": "v1.9",
+          "versionCode": 19,
+          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/DolbyAtmos/v1.9_19.zip",
+          "changelog": ""
         }
       ]
     },
     {
       "id": "DolbyAudio",
       "name": "Dolby Audio Moto G Pro",
-      "version": "v6.1",
-      "versionCode": 61,
+      "version": "v6.2",
+      "versionCode": 62,
       "author": "Rei Ryuki the Fixer",
       "description": "An equalizer global type soundfx ported from Motorola G Pro (sofiap_sprout) for any Android 9 and up, 64 bit architecture.",
       "track": {
@@ -554,6 +561,13 @@
           "version": "v6.1",
           "versionCode": 61,
           "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/DolbyAudio/v6.1_61.zip",
+          "changelog": ""
+        },
+        {
+          "timestamp": 1693328350.0,
+          "version": "v6.2",
+          "versionCode": 62,
+          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/DolbyAudio/v6.2_62.zip",
           "changelog": ""
         }
       ]
@@ -2395,7 +2409,7 @@
       "id": "adb-ndk",
       "name": "ADB & Fastboot for Android NDK",
       "version": "1.0.41",
-      "versionCode": 104111,
+      "versionCode": 104112,
       "author": "osm0sis & Surge1223 @ xda-developers",
       "description": "Static ARM adb and fastboot binaries for Android built with the NDK",
       "track": {
@@ -2421,6 +2435,39 @@
           "versionCode": 104111,
           "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/adb-ndk/1.0.41_104111.zip",
           "changelog": "https://eljoker63.github.io/repo-magisk/modules/adb-ndk/1.0.41_104111.md"
+        },
+        {
+          "timestamp": 1693352052.0,
+          "version": "1.0.41",
+          "versionCode": 104112,
+          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/adb-ndk/1.0.41_104112.zip",
+          "changelog": "https://eljoker63.github.io/repo-magisk/modules/adb-ndk/1.0.41_104112.md"
+        }
+      ]
+    },
+    {
+      "id": "ainur_jamesdsp",
+      "name": "JamesDSP Manager",
+      "version": "v5.6 (8-8-2023)",
+      "versionCode": 95,
+      "author": "james34602, zackptg5, ahrion",
+      "description": "JamesDSPManager is a reformed audio engine based of AOSP and OmniROM DSPManager source code with enhanced features and tuning",
+      "track": {
+        "type": "ONLINE_JSON",
+        "added": 1693352488.924228,
+        "license": "",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1693352948.773543,
+          "version": "v5.6 (8-8-2023)",
+          "versionCode": 95,
+          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/ainur_jamesdsp/v5.6_8-8-2023_95.zip",
+          "changelog": "https://eljoker63.github.io/repo-magisk/modules/ainur_jamesdsp/v5.6_8-8-2023_95.md"
         }
       ]
     },
@@ -2460,8 +2507,8 @@
     {
       "id": "audio-jitter-silencer",
       "name": "Audio jitter silencer",
-      "version": "v1.0.4",
-      "versionCode": 1004,
+      "version": "v1.0.5",
+      "versionCode": 1005,
       "author": "zyhk",
       "description": "Disabling very large audio jitter generators (w.r.t. battery draining & optimizations, and wireless connectivity) for reducing audio jitter distortion on all digital audio outputs.",
       "track": {
@@ -2494,6 +2541,13 @@
           "versionCode": 1004,
           "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/audio-jitter-silencer/v1.0.4_1004.zip",
           "changelog": "https://eljoker63.github.io/repo-magisk/modules/audio-jitter-silencer/v1.0.4_1004.md"
+        },
+        {
+          "timestamp": 1693302157.0,
+          "version": "v1.0.5",
+          "versionCode": 1005,
+          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/audio-jitter-silencer/v1.0.5_1005.zip",
+          "changelog": "https://eljoker63.github.io/repo-magisk/modules/audio-jitter-silencer/v1.0.5_1005.md"
         }
       ]
     },
@@ -2637,6 +2691,32 @@
           "version": "v1.6-Stable",
           "versionCode": 8,
           "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/cache_cleaner/v1.6-Stable_8.zip",
+          "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "ccbins",
+      "name": "Cross Compiled Binaries",
+      "version": "v11",
+      "versionCode": 16,
+      "author": "Zackptg5",
+      "description": "A growing collection of cross compiled binaries for android",
+      "track": {
+        "type": "GIT",
+        "added": 1693352435.30546,
+        "license": "",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1691966533.0,
+          "version": "v11",
+          "versionCode": 16,
+          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/ccbins/v11_16.zip",
           "changelog": ""
         }
       ]
@@ -4145,6 +4225,32 @@
       ]
     },
     {
+      "id": "ssh",
+      "name": "SSH for Magisk",
+      "version": "v0.16",
+      "versionCode": 15,
+      "author": "D4rCM4rC and Contributors",
+      "description": "OpenSSH and Rsync bundled with simple start scripts for Android with Magisk",
+      "track": {
+        "type": "ONLINE_JSON",
+        "added": 1693351598.668323,
+        "license": "",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1691227205.0,
+          "version": "v0.16",
+          "versionCode": 15,
+          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/ssh/v0.16_15.zip",
+          "changelog": "https://eljoker63.github.io/repo-magisk/modules/ssh/v0.16_15.md"
+        }
+      ]
+    },
+    {
       "id": "supl-replacer",
       "name": "A-GPS SUPL replacer",
       "version": "v2.2.1",
@@ -4766,8 +4872,8 @@
     {
       "id": "zygisk_lsposed",
       "name": "Zygisk - LSPosed",
-      "version": "v1.8.6 (6712)",
-      "versionCode": 6712,
+      "version": "v1.9.0 (6986)",
+      "versionCode": 6986,
       "author": "LSPosed Developers",
       "description": "Another enhanced implementation of Xposed Framework. Supports Android 8.1 ~ 13. Requires Magisk 24.0+ and Zygisk enabled.",
       "track": {
@@ -4786,6 +4892,13 @@
           "versionCode": 6712,
           "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/zygisk_lsposed/v1.8.6_(6712)_6712.zip",
           "changelog": "https://eljoker63.github.io/repo-magisk/modules/zygisk_lsposed/v1.8.6_(6712)_6712.md"
+        },
+        {
+          "timestamp": 1693323320.0,
+          "version": "v1.9.0 (6986)",
+          "versionCode": 6986,
+          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/zygisk_lsposed/v1.9.0_6986.zip",
+          "changelog": "https://eljoker63.github.io/repo-magisk/modules/zygisk_lsposed/v1.9.0_6986.md"
         }
       ]
     },

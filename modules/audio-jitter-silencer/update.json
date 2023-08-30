@@ -22,6 +22,13 @@
       "versionCode": 1004,
       "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/audio-jitter-silencer/v1.0.4_1004.zip",
       "changelog": "https://eljoker63.github.io/repo-magisk/modules/audio-jitter-silencer/v1.0.4_1004.md"
+    },
+    {
+      "timestamp": 1693302157.0,
+      "version": "v1.0.5",
+      "versionCode": 1005,
+      "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/audio-jitter-silencer/v1.0.5_1005.zip",
+      "changelog": "https://eljoker63.github.io/repo-magisk/modules/audio-jitter-silencer/v1.0.5_1005.md"
     }
   ]
 }

@@ -8,6 +8,13 @@
       "versionCode": 61,
       "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/DolbyAudio/v6.1_61.zip",
       "changelog": ""
+    },
+    {
+      "timestamp": 1693328350.0,
+      "version": "v6.2",
+      "versionCode": 62,
+      "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/DolbyAudio/v6.2_62.zip",
+      "changelog": ""
     }
   ]
 }
