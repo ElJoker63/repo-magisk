@@ -1,0 +1,13 @@
+{
+  "id": "ssh",
+  "timestamp": 1691227205.0,
+  "versions": [
+    {
+      "timestamp": 1691227205.0,
+      "version": "v0.16",
+      "versionCode": 15,
+      "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/ssh/v0.16_15.zip",
+      "changelog": "https://eljoker63.github.io/repo-magisk/modules/ssh/v0.16_15.md"
+    }
+  ]
+}
