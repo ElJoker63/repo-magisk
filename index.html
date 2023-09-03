@@ -13,14 +13,14 @@
       <img width="100%" src="Magisk-App-Featured.jpg">
     
       <div class="col align-items-center content" >
-        <p class="AEWARE_MAGISK_REPOSITORY grad">
+        <!--p class="AEWARE_MAGISK_REPOSITORY grad">
           <span class="align-items-center" id="repoName"></span>
-        </p>
-        <p id="resultado" class="grad" style="font-size: 20px;"><!--b>VERSION:</b> <span id="version"></span--></p>
-    <strong>ULTIMA ACTUALIZACION:</strong> <span id="timestamp"></span>
-    <b>LINK DEL REPOSITORIO</b>
+        </p-->
+        <p id="resultado" class="gradb" style="font-size: 20px;"><!--b>VERSION:</b> <span id="version"></span--></p>
+    <strong class="gradb">ULTIMA ACTUALIZACION:</strong> <span class="gradr" id="timestamp"></span>
+    <b class="gradb">LINK DEL REPOSITORIO</b>
         <div class="caption1" id="publishedByText">
-          <span class="grad" style="font-size: 25px;" id="baseurl"></span>
+          <span class="gradr" style="font-size: 25px;" id="baseurl"></span>
         </div>
     </div>
   </div>
@@ -86,7 +86,7 @@ span.addEventListener('click', function() {
     .then(response => response.json())
     .then(jsonData => {
       // Mostrar la información del repositorio
-      document.getElementById('repoName').textContent = jsonData.name;
+      //document.getElementById('repoName').textContent = jsonData.name;
       document.getElementById('timestamp').textContent = new Date(jsonData.metadata.timestamp * 1000).toLocaleString();
       //document.getElementById('version').textContent = jsonData.metadata.version;
       // Obtener el elemento HTML donde se mostrará el resultado
@@ -108,9 +108,9 @@ span.addEventListener('click', function() {
         listItem.innerHTML = `
         <fluent-data-grid-row data-package-name="${module.name}" data-package-id="com.vrchat.udonsharp" role="row" row-type="default">
           <a href="${module.versions[0].zipUrl}"><fluent-data-grid-cell grid-column="1" role="gridcell" style="grid-column: 1;" cell-type="default">
-              <div class="packageName">${module.name} (${module.version})</div>
-              <div class="caption1">${module.description}</div>
-              <div class="caption2">${module.author}</div>
+              <div class="packageName grad">${module.name} (${module.version})</div>
+              <div class="caption1 gradb">${module.description}</div>
+              <div class="caption2 gradr">${module.author}</div>
           </fluent-data-grid-cell></a>
           <!--fluent-data-grid-cell grid-column="2" class="row align-items-center" tabindex="-1" role="gridcell" style="grid-column: 2;" cell-type="default">
             (${module.version})
@@ -129,6 +129,6 @@ span.addEventListener('click', function() {
 
 
   <script type="module" src="script.js"></script>
-  <div class="caption1 mb-2" id="publishedByText">Creado por <a href="https://t.me/ElJoker63" target="_blank">ElJoker63</a></div>
+  <div class="caption1 mb-2 grad" >Creado por <a href="https://t.me/ElJoker63" target="_blank"><b>ElJoker63</b></a></div>
 </body>
 </html>

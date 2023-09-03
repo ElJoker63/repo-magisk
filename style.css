@@ -378,7 +378,19 @@
   z-index: 5;}
 
   .grad{
-  background-image: linear-gradient(#38e6c5, #affa9d);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-}
+    background-image: linear-gradient(#38e6c5, #affa9d);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+
+  .gradr{
+    background-image: linear-gradient(#e53737, #fa9d9d);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+
+  .gradb{
+    background-image: linear-gradient(#38e6c5, #9de1fa);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
