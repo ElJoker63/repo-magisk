@@ -5,14 +5,14 @@
       "timestamp": 1690200871.579794,
       "version": "v1.12",
       "versionCode": 12,
-      "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/MiuiSecurity/v1.12_12.zip",
+      "zipUrl": "https://repo-magisk.netlify.app/modules/MiuiSecurity/v1.12_12.zip",
       "changelog": ""
     },
     {
       "timestamp": 1692496122.0,
       "version": "v1.14",
       "versionCode": 14,
-      "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/MiuiSecurity/v1.14_14.zip",
+      "zipUrl": "https://repo-magisk.netlify.app/modules/MiuiSecurity/v1.14_14.zip",
       "changelog": ""
     }
   ],

@@ -6,14 +6,14 @@
       "timestamp": 1684130177.0,
       "version": "v1.15",
       "versionCode": 15,
-      "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/ZRAMSwapConfigurator/v1.15_15.zip",
+      "zipUrl": "https://repo-magisk.netlify.app/modules/ZRAMSwapConfigurator/v1.15_15.zip",
       "changelog": ""
     },
     {
       "timestamp": 1692835356.0,
       "version": "v1.16",
       "versionCode": 16,
-      "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/ZRAMSwapConfigurator/v1.16_16.zip",
+      "zipUrl": "https://repo-magisk.netlify.app/modules/ZRAMSwapConfigurator/v1.16_16.zip",
       "changelog": ""
     }
   ]

@@ -6,14 +6,14 @@
       "timestamp": 1687308301.0,
       "version": "v7.2",
       "versionCode": 72,
-      "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/SoundEnhancement/v7.2_72.zip",
+      "zipUrl": "https://repo-magisk.netlify.app/modules/SoundEnhancement/v7.2_72.zip",
       "changelog": ""
     },
     {
       "timestamp": 1693647071.0,
       "version": "v7.3",
       "versionCode": 73,
-      "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/SoundEnhancement/v7.3_73.zip",
+      "zipUrl": "https://repo-magisk.netlify.app/modules/SoundEnhancement/v7.3_73.zip",
       "changelog": ""
     }
   ]

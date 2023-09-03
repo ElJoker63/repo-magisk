@@ -5,15 +5,15 @@
       "timestamp": 1690223593.522435,
       "version": "A.24 (236)",
       "versionCode": 236,
-      "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/asoul_affinity_opt/A.24_236.zip",
+      "zipUrl": "https://repo-magisk.netlify.app/modules/asoul_affinity_opt/A.24_236.zip",
       "changelog": ""
     },
     {
       "timestamp": 1692204521.0,
       "version": "A.28 (240)",
       "versionCode": 240,
-      "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/asoul_affinity_opt/A.28_240.zip",
-      "changelog": "https://eljoker63.github.io/repo-magisk/modules/asoul_affinity_opt/A.28_240.md"
+      "zipUrl": "https://repo-magisk.netlify.app/modules/asoul_affinity_opt/A.28_240.zip",
+      "changelog": "https://repo-magisk.netlify.app/modules/asoul_affinity_opt/A.28_240.md"
     }
   ],
   "timestamp": 1690223593.522435

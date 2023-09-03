@@ -6,8 +6,8 @@
       "timestamp": 1673286512.0,
       "version": "v2.4.0",
       "versionCode": 20400,
-      "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/safetynet-fix/v2.4.0_20400.zip",
-      "changelog": "https://eljoker63.github.io/repo-magisk/modules/safetynet-fix/v2.4.0_20400.md"
+      "zipUrl": "https://repo-magisk.netlify.app/modules/safetynet-fix/v2.4.0_20400.zip",
+      "changelog": "https://repo-magisk.netlify.app/modules/safetynet-fix/v2.4.0_20400.md"
     }
   ]
 }

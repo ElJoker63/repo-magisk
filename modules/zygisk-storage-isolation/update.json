@@ -6,8 +6,8 @@
       "timestamp": 1679899057.0,
       "version": "v28.1.0",
       "versionCode": 85,
-      "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/zygisk-storage-isolation/v28.1.0_85.zip",
-      "changelog": "https://eljoker63.github.io/repo-magisk/modules/zygisk-storage-isolation/v28.1.0_85.md"
+      "zipUrl": "https://repo-magisk.netlify.app/modules/zygisk-storage-isolation/v28.1.0_85.zip",
+      "changelog": "https://repo-magisk.netlify.app/modules/zygisk-storage-isolation/v28.1.0_85.md"
     }
   ]
 }

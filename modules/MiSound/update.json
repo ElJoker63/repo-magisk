@@ -6,14 +6,14 @@
       "timestamp": 1687276179.0,
       "version": "v2.6",
       "versionCode": 26,
-      "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/MiSound/v2.6_26.zip",
+      "zipUrl": "https://repo-magisk.netlify.app/modules/MiSound/v2.6_26.zip",
       "changelog": ""
     },
     {
       "timestamp": 1693651198.0,
       "version": "v2.8",
       "versionCode": 28,
-      "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/MiSound/v2.8_28.zip",
+      "zipUrl": "https://repo-magisk.netlify.app/modules/MiSound/v2.8_28.zip",
       "changelog": ""
     }
   ]
