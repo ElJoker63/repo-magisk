@@ -366,3 +366,19 @@
   .flex-1 {
     flex: 1;
   }
+
+
+
+  .AEWARE_MAGISK_REPOSITORY {
+  font-size: 40px;
+  font-family: "Neon 80s";
+  color: rgb(255, 255, 255);
+  line-height: 0.856;
+  text-align: center;
+  z-index: 5;}
+
+  .grad{
+  background-image: linear-gradient(#38e6c5, #affa9d);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
