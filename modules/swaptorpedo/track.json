@@ -1,8 +1,8 @@
 {
   "id": "swaptorpedo",
-  "update_to": "Swap_Torpedo-v1.1.zip",
+  "update_to": "Swap_Torpedo-v1.2.1.zip",
+  "license": "free",
   "added": 1690223103.7907,
-  "last_update": 1690215407.5486708,
-  "versions": 1,
-  "license": "free"
+  "last_update": 1693728073.9766438,
+  "versions": 2
 }

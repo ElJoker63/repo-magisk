@@ -2,7 +2,7 @@
   "name": "AEware Repo Magisk Modules",
   "metadata": {
     "version": 1,
-    "timestamp": 1693727574.18559
+    "timestamp": 1693738355.308518
   },
   "modules": [
     {
@@ -26,7 +26,7 @@
           "timestamp": 1640525162.0,
           "version": "v1.3",
           "versionCode": 4,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/AFWall-Boot-AntiLeak/v1.3_4.zip",
+          "zipUrl": "https://repo-magisk.netlify.app/modules/AFWall-Boot-AntiLeak/v1.3_4.zip",
           "changelog": ""
         }
       ]
@@ -52,7 +52,7 @@
           "timestamp": 1690309755.375532,
           "version": "v1.9",
           "versionCode": 71,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/AIST/v1.9_71.zip",
+          "zipUrl": "https://repo-magisk.netlify.app/modules/AIST/v1.9_71.zip",
           "changelog": ""
         }
       ]
@@ -78,7 +78,7 @@
           "timestamp": 1686282590.0,
           "version": "v0.2",
           "versionCode": 2,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/ANRTM/v0.2_2.zip",
+          "zipUrl": "https://repo-magisk.netlify.app/modules/ANRTM/v0.2_2.zip",
           "changelog": ""
         }
       ]
@@ -104,7 +104,7 @@
           "timestamp": 1683124699.0,
           "version": "v2.7f",
           "versionCode": 27,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/AdGuardDNS4Magisk/v2.7f_27.zip",
+          "zipUrl": "https://repo-magisk.netlify.app/modules/AdGuardDNS4Magisk/v2.7f_27.zip",
           "changelog": ""
         }
       ]
@@ -130,7 +130,7 @@
           "timestamp": 1678892176.0,
           "version": "v2.7f",
           "versionCode": 27,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/AdGuardDNS4Magisk-IPv6/v2.7f_27.zip",
+          "zipUrl": "https://repo-magisk.netlify.app/modules/AdGuardDNS4Magisk-IPv6/v2.7f_27.zip",
           "changelog": ""
         }
       ]
@@ -156,14 +156,14 @@
           "timestamp": 1690218654.8440053,
           "version": "v2.13",
           "versionCode": 23,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/Atmos/v2.13_23.zip",
+          "zipUrl": "https://repo-magisk.netlify.app/modules/Atmos/v2.13_23.zip",
           "changelog": ""
         },
         {
           "timestamp": 1687254613.0,
           "version": "v2.15",
           "versionCode": 25,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/Atmos/v2.15_25.zip",
+          "zipUrl": "https://repo-magisk.netlify.app/modules/Atmos/v2.15_25.zip",
           "changelog": ""
         }
       ]
@@ -189,7 +189,7 @@
           "timestamp": 1615045465.0,
           "version": "MIUI12 v1",
           "versionCode": 1,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/Better-MIUI-Icons/MIUI12_v1_1.zip",
+          "zipUrl": "https://repo-magisk.netlify.app/modules/Better-MIUI-Icons/MIUI12_v1_1.zip",
           "changelog": ""
         }
       ]
@@ -215,7 +215,7 @@
           "timestamp": 1690309947.562639,
           "version": "1",
           "versionCode": 1,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/Bootanimation/1_1.zip",
+          "zipUrl": "https://repo-magisk.netlify.app/modules/Bootanimation/1_1.zip",
           "changelog": ""
         }
       ]
@@ -241,7 +241,7 @@
           "timestamp": 1644775126.0,
           "version": "v4.0.4",
           "versionCode": 4,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/BraviaEngine/v4.0.4_4.zip",
+          "zipUrl": "https://repo-magisk.netlify.app/modules/BraviaEngine/v4.0.4_4.zip",
           "changelog": ""
         }
       ]
@@ -267,15 +267,15 @@
           "timestamp": 1686205026.0,
           "version": "1.0.6",
           "versionCode": 106,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/BuiltIn-BusyBox/1.0.6_106.zip",
-          "changelog": "https://eljoker63.github.io/repo-magisk/modules/BuiltIn-BusyBox/1.0.6_106.md"
+          "zipUrl": "https://repo-magisk.netlify.app/modules/BuiltIn-BusyBox/1.0.6_106.zip",
+          "changelog": "https://repo-magisk.netlify.app/modules/BuiltIn-BusyBox/1.0.6_106.md"
         },
         {
           "timestamp": 1691527282.0,
           "version": "1.0.7",
           "versionCode": 107,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/BuiltIn-BusyBox/1.0.7_107.zip",
-          "changelog": "https://eljoker63.github.io/repo-magisk/modules/BuiltIn-BusyBox/1.0.7_107.md"
+          "zipUrl": "https://repo-magisk.netlify.app/modules/BuiltIn-BusyBox/1.0.7_107.zip",
+          "changelog": "https://repo-magisk.netlify.app/modules/BuiltIn-BusyBox/1.0.7_107.md"
         }
       ]
     },
@@ -300,7 +300,7 @@
           "timestamp": 1690218703.4945326,
           "version": "v1.0",
           "versionCode": 1,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/CHARGEX/v1.0_1.zip",
+          "zipUrl": "https://repo-magisk.netlify.app/modules/CHARGEX/v1.0_1.zip",
           "changelog": ""
         }
       ]
@@ -326,7 +326,7 @@
           "timestamp": 1690309987.637254,
           "version": "2023-07-05",
           "versionCode": 230705,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/Cheetah_Prop/2023-07-05_230705.zip",
+          "zipUrl": "https://repo-magisk.netlify.app/modules/Cheetah_Prop/2023-07-05_230705.zip",
           "changelog": ""
         }
       ]
@@ -352,8 +352,8 @@
           "timestamp": 1663827433.0,
           "version": "1.13.0",
           "versionCode": 101300022,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/Clash4Magisk/1.13.0_101300022.zip",
-          "changelog": "https://eljoker63.github.io/repo-magisk/modules/Clash4Magisk/1.13.0_101300022.md"
+          "zipUrl": "https://repo-magisk.netlify.app/modules/Clash4Magisk/1.13.0_101300022.zip",
+          "changelog": "https://repo-magisk.netlify.app/modules/Clash4Magisk/1.13.0_101300022.md"
         }
       ]
     },
@@ -378,7 +378,7 @@
           "timestamp": 1690223603.554096,
           "version": "v7",
           "versionCode": 7,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/Closelogd/v7_7.zip",
+          "zipUrl": "https://repo-magisk.netlify.app/modules/Closelogd/v7_7.zip",
           "changelog": ""
         }
       ]
@@ -404,7 +404,7 @@
           "timestamp": 1644450020.0,
           "version": "v2.7",
           "versionCode": 27,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/CloudflareDNS4Magisk/v2.7_27.zip",
+          "zipUrl": "https://repo-magisk.netlify.app/modules/CloudflareDNS4Magisk/v2.7_27.zip",
           "changelog": ""
         }
       ]
@@ -430,7 +430,7 @@
           "timestamp": 1673388915.0,
           "version": "v2.7",
           "versionCode": 27,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/CloudflareDNS4Magisk-IPv6/v2.7_27.zip",
+          "zipUrl": "https://repo-magisk.netlify.app/modules/CloudflareDNS4Magisk-IPv6/v2.7_27.zip",
           "changelog": ""
         }
       ]
@@ -456,8 +456,8 @@
           "timestamp": 1680734245.0,
           "version": "3.2",
           "versionCode": 5,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/CustomizedNavbar/3.2_5.zip",
-          "changelog": "https://eljoker63.github.io/repo-magisk/modules/CustomizedNavbar/3.2_5.md"
+          "zipUrl": "https://repo-magisk.netlify.app/modules/CustomizedNavbar/3.2_5.zip",
+          "changelog": "https://repo-magisk.netlify.app/modules/CustomizedNavbar/3.2_5.md"
         }
       ]
     },
@@ -482,7 +482,7 @@
           "timestamp": 1673728563.0,
           "version": "v2",
           "versionCode": 2,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/DalvikHyperthreading/v2_2.zip",
+          "zipUrl": "https://repo-magisk.netlify.app/modules/DalvikHyperthreading/v2_2.zip",
           "changelog": ""
         }
       ]
@@ -508,7 +508,7 @@
           "timestamp": 1645534294.0,
           "version": "v5.3",
           "versionCode": 530,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/Detach/v5.3_530.zip",
+          "zipUrl": "https://repo-magisk.netlify.app/modules/Detach/v5.3_530.zip",
           "changelog": ""
         }
       ]
@@ -534,14 +534,14 @@
           "timestamp": 1687262744.0,
           "version": "v1.8",
           "versionCode": 18,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/DolbyAtmos/v1.8_18.zip",
+          "zipUrl": "https://repo-magisk.netlify.app/modules/DolbyAtmos/v1.8_18.zip",
           "changelog": ""
         },
         {
           "timestamp": 1693302804.0,
           "version": "v1.9",
           "versionCode": 19,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/DolbyAtmos/v1.9_19.zip",
+          "zipUrl": "https://repo-magisk.netlify.app/modules/DolbyAtmos/v1.9_19.zip",
           "changelog": ""
         }
       ]
@@ -567,14 +567,14 @@
           "timestamp": 1687267145.0,
           "version": "v6.1",
           "versionCode": 61,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/DolbyAudio/v6.1_61.zip",
+          "zipUrl": "https://repo-magisk.netlify.app/modules/DolbyAudio/v6.1_61.zip",
           "changelog": ""
         },
         {
           "timestamp": 1693328350.0,
           "version": "v6.2",
           "versionCode": 62,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/DolbyAudio/v6.2_62.zip",
+          "zipUrl": "https://repo-magisk.netlify.app/modules/DolbyAudio/v6.2_62.zip",
           "changelog": ""
         }
       ]
@@ -600,7 +600,7 @@
           "timestamp": 1690310068.8944786,
           "version": "2.5",
           "versionCode": 25,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/EXTEND/2.5_25.zip",
+          "zipUrl": "https://repo-magisk.netlify.app/modules/EXTEND/2.5_25.zip",
           "changelog": ""
         }
       ]
@@ -626,7 +626,7 @@
           "timestamp": 1690223566.6337292,
           "version": "v3.3.2",
           "versionCode": 3302,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/EvoMem/v3.3.2_3302.zip",
+          "zipUrl": "https://repo-magisk.netlify.app/modules/EvoMem/v3.3.2_3302.zip",
           "changelog": ""
         }
       ]
@@ -652,8 +652,8 @@
           "timestamp": 1647226419.0,
           "version": "Version 0.2.13",
           "versionCode": 20220314,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/Fdroid-Priv/Version_0.2.13_20220314.zip",
-          "changelog": "https://eljoker63.github.io/repo-magisk/modules/Fdroid-Priv/Version_0.2.13_20220314.md"
+          "zipUrl": "https://repo-magisk.netlify.app/modules/Fdroid-Priv/Version_0.2.13_20220314.zip",
+          "changelog": "https://repo-magisk.netlify.app/modules/Fdroid-Priv/Version_0.2.13_20220314.md"
         }
       ]
     },
@@ -678,7 +678,7 @@
           "timestamp": 1690309961.7785776,
           "version": "v1.0",
           "versionCode": 1,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/Flipendo/v1.0_1.zip",
+          "zipUrl": "https://repo-magisk.netlify.app/modules/Flipendo/v1.0_1.zip",
           "changelog": ""
         }
       ]
@@ -704,8 +704,8 @@
           "timestamp": 1683468066.0,
           "version": "v1.4A",
           "versionCode": 140,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/GMSDoze/v1.4A_140.zip",
-          "changelog": "https://eljoker63.github.io/repo-magisk/modules/GMSDoze/v1.4A_140.md"
+          "zipUrl": "https://repo-magisk.netlify.app/modules/GMSDoze/v1.4A_140.zip",
+          "changelog": "https://repo-magisk.netlify.app/modules/GMSDoze/v1.4A_140.md"
         }
       ]
     },
@@ -730,8 +730,8 @@
           "timestamp": 1683468277.0,
           "version": "v1.4B",
           "versionCode": 141,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/GMSDozeBlockFind/v1.4B_141.zip",
-          "changelog": "https://eljoker63.github.io/repo-magisk/modules/GMSDozeBlockFind/v1.4B_141.md"
+          "zipUrl": "https://repo-magisk.netlify.app/modules/GMSDozeBlockFind/v1.4B_141.zip",
+          "changelog": "https://repo-magisk.netlify.app/modules/GMSDozeBlockFind/v1.4B_141.md"
         }
       ]
     },
@@ -756,7 +756,7 @@
           "timestamp": 1690218885.8449538,
           "version": "6.2",
           "versionCode": 620,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/GPUTurboBoost/6.2_620.zip",
+          "zipUrl": "https://repo-magisk.netlify.app/modules/GPUTurboBoost/6.2_620.zip",
           "changelog": ""
         }
       ]
@@ -782,7 +782,7 @@
           "timestamp": 1690309983.3965168,
           "version": "1.0",
           "versionCode": 1,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/GPhotoEraser/1.0_1.zip",
+          "zipUrl": "https://repo-magisk.netlify.app/modules/GPhotoEraser/1.0_1.zip",
           "changelog": ""
         }
       ]
@@ -808,7 +808,7 @@
           "timestamp": 1692692761.0,
           "version": "8",
           "versionCode": 9,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/GSNO/8_9.zip",
+          "zipUrl": "https://repo-magisk.netlify.app/modules/GSNO/8_9.zip",
           "changelog": ""
         }
       ]
@@ -834,7 +834,7 @@
           "timestamp": 1690426522.8626077,
           "version": "3",
           "versionCode": 999,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/GSPHL/3_999.zip",
+          "zipUrl": "https://repo-magisk.netlify.app/modules/GSPHL/3_999.zip",
           "changelog": ""
         }
       ]
@@ -860,7 +860,7 @@
           "timestamp": 1690309777.5855312,
           "version": "v1.0",
           "versionCode": 1,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/GameSpace/v1.0_1.zip",
+          "zipUrl": "https://repo-magisk.netlify.app/modules/GameSpace/v1.0_1.zip",
           "changelog": ""
         }
       ]
@@ -886,7 +886,7 @@
           "timestamp": 1598228686.0,
           "version": "v1.0",
           "versionCode": 1,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/Google-Sans/v1.0_1.zip",
+          "zipUrl": "https://repo-magisk.netlify.app/modules/Google-Sans/v1.0_1.zip",
           "changelog": ""
         }
       ]
@@ -912,7 +912,7 @@
           "timestamp": 1598227265.0,
           "version": "v1.0",
           "versionCode": 1,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/Google-Sans-Plus/v1.0_1.zip",
+          "zipUrl": "https://repo-magisk.netlify.app/modules/Google-Sans-Plus/v1.0_1.zip",
           "changelog": ""
         }
       ]
@@ -938,7 +938,33 @@
           "timestamp": 1690223448.1378932,
           "version": "v4.5.1 (BETA)",
           "versionCode": 72,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/Greenify4Magisk/v4.5.1_BETA_72.zip",
+          "zipUrl": "https://repo-magisk.netlify.app/modules/Greenify4Magisk/v4.5.1_BETA_72.zip",
+          "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "HEXEditor",
+      "name": "HEX Editor",
+      "version": "v1.10",
+      "versionCode": 10,
+      "author": "Rei Ryuki the Fixer",
+      "description": "Bypasses security restrictions for HEX Editor app.",
+      "track": {
+        "type": "GIT",
+        "added": 1693731732.40423,
+        "license": "",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1690337939.0,
+          "version": "v1.10",
+          "versionCode": 10,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/HEXEditor/v1.10_10.zip",
           "changelog": ""
         }
       ]
@@ -964,7 +990,7 @@
           "timestamp": 1693130549.4949694,
           "version": "1.0 Beta",
           "versionCode": 10,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/HenBz/1.0_Beta_10.zip",
+          "zipUrl": "https://repo-magisk.netlify.app/modules/HenBz/1.0_Beta_10.zip",
           "changelog": ""
         }
       ]
@@ -990,14 +1016,14 @@
           "timestamp": 1672873450.0,
           "version": "v21.0",
           "versionCode": 55,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/HideNavBar/v21.0_55.zip",
+          "zipUrl": "https://repo-magisk.netlify.app/modules/HideNavBar/v21.0_55.zip",
           "changelog": ""
         },
         {
           "timestamp": 1691819224.0,
           "version": "v22.0",
           "versionCode": 56,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/HideNavBar/v22.0_56.zip",
+          "zipUrl": "https://repo-magisk.netlify.app/modules/HideNavBar/v22.0_56.zip",
           "changelog": ""
         }
       ]
@@ -1023,7 +1049,7 @@
           "timestamp": 1690223625.2097962,
           "version": "v3",
           "versionCode": 3,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/IORap/v3_3.zip",
+          "zipUrl": "https://repo-magisk.netlify.app/modules/IORap/v3_3.zip",
           "changelog": ""
         }
       ]
@@ -1049,7 +1075,7 @@
           "timestamp": 1693128815.9136636,
           "version": "v3.0 AI",
           "versionCode": 30,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/Kaguyagaming/v3.0_AI_30.zip",
+          "zipUrl": "https://repo-magisk.netlify.app/modules/Kaguyagaming/v3.0_AI_30.zip",
           "changelog": ""
         }
       ]
@@ -1075,8 +1101,8 @@
           "timestamp": 1661027636.0,
           "version": "v1.0",
           "versionCode": 1,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/Luz-Nocturna_Modded/v1.0_1.zip",
-          "changelog": "https://eljoker63.github.io/repo-magisk/modules/Luz-Nocturna_Modded/v1.0_1.md"
+          "zipUrl": "https://repo-magisk.netlify.app/modules/Luz-Nocturna_Modded/v1.0_1.zip",
+          "changelog": "https://repo-magisk.netlify.app/modules/Luz-Nocturna_Modded/v1.0_1.md"
         }
       ]
     },
@@ -1101,7 +1127,7 @@
           "timestamp": 1690218706.9075272,
           "version": "19.2.0 (UNIFORM)",
           "versionCode": 190200,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/MAGNETAR/19.2.0_UNIFORM_190200.zip",
+          "zipUrl": "https://repo-magisk.netlify.app/modules/MAGNETAR/19.2.0_UNIFORM_190200.zip",
           "changelog": ""
         }
       ]
@@ -1127,7 +1153,7 @@
           "timestamp": 1598109398.0,
           "version": "v1",
           "versionCode": 1,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/MacRandomizationEnabler/v1_1.zip",
+          "zipUrl": "https://repo-magisk.netlify.app/modules/MacRandomizationEnabler/v1_1.zip",
           "changelog": ""
         }
       ]
@@ -1153,7 +1179,7 @@
           "timestamp": 1690554263.0,
           "version": "v2.8",
           "versionCode": 18,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/MiMusic/v2.8_18.zip",
+          "zipUrl": "https://repo-magisk.netlify.app/modules/MiMusic/v2.8_18.zip",
           "changelog": ""
         }
       ]
@@ -1179,14 +1205,14 @@
           "timestamp": 1687276179.0,
           "version": "v2.6",
           "versionCode": 26,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/MiSound/v2.6_26.zip",
+          "zipUrl": "https://repo-magisk.netlify.app/modules/MiSound/v2.6_26.zip",
           "changelog": ""
         },
         {
           "timestamp": 1693651198.0,
           "version": "v2.8",
           "versionCode": 28,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/MiSound/v2.8_28.zip",
+          "zipUrl": "https://repo-magisk.netlify.app/modules/MiSound/v2.8_28.zip",
           "changelog": ""
         }
       ]
@@ -1212,7 +1238,7 @@
           "timestamp": 1685699391.0,
           "version": "v6.63.1_B23042510",
           "versionCode": 29,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/MiXplorer/v6.63.1_B23042510_29.zip",
+          "zipUrl": "https://repo-magisk.netlify.app/modules/MiXplorer/v6.63.1_B23042510_29.zip",
           "changelog": ""
         }
       ]
@@ -1238,14 +1264,14 @@
           "timestamp": 1690200854.872133,
           "version": "v4.12",
           "versionCode": 42,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/MiuiCore/v4.12_42.zip",
+          "zipUrl": "https://repo-magisk.netlify.app/modules/MiuiCore/v4.12_42.zip",
           "changelog": ""
         },
         {
           "timestamp": 1692087543.0,
           "version": "v4.17",
           "versionCode": 47,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/MiuiCore/v4.17_47.zip",
+          "zipUrl": "https://repo-magisk.netlify.app/modules/MiuiCore/v4.17_47.zip",
           "changelog": ""
         }
       ]
@@ -1271,14 +1297,14 @@
           "timestamp": 1690200871.579794,
           "version": "v1.12",
           "versionCode": 12,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/MiuiSecurity/v1.12_12.zip",
+          "zipUrl": "https://repo-magisk.netlify.app/modules/MiuiSecurity/v1.12_12.zip",
           "changelog": ""
         },
         {
           "timestamp": 1692496122.0,
           "version": "v1.14",
           "versionCode": 14,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/MiuiSecurity/v1.14_14.zip",
+          "zipUrl": "https://repo-magisk.netlify.app/modules/MiuiSecurity/v1.14_14.zip",
           "changelog": ""
         }
       ]
@@ -1304,7 +1330,7 @@
           "timestamp": 1690200859.2422283,
           "version": "v0.3",
           "versionCode": 3,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/MiuiSettingsMod/v0.3_3.zip",
+          "zipUrl": "https://repo-magisk.netlify.app/modules/MiuiSettingsMod/v0.3_3.zip",
           "changelog": ""
         }
       ]
@@ -1330,14 +1356,14 @@
           "timestamp": 1685871448.0,
           "version": "v0.3",
           "versionCode": 3,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/MotoWaves/v0.3_3.zip",
+          "zipUrl": "https://repo-magisk.netlify.app/modules/MotoWaves/v0.3_3.zip",
           "changelog": ""
         },
         {
           "timestamp": 1692755905.0,
           "version": "v0.4",
           "versionCode": 4,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/MotoWaves/v0.4_4.zip",
+          "zipUrl": "https://repo-magisk.netlify.app/modules/MotoWaves/v0.4_4.zip",
           "changelog": ""
         }
       ]
@@ -1363,7 +1389,7 @@
           "timestamp": 1661028127.0,
           "version": "v1.1",
           "versionCode": 11,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/NavBar_Resize/v1.1_11.zip",
+          "zipUrl": "https://repo-magisk.netlify.app/modules/NavBar_Resize/v1.1_11.zip",
           "changelog": ""
         }
       ]
@@ -1389,8 +1415,34 @@
           "timestamp": 1665059184.0,
           "version": "v2.0",
           "versionCode": 2,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/NavBar_Resize_MIUI/v2.0_2.zip",
+          "zipUrl": "https://repo-magisk.netlify.app/modules/NavBar_Resize_MIUI/v2.0_2.zip",
           "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "Neribox",
+      "name": "Neribox",
+      "version": "2.6",
+      "versionCode": 20230902,
+      "author": "\u98ce\u53c8\u97f3\u7406Neri",
+      "description": "",
+      "track": {
+        "type": "ONLINE_JSON",
+        "added": 1693735538.68689,
+        "license": "",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1693625032.0,
+          "version": "2.6",
+          "versionCode": 20230902,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/Neribox/2.6_20230902.zip",
+          "changelog": "https://repo-magisk.netlify.app/modules/Neribox/2.6_20230902.md"
         }
       ]
     },
@@ -1415,7 +1467,7 @@
           "timestamp": 1673519027.0,
           "version": "v0.0.2",
           "versionCode": 2,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/NoProcStatRestriction/v0.0.2_2.zip",
+          "zipUrl": "https://repo-magisk.netlify.app/modules/NoProcStatRestriction/v0.0.2_2.zip",
           "changelog": ""
         }
       ]
@@ -1441,7 +1493,7 @@
           "timestamp": 1679266482.0,
           "version": "v5",
           "versionCode": 6,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/NoStorageRestrict/v5_6.zip",
+          "zipUrl": "https://repo-magisk.netlify.app/modules/NoStorageRestrict/v5_6.zip",
           "changelog": ""
         }
       ]
@@ -1467,14 +1519,14 @@
           "timestamp": 1684297323.0,
           "version": "v0.3",
           "versionCode": 3,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/OZOAudioCapture/v0.3_3.zip",
+          "zipUrl": "https://repo-magisk.netlify.app/modules/OZOAudioCapture/v0.3_3.zip",
           "changelog": ""
         },
         {
           "timestamp": 1692876383.0,
           "version": "v0.4",
           "versionCode": 4,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/OZOAudioCapture/v0.4_4.zip",
+          "zipUrl": "https://repo-magisk.netlify.app/modules/OZOAudioCapture/v0.4_4.zip",
           "changelog": ""
         }
       ]
@@ -1500,7 +1552,7 @@
           "timestamp": 1690309923.129153,
           "version": "v2.0",
           "versionCode": 2,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/OctaviLauncher_Port/v2.0_2.zip",
+          "zipUrl": "https://repo-magisk.netlify.app/modules/OctaviLauncher_Port/v2.0_2.zip",
           "changelog": ""
         }
       ]
@@ -1526,7 +1578,7 @@
           "timestamp": 1624492127.0,
           "version": "v1.5.2",
           "versionCode": 152,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/OneController/v1.5.2_152.zip",
+          "zipUrl": "https://repo-magisk.netlify.app/modules/OneController/v1.5.2_152.zip",
           "changelog": ""
         }
       ]
@@ -1552,7 +1604,7 @@
           "timestamp": 1643666484.0,
           "version": "v0.0.1",
           "versionCode": 30,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/OnePlus6Oxygen_22.J.62_debloater/v0.0.1_30.zip",
+          "zipUrl": "https://repo-magisk.netlify.app/modules/OnePlus6Oxygen_22.J.62_debloater/v0.0.1_30.zip",
           "changelog": ""
         }
       ]
@@ -1578,7 +1630,7 @@
           "timestamp": 1687585548.0,
           "version": "v1.12",
           "versionCode": 12,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/OneUIHome/v1.12_12.zip",
+          "zipUrl": "https://repo-magisk.netlify.app/modules/OneUIHome/v1.12_12.zip",
           "changelog": ""
         }
       ]
@@ -1604,7 +1656,7 @@
           "timestamp": 1645367235.0,
           "version": "v1",
           "versionCode": 1,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/PLEX_SKIP_INTRO_DPAD_CONTROLLER_FIX/v1_1.zip",
+          "zipUrl": "https://repo-magisk.netlify.app/modules/PLEX_SKIP_INTRO_DPAD_CONTROLLER_FIX/v1_1.zip",
           "changelog": ""
         }
       ]
@@ -1630,7 +1682,7 @@
           "timestamp": 1690309771.3115833,
           "version": "5.7.1",
           "versionCode": 5710,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/PUIA13Theme/5.7.1_5710.zip",
+          "zipUrl": "https://repo-magisk.netlify.app/modules/PUIA13Theme/5.7.1_5710.zip",
           "changelog": ""
         }
       ]
@@ -1656,7 +1708,7 @@
           "timestamp": 1690309917.2610526,
           "version": "v1.0",
           "versionCode": 1,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/ParanoidLauncher_Port/v1.0_1.zip",
+          "zipUrl": "https://repo-magisk.netlify.app/modules/ParanoidLauncher_Port/v1.0_1.zip",
           "changelog": ""
         }
       ]
@@ -1682,7 +1734,7 @@
           "timestamp": 1690223626.5948448,
           "version": "1.0-beta",
           "versionCode": 1,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/PixelifyPhotos/1.0-beta_1.zip",
+          "zipUrl": "https://repo-magisk.netlify.app/modules/PixelifyPhotos/1.0-beta_1.zip",
           "changelog": ""
         }
       ]
@@ -1708,8 +1760,8 @@
           "timestamp": 1660425389.0,
           "version": "v1.0",
           "versionCode": 1,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/QS_Rectangulares/v1.0_1.zip",
-          "changelog": "https://eljoker63.github.io/repo-magisk/modules/QS_Rectangulares/v1.0_1.md"
+          "zipUrl": "https://repo-magisk.netlify.app/modules/QS_Rectangulares/v1.0_1.zip",
+          "changelog": "https://repo-magisk.netlify.app/modules/QS_Rectangulares/v1.0_1.md"
         }
       ]
     },
@@ -1734,7 +1786,7 @@
           "timestamp": 1690218893.332086,
           "version": "v1",
           "versionCode": 1,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/Quad9DNS/v1_1.zip",
+          "zipUrl": "https://repo-magisk.netlify.app/modules/Quad9DNS/v1_1.zip",
           "changelog": ""
         }
       ]
@@ -1760,8 +1812,8 @@
           "timestamp": 1669914042.0,
           "version": "v4.6.6",
           "versionCode": 466,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/RTKS/v4.6.6_466.zip",
-          "changelog": "https://eljoker63.github.io/repo-magisk/modules/RTKS/v4.6.6_466.md"
+          "zipUrl": "https://repo-magisk.netlify.app/modules/RTKS/v4.6.6_466.zip",
+          "changelog": "https://repo-magisk.netlify.app/modules/RTKS/v4.6.6_466.md"
         }
       ]
     },
@@ -1786,7 +1838,7 @@
           "timestamp": 1690223592.7402167,
           "version": "3.2",
           "versionCode": 32,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/Reducemiui/3.2_32.zip",
+          "zipUrl": "https://repo-magisk.netlify.app/modules/Reducemiui/3.2_32.zip",
           "changelog": ""
         }
       ]
@@ -1812,7 +1864,7 @@
           "timestamp": 1690223619.945944,
           "version": "1.1",
           "versionCode": 114514,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/SQLite_Optimization/1.1_114514.zip",
+          "zipUrl": "https://repo-magisk.netlify.app/modules/SQLite_Optimization/1.1_114514.zip",
           "changelog": ""
         }
       ]
@@ -1838,7 +1890,7 @@
           "timestamp": 1690218839.0812795,
           "version": "v1.3",
           "versionCode": 130,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/STRPxBOLT/v1.3_130.zip",
+          "zipUrl": "https://repo-magisk.netlify.app/modules/STRPxBOLT/v1.3_130.zip",
           "changelog": ""
         }
       ]
@@ -1864,14 +1916,14 @@
           "timestamp": 1690223597.839723,
           "version": "v2.1",
           "versionCode": 1,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/SideslideCool/v2.1_1.zip",
+          "zipUrl": "https://repo-magisk.netlify.app/modules/SideslideCool/v2.1_1.zip",
           "changelog": ""
         },
         {
           "timestamp": 1690223597.162904,
           "version": "v2.2",
           "versionCode": 2,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/SideslideCool/v2.2_2.zip",
+          "zipUrl": "https://repo-magisk.netlify.app/modules/SideslideCool/v2.2_2.zip",
           "changelog": ""
         }
       ]
@@ -1897,8 +1949,8 @@
           "timestamp": 1663296809.0,
           "version": "v7.0.A.1.20",
           "versionCode": 14681108,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/SomcGameEnhancer-Upgrade/v7.0.A.1.20_14681108.zip",
-          "changelog": "https://eljoker63.github.io/repo-magisk/modules/SomcGameEnhancer-Upgrade/v7.0.A.1.20_14681108.md"
+          "zipUrl": "https://repo-magisk.netlify.app/modules/SomcGameEnhancer-Upgrade/v7.0.A.1.20_14681108.zip",
+          "changelog": "https://repo-magisk.netlify.app/modules/SomcGameEnhancer-Upgrade/v7.0.A.1.20_14681108.md"
         }
       ]
     },
@@ -1923,14 +1975,14 @@
           "timestamp": 1687538041.0,
           "version": "v0.4",
           "versionCode": 4,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/SoundAlive/v0.4_4.zip",
+          "zipUrl": "https://repo-magisk.netlify.app/modules/SoundAlive/v0.4_4.zip",
           "changelog": ""
         },
         {
           "timestamp": 1693710036.0,
           "version": "v0.5",
           "versionCode": 5,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/SoundAlive/v0.5_5.zip",
+          "zipUrl": "https://repo-magisk.netlify.app/modules/SoundAlive/v0.5_5.zip",
           "changelog": ""
         }
       ]
@@ -1956,14 +2008,14 @@
           "timestamp": 1687308301.0,
           "version": "v7.2",
           "versionCode": 72,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/SoundEnhancement/v7.2_72.zip",
+          "zipUrl": "https://repo-magisk.netlify.app/modules/SoundEnhancement/v7.2_72.zip",
           "changelog": ""
         },
         {
           "timestamp": 1693647071.0,
           "version": "v7.3",
           "versionCode": 73,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/SoundEnhancement/v7.3_73.zip",
+          "zipUrl": "https://repo-magisk.netlify.app/modules/SoundEnhancement/v7.3_73.zip",
           "changelog": ""
         }
       ]
@@ -1989,8 +2041,8 @@
           "timestamp": 1683123396.0,
           "version": "1.5.3",
           "versionCode": 153,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/SystemlessDebloater/1.5.3_153.zip",
-          "changelog": "https://eljoker63.github.io/repo-magisk/modules/SystemlessDebloater/1.5.3_153.md"
+          "zipUrl": "https://repo-magisk.netlify.app/modules/SystemlessDebloater/1.5.3_153.zip",
+          "changelog": "https://repo-magisk.netlify.app/modules/SystemlessDebloater/1.5.3_153.md"
         }
       ]
     },
@@ -2015,7 +2067,7 @@
           "timestamp": 1687590829.0,
           "version": "v2.11",
           "versionCode": 21,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/TaskerPrivileged/v2.11_21.zip",
+          "zipUrl": "https://repo-magisk.netlify.app/modules/TaskerPrivileged/v2.11_21.zip",
           "changelog": ""
         }
       ]
@@ -2041,21 +2093,21 @@
           "timestamp": 1685660514.0,
           "version": "23.06.02",
           "versionCode": 230602,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/ThemedProject/23.06.02_230602.zip",
+          "zipUrl": "https://repo-magisk.netlify.app/modules/ThemedProject/23.06.02_230602.zip",
           "changelog": ""
         },
         {
           "timestamp": 1689892735.0,
           "version": "23.07.18",
           "versionCode": 230718,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/ThemedProject/23.07.18_230718.zip",
+          "zipUrl": "https://repo-magisk.netlify.app/modules/ThemedProject/23.07.18_230718.zip",
           "changelog": ""
         },
         {
           "timestamp": 1691610914.0,
           "version": "23.08.09",
           "versionCode": 230809,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/ThemedProject/23.08.09_230809.zip",
+          "zipUrl": "https://repo-magisk.netlify.app/modules/ThemedProject/23.08.09_230809.zip",
           "changelog": ""
         }
       ]
@@ -2081,22 +2133,22 @@
           "timestamp": 1678041567.0,
           "version": "1.0.6",
           "versionCode": 106,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/ToyBox-Ext/1.0.6_106.zip",
-          "changelog": "https://eljoker63.github.io/repo-magisk/modules/ToyBox-Ext/1.0.6_106.md"
+          "zipUrl": "https://repo-magisk.netlify.app/modules/ToyBox-Ext/1.0.6_106.zip",
+          "changelog": "https://repo-magisk.netlify.app/modules/ToyBox-Ext/1.0.6_106.md"
         },
         {
           "timestamp": 1686000966.0,
           "version": "1.0.8",
           "versionCode": 108,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/ToyBox-Ext/1.0.8_108.zip",
-          "changelog": "https://eljoker63.github.io/repo-magisk/modules/ToyBox-Ext/1.0.8_108.md"
+          "zipUrl": "https://repo-magisk.netlify.app/modules/ToyBox-Ext/1.0.8_108.zip",
+          "changelog": "https://repo-magisk.netlify.app/modules/ToyBox-Ext/1.0.8_108.md"
         },
         {
           "timestamp": 1691427222.0,
           "version": "1.0.9",
           "versionCode": 109,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/ToyBox-Ext/1.0.9_109.zip",
-          "changelog": "https://eljoker63.github.io/repo-magisk/modules/ToyBox-Ext/1.0.9_109.md"
+          "zipUrl": "https://repo-magisk.netlify.app/modules/ToyBox-Ext/1.0.9_109.zip",
+          "changelog": "https://repo-magisk.netlify.app/modules/ToyBox-Ext/1.0.9_109.md"
         }
       ]
     },
@@ -2121,7 +2173,7 @@
           "timestamp": 1683467033.0,
           "version": "v1.0.1",
           "versionCode": 1,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/UbuntuFontVinaooo/v1.0.1_1.zip",
+          "zipUrl": "https://repo-magisk.netlify.app/modules/UbuntuFontVinaooo/v1.0.1_1.zip",
           "changelog": ""
         }
       ]
@@ -2147,7 +2199,7 @@
           "timestamp": 1690218653.4151292,
           "version": "v3",
           "versionCode": 3,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/Ultimate_Statusbar_icon_pack/v3_3.zip",
+          "zipUrl": "https://repo-magisk.netlify.app/modules/Ultimate_Statusbar_icon_pack/v3_3.zip",
           "changelog": ""
         }
       ]
@@ -2173,7 +2225,7 @@
           "timestamp": 1690223596.3501213,
           "version": "1.7",
           "versionCode": 1,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/VH-FN/1.7_1.zip",
+          "zipUrl": "https://repo-magisk.netlify.app/modules/VH-FN/1.7_1.zip",
           "changelog": ""
         }
       ]
@@ -2199,7 +2251,7 @@
           "timestamp": 1687597798.0,
           "version": "v0.2",
           "versionCode": 2,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/VolumeBooster/v0.2_2.zip",
+          "zipUrl": "https://repo-magisk.netlify.app/modules/VolumeBooster/v0.2_2.zip",
           "changelog": ""
         }
       ]
@@ -2225,7 +2277,7 @@
           "timestamp": 1690217765.5800676,
           "version": "V 5.7",
           "versionCode": 20,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/X_CACHE/V_5.7_20.zip",
+          "zipUrl": "https://repo-magisk.netlify.app/modules/X_CACHE/V_5.7_20.zip",
           "changelog": ""
         }
       ]
@@ -2251,7 +2303,7 @@
           "timestamp": 1689333891.0,
           "version": "V 6.2",
           "versionCode": 20,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/x-mod/V_6.2_20.zip",
+          "zipUrl": "https://repo-magisk.netlify.app/modules/x-mod/V_6.2_20.zip",
           "changelog": ""
         }
       ]
@@ -2277,7 +2329,7 @@
           "timestamp": 1687845819.0,
           "version": "v3.2",
           "versionCode": 22,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/XperiaMusic/v3.2_22.zip",
+          "zipUrl": "https://repo-magisk.netlify.app/modules/XperiaMusic/v3.2_22.zip",
           "changelog": ""
         }
       ]
@@ -2303,7 +2355,7 @@
           "timestamp": 1690218662.7341454,
           "version": "v5.0",
           "versionCode": 10,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/XtremeSensivity\ud83d\udd25/v5.0_10.zip",
+          "zipUrl": "https://repo-magisk.netlify.app/modules/XtremeSensivity\ud83d\udd25/v5.0_10.zip",
           "changelog": ""
         }
       ]
@@ -2329,7 +2381,7 @@
           "timestamp": 1679349492.0,
           "version": "v7",
           "versionCode": 1,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/YAKT/v7_1.zip",
+          "zipUrl": "https://repo-magisk.netlify.app/modules/YAKT/v7_1.zip",
           "changelog": ""
         }
       ]
@@ -2355,7 +2407,7 @@
           "timestamp": 1690326755.1477566,
           "version": "18.27.35",
           "versionCode": 1,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/YouTube/18.27.35_1.zip",
+          "zipUrl": "https://repo-magisk.netlify.app/modules/YouTube/18.27.35_1.zip",
           "changelog": ""
         }
       ]
@@ -2381,14 +2433,14 @@
           "timestamp": 1684130177.0,
           "version": "v1.15",
           "versionCode": 15,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/ZRAMSwapConfigurator/v1.15_15.zip",
+          "zipUrl": "https://repo-magisk.netlify.app/modules/ZRAMSwapConfigurator/v1.15_15.zip",
           "changelog": ""
         },
         {
           "timestamp": 1692835356.0,
           "version": "v1.16",
           "versionCode": 16,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/ZRAMSwapConfigurator/v1.16_16.zip",
+          "zipUrl": "https://repo-magisk.netlify.app/modules/ZRAMSwapConfigurator/v1.16_16.zip",
           "changelog": ""
         }
       ]
@@ -2414,22 +2466,22 @@
           "timestamp": 1654345622.0,
           "version": "v2022.6.4",
           "versionCode": 202206040,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/acc/v2022.6.4_202206040.zip",
-          "changelog": "https://eljoker63.github.io/repo-magisk/modules/acc/v2022.6.4_202206040.md"
+          "zipUrl": "https://repo-magisk.netlify.app/modules/acc/v2022.6.4_202206040.zip",
+          "changelog": "https://repo-magisk.netlify.app/modules/acc/v2022.6.4_202206040.md"
         },
         {
           "timestamp": 1687760775.0,
           "version": "v2023.6.26",
           "versionCode": 202306260,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/acc/v2023.6.26_202306260.zip",
-          "changelog": "https://eljoker63.github.io/repo-magisk/modules/acc/v2023.6.26_202306260.md"
+          "zipUrl": "https://repo-magisk.netlify.app/modules/acc/v2023.6.26_202306260.zip",
+          "changelog": "https://repo-magisk.netlify.app/modules/acc/v2023.6.26_202306260.md"
         },
         {
           "timestamp": 1692431280.0,
           "version": "v2023.8.19",
           "versionCode": 202308190,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/acc/v2023.8.19_202308190.zip",
-          "changelog": "https://eljoker63.github.io/repo-magisk/modules/acc/v2023.8.19_202308190.md"
+          "zipUrl": "https://repo-magisk.netlify.app/modules/acc/v2023.8.19_202308190.zip",
+          "changelog": "https://repo-magisk.netlify.app/modules/acc/v2023.8.19_202308190.md"
         }
       ]
     },
@@ -2454,29 +2506,29 @@
           "timestamp": 1680541683.0,
           "version": "1.0.41",
           "versionCode": 104109,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/adb-ndk/1.0.41_104109.zip",
-          "changelog": "https://eljoker63.github.io/repo-magisk/modules/adb-ndk/1.0.41_104109.md"
+          "zipUrl": "https://repo-magisk.netlify.app/modules/adb-ndk/1.0.41_104109.zip",
+          "changelog": "https://repo-magisk.netlify.app/modules/adb-ndk/1.0.41_104109.md"
         },
         {
           "timestamp": 1686557746.0,
           "version": "1.0.41",
           "versionCode": 104111,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/adb-ndk/1.0.41_104111.zip",
-          "changelog": "https://eljoker63.github.io/repo-magisk/modules/adb-ndk/1.0.41_104111.md"
+          "zipUrl": "https://repo-magisk.netlify.app/modules/adb-ndk/1.0.41_104111.zip",
+          "changelog": "https://repo-magisk.netlify.app/modules/adb-ndk/1.0.41_104111.md"
         },
         {
           "timestamp": 1693352052.0,
           "version": "1.0.41",
           "versionCode": 104112,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/adb-ndk/1.0.41_104112.zip",
-          "changelog": "https://eljoker63.github.io/repo-magisk/modules/adb-ndk/1.0.41_104112.md"
+          "zipUrl": "https://repo-magisk.netlify.app/modules/adb-ndk/1.0.41_104112.zip",
+          "changelog": "https://repo-magisk.netlify.app/modules/adb-ndk/1.0.41_104112.md"
         },
         {
           "timestamp": 1693724143.0,
           "version": "1.0.41",
           "versionCode": 104113,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/adb-ndk/1.0.41_104113.zip",
-          "changelog": "https://eljoker63.github.io/repo-magisk/modules/adb-ndk/1.0.41_104113.md"
+          "zipUrl": "https://repo-magisk.netlify.app/modules/adb-ndk/1.0.41_104113.zip",
+          "changelog": "https://repo-magisk.netlify.app/modules/adb-ndk/1.0.41_104113.md"
         }
       ]
     },
@@ -2501,8 +2553,8 @@
           "timestamp": 1693352948.773543,
           "version": "v5.6 (8-8-2023)",
           "versionCode": 95,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/ainur_jamesdsp/v5.6_8-8-2023_95.zip",
-          "changelog": "https://eljoker63.github.io/repo-magisk/modules/ainur_jamesdsp/v5.6_8-8-2023_95.md"
+          "zipUrl": "https://repo-magisk.netlify.app/modules/ainur_jamesdsp/v5.6_8-8-2023_95.zip",
+          "changelog": "https://repo-magisk.netlify.app/modules/ainur_jamesdsp/v5.6_8-8-2023_95.md"
         }
       ]
     },
@@ -2527,15 +2579,15 @@
           "timestamp": 1690223593.522435,
           "version": "A.24 (236)",
           "versionCode": 236,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/asoul_affinity_opt/A.24_236.zip",
+          "zipUrl": "https://repo-magisk.netlify.app/modules/asoul_affinity_opt/A.24_236.zip",
           "changelog": ""
         },
         {
           "timestamp": 1692204521.0,
           "version": "A.28 (240)",
           "versionCode": 240,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/asoul_affinity_opt/A.28_240.zip",
-          "changelog": "https://eljoker63.github.io/repo-magisk/modules/asoul_affinity_opt/A.28_240.md"
+          "zipUrl": "https://repo-magisk.netlify.app/modules/asoul_affinity_opt/A.28_240.zip",
+          "changelog": "https://repo-magisk.netlify.app/modules/asoul_affinity_opt/A.28_240.md"
         }
       ]
     },
@@ -2560,29 +2612,29 @@
           "timestamp": 1680505886.0,
           "version": "v1.0.1",
           "versionCode": 1001,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/audio-jitter-silencer/v1.0.1_1001.zip",
+          "zipUrl": "https://repo-magisk.netlify.app/modules/audio-jitter-silencer/v1.0.1_1001.zip",
           "changelog": ""
         },
         {
           "timestamp": 1681206641.0,
           "version": "v1.0.2",
           "versionCode": 1002,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/audio-jitter-silencer/v1.0.2_1002.zip",
-          "changelog": "https://eljoker63.github.io/repo-magisk/modules/audio-jitter-silencer/v1.0.2_1002.md"
+          "zipUrl": "https://repo-magisk.netlify.app/modules/audio-jitter-silencer/v1.0.2_1002.zip",
+          "changelog": "https://repo-magisk.netlify.app/modules/audio-jitter-silencer/v1.0.2_1002.md"
         },
         {
           "timestamp": 1687682273.0,
           "version": "v1.0.4",
           "versionCode": 1004,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/audio-jitter-silencer/v1.0.4_1004.zip",
-          "changelog": "https://eljoker63.github.io/repo-magisk/modules/audio-jitter-silencer/v1.0.4_1004.md"
+          "zipUrl": "https://repo-magisk.netlify.app/modules/audio-jitter-silencer/v1.0.4_1004.zip",
+          "changelog": "https://repo-magisk.netlify.app/modules/audio-jitter-silencer/v1.0.4_1004.md"
         },
         {
           "timestamp": 1693302157.0,
           "version": "v1.0.5",
           "versionCode": 1005,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/audio-jitter-silencer/v1.0.5_1005.zip",
-          "changelog": "https://eljoker63.github.io/repo-magisk/modules/audio-jitter-silencer/v1.0.5_1005.md"
+          "zipUrl": "https://repo-magisk.netlify.app/modules/audio-jitter-silencer/v1.0.5_1005.zip",
+          "changelog": "https://repo-magisk.netlify.app/modules/audio-jitter-silencer/v1.0.5_1005.md"
         }
       ]
     },
@@ -2607,15 +2659,15 @@
           "timestamp": 1688751967.0,
           "version": "v1.3.3",
           "versionCode": 1303,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/audio-misc-settings/v1.3.3_1303.zip",
-          "changelog": "https://eljoker63.github.io/repo-magisk/modules/audio-misc-settings/v1.3.3_1303.md"
+          "zipUrl": "https://repo-magisk.netlify.app/modules/audio-misc-settings/v1.3.3_1303.zip",
+          "changelog": "https://repo-magisk.netlify.app/modules/audio-misc-settings/v1.3.3_1303.md"
         },
         {
           "timestamp": 1691936900.0,
           "version": "v1.3.4",
           "versionCode": 1304,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/audio-misc-settings/v1.3.4_1304.zip",
-          "changelog": "https://eljoker63.github.io/repo-magisk/modules/audio-misc-settings/v1.3.4_1304.md"
+          "zipUrl": "https://repo-magisk.netlify.app/modules/audio-misc-settings/v1.3.4_1304.zip",
+          "changelog": "https://repo-magisk.netlify.app/modules/audio-misc-settings/v1.3.4_1304.md"
         }
       ]
     },
@@ -2640,7 +2692,7 @@
           "timestamp": 1599015487.0,
           "version": "v1.0",
           "versionCode": 1,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/backup/v1.0_1.zip",
+          "zipUrl": "https://repo-magisk.netlify.app/modules/backup/v1.0_1.zip",
           "changelog": ""
         }
       ]
@@ -2666,22 +2718,22 @@
           "timestamp": 1680541591.0,
           "version": "1.34.1",
           "versionCode": 13413,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/busybox-ndk/1.34.1_13413.zip",
-          "changelog": "https://eljoker63.github.io/repo-magisk/modules/busybox-ndk/1.34.1_13413.md"
+          "zipUrl": "https://repo-magisk.netlify.app/modules/busybox-ndk/1.34.1_13413.zip",
+          "changelog": "https://repo-magisk.netlify.app/modules/busybox-ndk/1.34.1_13413.md"
         },
         {
           "timestamp": 1686557854.0,
           "version": "1.36.1",
           "versionCode": 13612,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/busybox-ndk/1.36.1_13612.zip",
-          "changelog": "https://eljoker63.github.io/repo-magisk/modules/busybox-ndk/1.36.1_13612.md"
+          "zipUrl": "https://repo-magisk.netlify.app/modules/busybox-ndk/1.36.1_13612.zip",
+          "changelog": "https://repo-magisk.netlify.app/modules/busybox-ndk/1.36.1_13612.md"
         },
         {
           "timestamp": 1693724045.0,
           "version": "1.36.1",
           "versionCode": 13613,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/busybox-ndk/1.36.1_13613.zip",
-          "changelog": "https://eljoker63.github.io/repo-magisk/modules/busybox-ndk/1.36.1_13613.md"
+          "zipUrl": "https://repo-magisk.netlify.app/modules/busybox-ndk/1.36.1_13613.zip",
+          "changelog": "https://repo-magisk.netlify.app/modules/busybox-ndk/1.36.1_13613.md"
         }
       ]
     },
@@ -2706,7 +2758,7 @@
           "timestamp": 1690223556.5297935,
           "version": "v666.7",
           "versionCode": 6667,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/byeshit/v666.7_6667.zip",
+          "zipUrl": "https://repo-magisk.netlify.app/modules/byeshit/v666.7_6667.zip",
           "changelog": ""
         }
       ]
@@ -2732,7 +2784,7 @@
           "timestamp": 1690309973.1135724,
           "version": "v1.6-Stable",
           "versionCode": 8,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/cache_cleaner/v1.6-Stable_8.zip",
+          "zipUrl": "https://repo-magisk.netlify.app/modules/cache_cleaner/v1.6-Stable_8.zip",
           "changelog": ""
         }
       ]
@@ -2758,7 +2810,7 @@
           "timestamp": 1691966533.0,
           "version": "v11",
           "versionCode": 16,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/ccbins/v11_16.zip",
+          "zipUrl": "https://repo-magisk.netlify.app/modules/ccbins/v11_16.zip",
           "changelog": ""
         }
       ]
@@ -2784,7 +2836,7 @@
           "timestamp": 1638831717.0,
           "version": "v1.0",
           "versionCode": 1,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/charch/v1.0_1.zip",
+          "zipUrl": "https://repo-magisk.netlify.app/modules/charch/v1.0_1.zip",
           "changelog": ""
         }
       ]
@@ -2810,7 +2862,7 @@
           "timestamp": 1648456059.0,
           "version": "v1.1",
           "versionCode": 2,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/charch_dinit/v1.1_2.zip",
+          "zipUrl": "https://repo-magisk.netlify.app/modules/charch_dinit/v1.1_2.zip",
           "changelog": ""
         }
       ]
@@ -2836,7 +2888,7 @@
           "timestamp": 1600642258.0,
           "version": "v1.1",
           "versionCode": 2,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/charch_openrc/v1.1_2.zip",
+          "zipUrl": "https://repo-magisk.netlify.app/modules/charch_openrc/v1.1_2.zip",
           "changelog": ""
         }
       ]
@@ -2862,7 +2914,7 @@
           "timestamp": 1600642223.0,
           "version": "v1.0",
           "versionCode": 1,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/charch_sshd/v1.0_1.zip",
+          "zipUrl": "https://repo-magisk.netlify.app/modules/charch_sshd/v1.0_1.zip",
           "changelog": ""
         }
       ]
@@ -2888,7 +2940,7 @@
           "timestamp": 1598574218.0,
           "version": "v1.0",
           "versionCode": 1,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/cmdpatch/v1.0_1.zip",
+          "zipUrl": "https://repo-magisk.netlify.app/modules/cmdpatch/v1.0_1.zip",
           "changelog": ""
         }
       ]
@@ -2914,7 +2966,7 @@
           "timestamp": 1690309967.5478835,
           "version": "v1.0",
           "versionCode": 1,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/cocon_font_module/v1.0_1.zip",
+          "zipUrl": "https://repo-magisk.netlify.app/modules/cocon_font_module/v1.0_1.zip",
           "changelog": ""
         }
       ]
@@ -2940,7 +2992,7 @@
           "timestamp": 1673549110.0,
           "version": "v1.2",
           "versionCode": 102,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/com.omergoktas.Foundation/v1.2_102.zip",
+          "zipUrl": "https://repo-magisk.netlify.app/modules/com.omergoktas.Foundation/v1.2_102.zip",
           "changelog": ""
         }
       ]
@@ -2966,7 +3018,7 @@
           "timestamp": 1644751003.0,
           "version": "v1.0.1",
           "versionCode": 101,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/custom-certificate-authorities/v1.0.1_101.zip",
+          "zipUrl": "https://repo-magisk.netlify.app/modules/custom-certificate-authorities/v1.0.1_101.zip",
           "changelog": ""
         }
       ]
@@ -2992,8 +3044,8 @@
           "timestamp": 1686425610.0,
           "version": "v2.14",
           "versionCode": 7,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/data_backup/v2.14_7.zip",
-          "changelog": "https://eljoker63.github.io/repo-magisk/modules/data_backup/v2.14_7.md"
+          "zipUrl": "https://repo-magisk.netlify.app/modules/data_backup/v2.14_7.zip",
+          "changelog": "https://repo-magisk.netlify.app/modules/data_backup/v2.14_7.md"
         }
       ]
     },
@@ -3018,7 +3070,7 @@
           "timestamp": 1670983400.0,
           "version": "1.2",
           "versionCode": 3,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/data_isolation_support/1.2_3.zip",
+          "zipUrl": "https://repo-magisk.netlify.app/modules/data_isolation_support/1.2_3.zip",
           "changelog": ""
         }
       ]
@@ -3044,14 +3096,14 @@
           "timestamp": 1686479799.0,
           "version": "v0.2",
           "versionCode": 2,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/diracmisoundfxRemover/v0.2_2.zip",
+          "zipUrl": "https://repo-magisk.netlify.app/modules/diracmisoundfxRemover/v0.2_2.zip",
           "changelog": ""
         },
         {
           "timestamp": 1693126963.0,
           "version": "v0.3",
           "versionCode": 3,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/diracmisoundfxRemover/v0.3_3.zip",
+          "zipUrl": "https://repo-magisk.netlify.app/modules/diracmisoundfxRemover/v0.3_3.zip",
           "changelog": ""
         }
       ]
@@ -3077,8 +3129,8 @@
           "timestamp": 1683473028.0,
           "version": "v1.2.1",
           "versionCode": 1201,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/drc-remover/v1.2.1_1201.zip",
-          "changelog": "https://eljoker63.github.io/repo-magisk/modules/drc-remover/v1.2.1_1201.md"
+          "zipUrl": "https://repo-magisk.netlify.app/modules/drc-remover/v1.2.1_1201.zip",
+          "changelog": "https://repo-magisk.netlify.app/modules/drc-remover/v1.2.1_1201.md"
         }
       ]
     },
@@ -3103,7 +3155,7 @@
           "timestamp": 1662814335.0,
           "version": "v1",
           "versionCode": 1000,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/ezme-dex-space/v1_1000.zip",
+          "zipUrl": "https://repo-magisk.netlify.app/modules/ezme-dex-space/v1_1000.zip",
           "changelog": ""
         }
       ]
@@ -3129,7 +3181,7 @@
           "timestamp": 1663012287.0,
           "version": "v1",
           "versionCode": 1000,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/ezme-nodebug/v1_1000.zip",
+          "zipUrl": "https://repo-magisk.netlify.app/modules/ezme-nodebug/v1_1000.zip",
           "changelog": ""
         }
       ]
@@ -3155,8 +3207,8 @@
           "timestamp": 1677543460.0,
           "version": "v25",
           "versionCode": 25,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/magisk-module-koruri-font/v25_25.zip",
-          "changelog": "https://eljoker63.github.io/repo-magisk/modules/magisk-module-koruri-font/v25_25.md"
+          "zipUrl": "https://repo-magisk.netlify.app/modules/magisk-module-koruri-font/v25_25.zip",
+          "changelog": "https://repo-magisk.netlify.app/modules/magisk-module-koruri-font/v25_25.md"
         }
       ]
     },
@@ -3181,8 +3233,8 @@
           "timestamp": 1677543320.0,
           "version": "v19",
           "versionCode": 19,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/magisk-module-mejiro-font/v19_19.zip",
-          "changelog": "https://eljoker63.github.io/repo-magisk/modules/magisk-module-mejiro-font/v19_19.md"
+          "zipUrl": "https://repo-magisk.netlify.app/modules/magisk-module-mejiro-font/v19_19.zip",
+          "changelog": "https://repo-magisk.netlify.app/modules/magisk-module-mejiro-font/v19_19.md"
         }
       ]
     },
@@ -3207,7 +3259,7 @@
           "timestamp": 1673245267.0,
           "version": "1.2",
           "versionCode": 3,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/frozen_magisk_app/1.2_3.zip",
+          "zipUrl": "https://repo-magisk.netlify.app/modules/frozen_magisk_app/1.2_3.zip",
           "changelog": ""
         }
       ]
@@ -3233,7 +3285,7 @@
           "timestamp": 1603068712.0,
           "version": "vFINAL",
           "versionCode": 5,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/gaming/vFINAL_5.zip",
+          "zipUrl": "https://repo-magisk.netlify.app/modules/gaming/vFINAL_5.zip",
           "changelog": ""
         }
       ]
@@ -3259,8 +3311,8 @@
           "timestamp": 1652409636.0,
           "version": "v2.1.1",
           "versionCode": 20220513,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/gboard-dict-3/v2.1.1_20220513.zip",
-          "changelog": "https://eljoker63.github.io/repo-magisk/modules/gboard-dict-3/v2.1.1_20220513.md"
+          "zipUrl": "https://repo-magisk.netlify.app/modules/gboard-dict-3/v2.1.1_20220513.zip",
+          "changelog": "https://repo-magisk.netlify.app/modules/gboard-dict-3/v2.1.1_20220513.md"
         }
       ]
     },
@@ -3285,7 +3337,7 @@
           "timestamp": 1690309762.3085227,
           "version": "v1.1",
           "versionCode": 20,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/gps-opt-boost/v1.1_20.zip",
+          "zipUrl": "https://repo-magisk.netlify.app/modules/gps-opt-boost/v1.1_20.zip",
           "changelog": ""
         }
       ]
@@ -3311,7 +3363,7 @@
           "timestamp": 1659743807.0,
           "version": "v2.0.2",
           "versionCode": 202,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/heimdall-ndk/v2.0.2_202.zip",
+          "zipUrl": "https://repo-magisk.netlify.app/modules/heimdall-ndk/v2.0.2_202.zip",
           "changelog": ""
         }
       ]
@@ -3337,7 +3389,7 @@
           "timestamp": 1690218861.6690297,
           "version": "v1.8.1",
           "versionCode": 10015,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/huskydg_bootloopsaver/v1.8.1_10015.zip",
+          "zipUrl": "https://repo-magisk.netlify.app/modules/huskydg_bootloopsaver/v1.8.1_10015.zip",
           "changelog": ""
         }
       ]
@@ -3363,7 +3415,7 @@
           "timestamp": 1690218658.5861366,
           "version": "",
           "versionCode": 1,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/iUnlockerIII/_1.zip",
+          "zipUrl": "https://repo-magisk.netlify.app/modules/iUnlockerIII/_1.zip",
           "changelog": ""
         }
       ]
@@ -3389,14 +3441,14 @@
           "timestamp": 1685695745.0,
           "version": "1.2",
           "versionCode": 12,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/isodrive/1.2_12.zip",
+          "zipUrl": "https://repo-magisk.netlify.app/modules/isodrive/1.2_12.zip",
           "changelog": ""
         },
         {
           "timestamp": 1690236958.0,
           "version": "1.3",
           "versionCode": 13,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/isodrive/1.3_13.zip",
+          "zipUrl": "https://repo-magisk.netlify.app/modules/isodrive/1.3_13.zip",
           "changelog": ""
         }
       ]
@@ -3422,7 +3474,7 @@
           "timestamp": 1690218855.5364769,
           "version": "1.6.1",
           "versionCode": 1,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/kcal_rvns/1.6.1_1.zip",
+          "zipUrl": "https://repo-magisk.netlify.app/modules/kcal_rvns/1.6.1_1.zip",
           "changelog": ""
         }
       ]
@@ -3448,7 +3500,7 @@
           "timestamp": 1676718135.0,
           "version": "v2.2.0",
           "versionCode": 1,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/lhroot/v2.2.0_1.zip",
+          "zipUrl": "https://repo-magisk.netlify.app/modules/lhroot/v2.2.0_1.zip",
           "changelog": ""
         }
       ]
@@ -3474,7 +3526,7 @@
           "timestamp": 1652933875.0,
           "version": "v1.6",
           "versionCode": 10006,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/magic-flash/v1.6_10006.zip",
+          "zipUrl": "https://repo-magisk.netlify.app/modules/magic-flash/v1.6_10006.zip",
           "changelog": ""
         }
       ]
@@ -3500,7 +3552,7 @@
           "timestamp": 1604596410.0,
           "version": "v1.0.0",
           "versionCode": 100,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/magisk-captive-control/v1.0.0_100.zip",
+          "zipUrl": "https://repo-magisk.netlify.app/modules/magisk-captive-control/v1.0.0_100.zip",
           "changelog": ""
         }
       ]
@@ -3526,7 +3578,7 @@
           "timestamp": 1612778235.0,
           "version": "v1.3.1",
           "versionCode": 131,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/magisk-drm-disabler/v1.3.1_131.zip",
+          "zipUrl": "https://repo-magisk.netlify.app/modules/magisk-drm-disabler/v1.3.1_131.zip",
           "changelog": ""
         }
       ]
@@ -3552,7 +3604,7 @@
           "timestamp": 1686805349.0,
           "version": "v3.1.2",
           "versionCode": 30102,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/magisk_overlayfs/v3.1.2_30102.zip",
+          "zipUrl": "https://repo-magisk.netlify.app/modules/magisk_overlayfs/v3.1.2_30102.zip",
           "changelog": ""
         }
       ]
@@ -3578,7 +3630,7 @@
           "timestamp": 1674918971.0,
           "version": "2.2",
           "versionCode": 9,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/magisk_proc_monitor/2.2_9.zip",
+          "zipUrl": "https://repo-magisk.netlify.app/modules/magisk_proc_monitor/2.2_9.zip",
           "changelog": ""
         }
       ]
@@ -3604,7 +3656,7 @@
           "timestamp": 1677950994.0,
           "version": "1.10.3",
           "versionCode": 16,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/magiskhide/1.10.3_16.zip",
+          "zipUrl": "https://repo-magisk.netlify.app/modules/magiskhide/1.10.3_16.zip",
           "changelog": ""
         }
       ]
@@ -3630,7 +3682,7 @@
           "timestamp": 1685826920.0,
           "version": "v0.2.28.231657",
           "versionCode": 29,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/microG-GApps/v0.2.28.231657_29.zip",
+          "zipUrl": "https://repo-magisk.netlify.app/modules/microG-GApps/v0.2.28.231657_29.zip",
           "changelog": ""
         }
       ]
@@ -3656,7 +3708,7 @@
           "timestamp": 1685709020.0,
           "version": "1.3.5",
           "versionCode": 135,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/mkshrc/1.3.5_135.zip",
+          "zipUrl": "https://repo-magisk.netlify.app/modules/mkshrc/1.3.5_135.zip",
           "changelog": ""
         }
       ]
@@ -3682,7 +3734,7 @@
           "timestamp": 1689164467.0,
           "version": "1.4.9",
           "versionCode": 149,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/node_on_android/1.4.9_149.zip",
+          "zipUrl": "https://repo-magisk.netlify.app/modules/node_on_android/1.4.9_149.zip",
           "changelog": ""
         }
       ]
@@ -3708,7 +3760,7 @@
           "timestamp": 1690094011.0,
           "version": "V1",
           "versionCode": 1,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/noneDisplayCutout/V1_1.zip",
+          "zipUrl": "https://repo-magisk.netlify.app/modules/noneDisplayCutout/V1_1.zip",
           "changelog": ""
         }
       ]
@@ -3734,8 +3786,8 @@
           "timestamp": 1668837132.0,
           "version": "v1.2",
           "versionCode": 1200,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/oneplus-8series-9r-camera-unlocker/v1.2_1200.zip",
-          "changelog": "https://eljoker63.github.io/repo-magisk/modules/oneplus-8series-9r-camera-unlocker/v1.2_1200.md"
+          "zipUrl": "https://repo-magisk.netlify.app/modules/oneplus-8series-9r-camera-unlocker/v1.2_1200.zip",
+          "changelog": "https://repo-magisk.netlify.app/modules/oneplus-8series-9r-camera-unlocker/v1.2_1200.md"
         }
       ]
     },
@@ -3760,8 +3812,8 @@
           "timestamp": 1677499548.0,
           "version": "v1.2",
           "versionCode": 1200,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/oneplus-9-9pro-camera-unlocker/v1.2_1200.zip",
-          "changelog": "https://eljoker63.github.io/repo-magisk/modules/oneplus-9-9pro-camera-unlocker/v1.2_1200.md"
+          "zipUrl": "https://repo-magisk.netlify.app/modules/oneplus-9-9pro-camera-unlocker/v1.2_1200.zip",
+          "changelog": "https://repo-magisk.netlify.app/modules/oneplus-9-9pro-camera-unlocker/v1.2_1200.md"
         }
       ]
     },
@@ -3786,8 +3838,8 @@
           "timestamp": 1673864734.0,
           "version": "v6.3",
           "versionCode": 6300,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/oneplusdotfix/v6.3_6300.zip",
-          "changelog": "https://eljoker63.github.io/repo-magisk/modules/oneplusdotfix/v6.3_6300.md"
+          "zipUrl": "https://repo-magisk.netlify.app/modules/oneplusdotfix/v6.3_6300.zip",
+          "changelog": "https://repo-magisk.netlify.app/modules/oneplusdotfix/v6.3_6300.md"
         }
       ]
     },
@@ -3812,7 +3864,7 @@
           "timestamp": 1690223555.2857735,
           "version": "v1.9",
           "versionCode": 19,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/onfiretweaks/v1.9_19.zip",
+          "zipUrl": "https://repo-magisk.netlify.app/modules/onfiretweaks/v1.9_19.zip",
           "changelog": ""
         }
       ]
@@ -3838,8 +3890,8 @@
           "timestamp": 1682263480.0,
           "version": "3.1.1",
           "versionCode": 119,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/open_fonts/3.1.1_119.zip",
-          "changelog": "https://eljoker63.github.io/repo-magisk/modules/open_fonts/3.1.1_119.md"
+          "zipUrl": "https://repo-magisk.netlify.app/modules/open_fonts/3.1.1_119.zip",
+          "changelog": "https://repo-magisk.netlify.app/modules/open_fonts/3.1.1_119.md"
         }
       ]
     },
@@ -3864,8 +3916,8 @@
           "timestamp": 1682256699.0,
           "version": "2.1.0",
           "versionCode": 104,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/open_webview/2.1.0_104.zip",
-          "changelog": "https://eljoker63.github.io/repo-magisk/modules/open_webview/2.1.0_104.md"
+          "zipUrl": "https://repo-magisk.netlify.app/modules/open_webview/2.1.0_104.zip",
+          "changelog": "https://repo-magisk.netlify.app/modules/open_webview/2.1.0_104.md"
         }
       ]
     },
@@ -3890,7 +3942,7 @@
           "timestamp": 1661242317.0,
           "version": "v1.2",
           "versionCode": 1,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/pdx213_assistant_camera_remap/v1.2_1.zip",
+          "zipUrl": "https://repo-magisk.netlify.app/modules/pdx213_assistant_camera_remap/v1.2_1.zip",
           "changelog": ""
         }
       ]
@@ -3916,7 +3968,7 @@
           "timestamp": 1690328588.7452676,
           "version": "v4.0",
           "versionCode": 9,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/playintegrityfix/v4.0_9.zip",
+          "zipUrl": "https://repo-magisk.netlify.app/modules/playintegrityfix/v4.0_9.zip",
           "changelog": ""
         }
       ]
@@ -3942,14 +3994,14 @@
           "timestamp": 1690223567.128695,
           "version": "v1.2",
           "versionCode": 1,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/qcom_rx_wakelock/v1.2_1.zip",
+          "zipUrl": "https://repo-magisk.netlify.app/modules/qcom_rx_wakelock/v1.2_1.zip",
           "changelog": ""
         },
         {
           "timestamp": 1690223563.3376715,
           "version": "v3",
           "versionCode": 3,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/qcom_rx_wakelock/v3_3.zip",
+          "zipUrl": "https://repo-magisk.netlify.app/modules/qcom_rx_wakelock/v3_3.zip",
           "changelog": ""
         }
       ]
@@ -3975,7 +4027,7 @@
           "timestamp": 1659744733.0,
           "version": "v1.0",
           "versionCode": 20220806,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/qdl-ndk/v1.0_20220806.zip",
+          "zipUrl": "https://repo-magisk.netlify.app/modules/qdl-ndk/v1.0_20220806.zip",
           "changelog": ""
         }
       ]
@@ -4001,7 +4053,7 @@
           "timestamp": 1690310062.5656369,
           "version": "v15",
           "versionCode": 15,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/ramphone/v15_15.zip",
+          "zipUrl": "https://repo-magisk.netlify.app/modules/ramphone/v15_15.zip",
           "changelog": ""
         }
       ]
@@ -4027,7 +4079,7 @@
           "timestamp": 1690223631.6195033,
           "version": "1.6",
           "versionCode": 17,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/remove_coloros_lanshuai/1.6_17.zip",
+          "zipUrl": "https://repo-magisk.netlify.app/modules/remove_coloros_lanshuai/1.6_17.zip",
           "changelog": ""
         }
       ]
@@ -4053,7 +4105,7 @@
           "timestamp": 1690223600.2339272,
           "version": "v1.8.6 (6715)",
           "versionCode": 6715,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/riru_lsposed/v1.8.6_6715.zip",
+          "zipUrl": "https://repo-magisk.netlify.app/modules/riru_lsposed/v1.8.6_6715.zip",
           "changelog": ""
         }
       ]
@@ -4079,7 +4131,7 @@
           "timestamp": 1690251824.6606405,
           "version": "v2",
           "versionCode": 2,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/roidroot/v2_2.zip",
+          "zipUrl": "https://repo-magisk.netlify.app/modules/roidroot/v2_2.zip",
           "changelog": ""
         }
       ]
@@ -4105,7 +4157,7 @@
           "timestamp": 1690310104.6584795,
           "version": "v18.24.37",
           "versionCode": 182437,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/rvx_yt/v18.24.37_182437.zip",
+          "zipUrl": "https://repo-magisk.netlify.app/modules/rvx_yt/v18.24.37_182437.zip",
           "changelog": ""
         }
       ]
@@ -4131,8 +4183,8 @@
           "timestamp": 1673286512.0,
           "version": "v2.4.0",
           "versionCode": 20400,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/safetynet-fix/v2.4.0_20400.zip",
-          "changelog": "https://eljoker63.github.io/repo-magisk/modules/safetynet-fix/v2.4.0_20400.md"
+          "zipUrl": "https://repo-magisk.netlify.app/modules/safetynet-fix/v2.4.0_20400.zip",
+          "changelog": "https://repo-magisk.netlify.app/modules/safetynet-fix/v2.4.0_20400.md"
         }
       ]
     },
@@ -4157,7 +4209,7 @@
           "timestamp": 1598478612.0,
           "version": "v1.1",
           "versionCode": 2,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/saturation/v1.1_2.zip",
+          "zipUrl": "https://repo-magisk.netlify.app/modules/saturation/v1.1_2.zip",
           "changelog": ""
         }
       ]
@@ -4183,8 +4235,8 @@
           "timestamp": 1657442127.0,
           "version": "2.6.2",
           "versionCode": 262,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/selinux_mode/2.6.2_262.zip",
-          "changelog": "https://eljoker63.github.io/repo-magisk/modules/selinux_mode/2.6.2_262.md"
+          "zipUrl": "https://repo-magisk.netlify.app/modules/selinux_mode/2.6.2_262.zip",
+          "changelog": "https://repo-magisk.netlify.app/modules/selinux_mode/2.6.2_262.md"
         }
       ]
     },
@@ -4209,7 +4261,7 @@
           "timestamp": 1678093152.0,
           "version": "v3",
           "versionCode": 3,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/sensitive_props/v3_3.zip",
+          "zipUrl": "https://repo-magisk.netlify.app/modules/sensitive_props/v3_3.zip",
           "changelog": ""
         }
       ]
@@ -4235,7 +4287,7 @@
           "timestamp": 1690218641.8145182,
           "version": "v2-EOL",
           "versionCode": 1,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/skiagloptimization/v2-EOL_1.zip",
+          "zipUrl": "https://repo-magisk.netlify.app/modules/skiagloptimization/v2-EOL_1.zip",
           "changelog": ""
         }
       ]
@@ -4261,7 +4313,7 @@
           "timestamp": 1690310033.5784163,
           "version": "v10",
           "versionCode": 10,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/snaptweak/v10_10.zip",
+          "zipUrl": "https://repo-magisk.netlify.app/modules/snaptweak/v10_10.zip",
           "changelog": ""
         }
       ]
@@ -4287,8 +4339,8 @@
           "timestamp": 1691227205.0,
           "version": "v0.16",
           "versionCode": 15,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/ssh/v0.16_15.zip",
-          "changelog": "https://eljoker63.github.io/repo-magisk/modules/ssh/v0.16_15.md"
+          "zipUrl": "https://repo-magisk.netlify.app/modules/ssh/v0.16_15.zip",
+          "changelog": "https://repo-magisk.netlify.app/modules/ssh/v0.16_15.md"
         }
       ]
     },
@@ -4313,17 +4365,17 @@
           "timestamp": 1678882493.0,
           "version": "v2.2.1",
           "versionCode": 5,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/supl-replacer/v2.2.1_5.zip",
-          "changelog": "https://eljoker63.github.io/repo-magisk/modules/supl-replacer/v2.2.1_5.md"
+          "zipUrl": "https://repo-magisk.netlify.app/modules/supl-replacer/v2.2.1_5.zip",
+          "changelog": "https://repo-magisk.netlify.app/modules/supl-replacer/v2.2.1_5.md"
         }
       ]
     },
     {
       "id": "swaptorpedo",
       "name": "Swap Torpedo",
-      "version": "v1.1",
-      "versionCode": 2,
-      "author": "EarlyMon @ xda-developers",
+      "version": "v1.2.1",
+      "versionCode": 4,
+      "author": "EarlyMon @ xda-developers, Dreamer(3MF)",
       "description": "Universal compressed-memory swap (zram, etc etc) destroyer - run faster and more reliably ",
       "track": {
         "type": "LOCAL_ZIP",
@@ -4339,7 +4391,14 @@
           "timestamp": 1690215407.5486708,
           "version": "v1.1",
           "versionCode": 2,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/swaptorpedo/v1.1_2.zip",
+          "zipUrl": "https://repo-magisk.netlify.app/modules/swaptorpedo/v1.1_2.zip",
+          "changelog": ""
+        },
+        {
+          "timestamp": 1693728073.9766438,
+          "version": "v1.2.1",
+          "versionCode": 4,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/swaptorpedo/v1.2.1_4.zip",
           "changelog": ""
         }
       ]
@@ -4365,7 +4424,7 @@
           "timestamp": 1690309928.9956853,
           "version": "v1.0.5",
           "versionCode": 105,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/systemless-hosts-KernelSU-module/v1.0.5_105.zip",
+          "zipUrl": "https://repo-magisk.netlify.app/modules/systemless-hosts-KernelSU-module/v1.0.5_105.zip",
           "changelog": ""
         }
       ]
@@ -4391,7 +4450,7 @@
           "timestamp": 1643775613.0,
           "version": "v1.0.0",
           "versionCode": 100,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/systemui-bootloop/v1.0.0_100.zip",
+          "zipUrl": "https://repo-magisk.netlify.app/modules/systemui-bootloop/v1.0.0_100.zip",
           "changelog": ""
         }
       ]
@@ -4417,7 +4476,7 @@
           "timestamp": 1655967999.0,
           "version": "v1.4",
           "versionCode": 20220623,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/trichromelibrary-squoosh/v1.4_20220623.zip",
+          "zipUrl": "https://repo-magisk.netlify.app/modules/trichromelibrary-squoosh/v1.4_20220623.zip",
           "changelog": ""
         }
       ]
@@ -4443,7 +4502,7 @@
           "timestamp": 1662816153.0,
           "version": "v14.0.3",
           "versionCode": 1403,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/ttf-twemoji/v14.0.3_1403.zip",
+          "zipUrl": "https://repo-magisk.netlify.app/modules/ttf-twemoji/v14.0.3_1403.zip",
           "changelog": ""
         }
       ]
@@ -4469,7 +4528,7 @@
           "timestamp": 1673557361.0,
           "version": "5.0",
           "versionCode": 5,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/unityfix/5.0_5.zip",
+          "zipUrl": "https://repo-magisk.netlify.app/modules/unityfix/5.0_5.zip",
           "changelog": ""
         }
       ]
@@ -4495,7 +4554,7 @@
           "timestamp": 1690218889.0559964,
           "version": "1.8.8",
           "versionCode": 188,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/universal-gms-doze/1.8.8_188.zip",
+          "zipUrl": "https://repo-magisk.netlify.app/modules/universal-gms-doze/1.8.8_188.zip",
           "changelog": ""
         }
       ]
@@ -4521,7 +4580,7 @@
           "timestamp": 1659745041.0,
           "version": "v3.96",
           "versionCode": 396,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/upx-ndk/v3.96_396.zip",
+          "zipUrl": "https://repo-magisk.netlify.app/modules/upx-ndk/v3.96_396.zip",
           "changelog": ""
         }
       ]
@@ -4547,29 +4606,29 @@
           "timestamp": 1680505721.0,
           "version": "v1.4.1",
           "versionCode": 1401,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/usb-samplerate-unlocker/v1.4.1_1401.zip",
+          "zipUrl": "https://repo-magisk.netlify.app/modules/usb-samplerate-unlocker/v1.4.1_1401.zip",
           "changelog": ""
         },
         {
           "timestamp": 1681301324.0,
           "version": "v1.5.0",
           "versionCode": 1500,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/usb-samplerate-unlocker/v1.5.0_1500.zip",
-          "changelog": "https://eljoker63.github.io/repo-magisk/modules/usb-samplerate-unlocker/v1.5.0_1500.md"
+          "zipUrl": "https://repo-magisk.netlify.app/modules/usb-samplerate-unlocker/v1.5.0_1500.zip",
+          "changelog": "https://repo-magisk.netlify.app/modules/usb-samplerate-unlocker/v1.5.0_1500.md"
         },
         {
           "timestamp": 1686569585.0,
           "version": "v1.5.1",
           "versionCode": 1501,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/usb-samplerate-unlocker/v1.5.1_1501.zip",
-          "changelog": "https://eljoker63.github.io/repo-magisk/modules/usb-samplerate-unlocker/v1.5.1_1501.md"
+          "zipUrl": "https://repo-magisk.netlify.app/modules/usb-samplerate-unlocker/v1.5.1_1501.zip",
+          "changelog": "https://repo-magisk.netlify.app/modules/usb-samplerate-unlocker/v1.5.1_1501.md"
         },
         {
           "timestamp": 1691936757.0,
           "version": "v1.5.2",
           "versionCode": 1502,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/usb-samplerate-unlocker/v1.5.2_1502.zip",
-          "changelog": "https://eljoker63.github.io/repo-magisk/modules/usb-samplerate-unlocker/v1.5.2_1502.md"
+          "zipUrl": "https://repo-magisk.netlify.app/modules/usb-samplerate-unlocker/v1.5.2_1502.zip",
+          "changelog": "https://repo-magisk.netlify.app/modules/usb-samplerate-unlocker/v1.5.2_1502.md"
         }
       ]
     },
@@ -4594,7 +4653,7 @@
           "timestamp": 1598025275.0,
           "version": "v1.1",
           "versionCode": 2,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/vintf-bypass/v1.1_2.zip",
+          "zipUrl": "https://repo-magisk.netlify.app/modules/vintf-bypass/v1.1_2.zip",
           "changelog": ""
         }
       ]
@@ -4620,7 +4679,7 @@
           "timestamp": 1638809703.0,
           "version": "v2021.12.6",
           "versionCode": 202112060,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/fbind/v2021.12.6_202112060.zip",
+          "zipUrl": "https://repo-magisk.netlify.app/modules/fbind/v2021.12.6_202112060.zip",
           "changelog": ""
         }
       ]
@@ -4646,7 +4705,7 @@
           "timestamp": 1690426622.6769857,
           "version": "4",
           "versionCode": 615,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/wispmt/4_615.zip",
+          "zipUrl": "https://repo-magisk.netlify.app/modules/wispmt/4_615.zip",
           "changelog": ""
         }
       ]
@@ -4672,7 +4731,7 @@
           "timestamp": 1678725873.0,
           "version": "v0.18.0",
           "versionCode": 180,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/xhhttp/v0.18.0_180.zip",
+          "zipUrl": "https://repo-magisk.netlify.app/modules/xhhttp/v0.18.0_180.zip",
           "changelog": ""
         }
       ]
@@ -4724,7 +4783,7 @@
           "timestamp": 1673338863.0,
           "version": "5.38.53",
           "versionCode": 2,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/ytmusic_revancedinject/5.38.53_2.zip",
+          "zipUrl": "https://repo-magisk.netlify.app/modules/ytmusic_revancedinject/5.38.53_2.zip",
           "changelog": ""
         }
       ]
@@ -4750,7 +4809,7 @@
           "timestamp": 1673704299.0,
           "version": "18.01.36",
           "versionCode": 4,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/ytrevancedinject/18.01.36_4.zip",
+          "zipUrl": "https://repo-magisk.netlify.app/modules/ytrevancedinject/18.01.36_4.zip",
           "changelog": ""
         }
       ]
@@ -4776,7 +4835,7 @@
           "timestamp": 1690060098.0,
           "version": "v2023.7.17",
           "versionCode": 202307170,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/zram-swap-manager/v2023.7.17_202307170.zip",
+          "zipUrl": "https://repo-magisk.netlify.app/modules/zram-swap-manager/v2023.7.17_202307170.zip",
           "changelog": ""
         }
       ]
@@ -4802,8 +4861,8 @@
           "timestamp": 1679899057.0,
           "version": "v28.1.0",
           "versionCode": 85,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/zygisk-storage-isolation/v28.1.0_85.zip",
-          "changelog": "https://eljoker63.github.io/repo-magisk/modules/zygisk-storage-isolation/v28.1.0_85.md"
+          "zipUrl": "https://repo-magisk.netlify.app/modules/zygisk-storage-isolation/v28.1.0_85.zip",
+          "changelog": "https://repo-magisk.netlify.app/modules/zygisk-storage-isolation/v28.1.0_85.md"
         }
       ]
     },
@@ -4828,8 +4887,8 @@
           "timestamp": 1665741019.0,
           "version": "v12.7.2",
           "versionCode": 300,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/zygisk-sui/v12.7.2_300.zip",
-          "changelog": "https://eljoker63.github.io/repo-magisk/modules/zygisk-sui/v12.7.2_300.md"
+          "zipUrl": "https://repo-magisk.netlify.app/modules/zygisk-sui/v12.7.2_300.zip",
+          "changelog": "https://repo-magisk.netlify.app/modules/zygisk-sui/v12.7.2_300.md"
         }
       ]
     },
@@ -4854,7 +4913,7 @@
           "timestamp": 1690223631.7970476,
           "version": "v1.6",
           "versionCode": 1156,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/zygisk_cleanerhooks/v1.6_1156.zip",
+          "zipUrl": "https://repo-magisk.netlify.app/modules/zygisk_cleanerhooks/v1.6_1156.zip",
           "changelog": ""
         }
       ]
@@ -4880,8 +4939,8 @@
           "timestamp": 1675570123.0,
           "version": "v24",
           "versionCode": 24,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/zygisk_clipboard_whitelist/v24_24.zip",
-          "changelog": "https://eljoker63.github.io/repo-magisk/modules/zygisk_clipboard_whitelist/v24_24.md"
+          "zipUrl": "https://repo-magisk.netlify.app/modules/zygisk_clipboard_whitelist/v24_24.zip",
+          "changelog": "https://repo-magisk.netlify.app/modules/zygisk_clipboard_whitelist/v24_24.md"
         }
       ]
     },
@@ -4906,8 +4965,8 @@
           "timestamp": 1675569635.0,
           "version": "v21",
           "versionCode": 21,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/zygisk_ifw_enhance/v21_21.zip",
-          "changelog": "https://eljoker63.github.io/repo-magisk/modules/zygisk_ifw_enhance/v21_21.md"
+          "zipUrl": "https://repo-magisk.netlify.app/modules/zygisk_ifw_enhance/v21_21.zip",
+          "changelog": "https://repo-magisk.netlify.app/modules/zygisk_ifw_enhance/v21_21.md"
         }
       ]
     },
@@ -4932,22 +4991,22 @@
           "timestamp": 1673882223.0,
           "version": "v1.8.6 (6712)",
           "versionCode": 6712,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/zygisk_lsposed/v1.8.6_(6712)_6712.zip",
-          "changelog": "https://eljoker63.github.io/repo-magisk/modules/zygisk_lsposed/v1.8.6_(6712)_6712.md"
+          "zipUrl": "https://repo-magisk.netlify.app/modules/zygisk_lsposed/v1.8.6_(6712)_6712.zip",
+          "changelog": "https://repo-magisk.netlify.app/modules/zygisk_lsposed/v1.8.6_(6712)_6712.md"
         },
         {
           "timestamp": 1693323320.0,
           "version": "v1.9.0 (6986)",
           "versionCode": 6986,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/zygisk_lsposed/v1.9.0_6986.zip",
-          "changelog": "https://eljoker63.github.io/repo-magisk/modules/zygisk_lsposed/v1.9.0_6986.md"
+          "zipUrl": "https://repo-magisk.netlify.app/modules/zygisk_lsposed/v1.9.0_6986.zip",
+          "changelog": "https://repo-magisk.netlify.app/modules/zygisk_lsposed/v1.9.0_6986.md"
         },
         {
           "timestamp": 1693379566.0,
           "version": "v1.9.1 (6990)",
           "versionCode": 6990,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/zygisk_lsposed/v1.9.1_6990.zip",
-          "changelog": "https://eljoker63.github.io/repo-magisk/modules/zygisk_lsposed/v1.9.1_6990.md"
+          "zipUrl": "https://repo-magisk.netlify.app/modules/zygisk_lsposed/v1.9.1_6990.zip",
+          "changelog": "https://repo-magisk.netlify.app/modules/zygisk_lsposed/v1.9.1_6990.md"
         }
       ]
     },
@@ -4972,22 +5031,22 @@
           "timestamp": 1668657230.0,
           "version": "v0.6 (126)",
           "versionCode": 126,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/zygisk_shamiko/v0.6_(126)_126.zip",
-          "changelog": "https://eljoker63.github.io/repo-magisk/modules/zygisk_shamiko/v0.6_(126)_126.md"
+          "zipUrl": "https://repo-magisk.netlify.app/modules/zygisk_shamiko/v0.6_(126)_126.zip",
+          "changelog": "https://repo-magisk.netlify.app/modules/zygisk_shamiko/v0.6_(126)_126.md"
         },
         {
           "timestamp": 1680843186.0,
           "version": "v0.7 (161)",
           "versionCode": 161,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/zygisk_shamiko/v0.7_(161)_161.zip",
-          "changelog": "https://eljoker63.github.io/repo-magisk/modules/zygisk_shamiko/v0.7_(161)_161.md"
+          "zipUrl": "https://repo-magisk.netlify.app/modules/zygisk_shamiko/v0.7_(161)_161.zip",
+          "changelog": "https://repo-magisk.netlify.app/modules/zygisk_shamiko/v0.7_(161)_161.md"
         },
         {
           "timestamp": 1685850239.0,
           "version": "v0.7.3 (174)",
           "versionCode": 174,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/zygisk_shamiko/v0.7.3_174.zip",
-          "changelog": "https://eljoker63.github.io/repo-magisk/modules/zygisk_shamiko/v0.7.3_174.md"
+          "zipUrl": "https://repo-magisk.netlify.app/modules/zygisk_shamiko/v0.7.3_174.zip",
+          "changelog": "https://repo-magisk.netlify.app/modules/zygisk_shamiko/v0.7.3_174.md"
         }
       ]
     },
@@ -5012,7 +5071,7 @@
           "timestamp": 1679572814.0,
           "version": "v4-0.6.4 (73)",
           "versionCode": 73,
-          "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/zygiskksu/v4-0.6.4_(73)_73.zip",
+          "zipUrl": "https://repo-magisk.netlify.app/modules/zygiskksu/v4-0.6.4_(73)_73.zip",
           "changelog": ""
         }
       ]

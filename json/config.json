@@ -1,6 +1,6 @@
 {
   "NAME": "AEware Repo Magisk Modules",
-  "BASE_URL": "https://eljoker63.github.io/repo-magisk/",
+  "BASE_URL": "https://repo-magisk.netlify.app",
   "MAX_NUM": 5,
   "ENABLE_LOG": true,
   "LOG_DIR": "log",

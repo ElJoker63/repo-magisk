@@ -1,0 +1,13 @@
+{
+  "id": "Neribox",
+  "timestamp": 1693625032.0,
+  "versions": [
+    {
+      "timestamp": 1693625032.0,
+      "version": "2.6",
+      "versionCode": 20230902,
+      "zipUrl": "https://repo-magisk.netlify.app/modules/Neribox/2.6_20230902.zip",
+      "changelog": "https://repo-magisk.netlify.app/modules/Neribox/2.6_20230902.md"
+    }
+  ]
+}

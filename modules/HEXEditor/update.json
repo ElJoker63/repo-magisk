@@ -1,0 +1,13 @@
+{
+  "id": "HEXEditor",
+  "timestamp": 1690337939.0,
+  "versions": [
+    {
+      "timestamp": 1690337939.0,
+      "version": "v1.10",
+      "versionCode": 10,
+      "zipUrl": "https://repo-magisk.netlify.app/modules/HEXEditor/v1.10_10.zip",
+      "changelog": ""
+    }
+  ]
+}
