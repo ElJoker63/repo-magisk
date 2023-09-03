@@ -15,6 +15,13 @@
       "versionCode": 13612,
       "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/busybox-ndk/1.36.1_13612.zip",
       "changelog": "https://eljoker63.github.io/repo-magisk/modules/busybox-ndk/1.36.1_13612.md"
+    },
+    {
+      "timestamp": 1693724045.0,
+      "version": "1.36.1",
+      "versionCode": 13613,
+      "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/busybox-ndk/1.36.1_13613.zip",
+      "changelog": "https://eljoker63.github.io/repo-magisk/modules/busybox-ndk/1.36.1_13613.md"
     }
   ]
 }

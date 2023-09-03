@@ -1,6 +1,6 @@
 {
   "id": "acc",
-  "update_to": "https://raw.githubusercontent.com/VR-25/acc.git",
+  "update_to": "https://github.com/VR-25/acc.git",
   "changelog": "https://raw.githubusercontent.com/VR-25/acc/dev/changelog.md",
   "license": "GPL-3.0",
   "added": 1680541838.119451,

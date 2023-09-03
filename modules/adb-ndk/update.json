@@ -22,6 +22,13 @@
       "versionCode": 104112,
       "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/adb-ndk/1.0.41_104112.zip",
       "changelog": "https://eljoker63.github.io/repo-magisk/modules/adb-ndk/1.0.41_104112.md"
+    },
+    {
+      "timestamp": 1693724143.0,
+      "version": "1.0.41",
+      "versionCode": 104113,
+      "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/adb-ndk/1.0.41_104113.zip",
+      "changelog": "https://eljoker63.github.io/repo-magisk/modules/adb-ndk/1.0.41_104113.md"
     }
   ]
 }

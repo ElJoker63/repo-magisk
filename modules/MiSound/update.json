@@ -8,6 +8,13 @@
       "versionCode": 26,
       "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/MiSound/v2.6_26.zip",
       "changelog": ""
+    },
+    {
+      "timestamp": 1693651198.0,
+      "version": "v2.8",
+      "versionCode": 28,
+      "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/MiSound/v2.8_28.zip",
+      "changelog": ""
     }
   ]
 }

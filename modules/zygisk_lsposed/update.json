@@ -15,6 +15,13 @@
       "versionCode": 6986,
       "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/zygisk_lsposed/v1.9.0_6986.zip",
       "changelog": "https://eljoker63.github.io/repo-magisk/modules/zygisk_lsposed/v1.9.0_6986.md"
+    },
+    {
+      "timestamp": 1693379566.0,
+      "version": "v1.9.1 (6990)",
+      "versionCode": 6990,
+      "zipUrl": "https://eljoker63.github.io/repo-magisk/modules/zygisk_lsposed/v1.9.1_6990.zip",
+      "changelog": "https://eljoker63.github.io/repo-magisk/modules/zygisk_lsposed/v1.9.1_6990.md"
     }
   ]
 }

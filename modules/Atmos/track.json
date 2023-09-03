@@ -1,8 +1,8 @@
 {
   "id": "Atmos",
-  "update_to": "DolbyAtmos-MagicRevision-MagiskModule-20230204115154.zip",
+  "update_to": "https://gitlab.com/reiryuki-the-fixer/dolby-atmos-magic-revision-magisk-module.git",
+  "license": "free",
   "added": 1690223084.094087,
-  "last_update": 1690218654.8440053,
-  "versions": 1,
-  "license": "free"
+  "last_update": 1687254613.0,
+  "versions": 2
 }
