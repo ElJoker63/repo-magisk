@@ -12,14 +12,14 @@
       <img width="100%" src="Magisk-App-Featured.jpg">
     
       <div class="col align-items-center content" >
-        <p style="font-size: 30px;">
+        <p class="AEWARE_MAGISK_REPOSITORY grad">
           <span class="align-items-center" id="repoName"></span>
         </p>
-        <p><b>VERSION:</b> <span id="version"></span></p>
+        <p id="resultado"><!--b>VERSION:</b> <span id="version"></span--></p>
     <strong>ULTIMA ACTUALIZACION:</strong> <span id="timestamp"></span>
     <b>LINK DEL REPOSITORIO</b>
         <div class="caption1" id="publishedByText">
-          <span id="baseurl"></span>
+          <span class="grad" style="font-size: 25px;" id="baseurl"></span>
         </div>
     </div>
   </div>
@@ -34,6 +34,7 @@
   <ul id="modulesList"></ul>
   <!----></fluent-data-grid>
 </fluent-card>
+
 
 <script>
   const jsonConf = 'json/config.json'
@@ -86,7 +87,18 @@ span.addEventListener('click', function() {
       // Mostrar la información del repositorio
       document.getElementById('repoName').textContent = jsonData.name;
       document.getElementById('timestamp').textContent = new Date(jsonData.metadata.timestamp * 1000).toLocaleString();
-      document.getElementById('version').textContent = jsonData.metadata.version;
+      //document.getElementById('version').textContent = jsonData.metadata.version;
+      // Obtener el elemento HTML donde se mostrará el resultado
+      var resultado = document.getElementById("resultado");
+      // Crear una variable para almacenar el conteo
+      var conteo = 0;
+      // Recorrer el arreglo de objetos del JSON
+      for (var i = 0; i < jsonData.modules.length; i++) {
+        // Incrementar el conteo en uno por cada objeto
+        conteo++;
+      }
+      // Mostrar el conteo en el elemento HTML
+      resultado.innerHTML = "El JSON tiene " + conteo + " módulos.";
 
       // Mostrar el listado de módulos
       const modulesList = document.getElementById('modulesList');
@@ -112,6 +124,8 @@ span.addEventListener('click', function() {
       console.error('Error al obtener el JSON:', error);
     });
 </script>
+
+
 
   <script type="module" src="script.js"></script>
   <div class="caption1 mb-2" id="publishedByText">Creado por <a href="https://t.me/ElJoker63" target="_blank">ElJoker63</a></div>
