@@ -14,6 +14,13 @@
       "versionCode": 13,
       "zipUrl": "https://repo-magisk.netlify.app/modules/isodrive/1.3_13.zip",
       "changelog": ""
+    },
+    {
+      "timestamp": 1693645620.0,
+      "version": "2.1",
+      "versionCode": 21,
+      "zipUrl": "https://repo-magisk.netlify.app/modules/isodrive/2.1_21.zip",
+      "changelog": ""
     }
   ],
   "timestamp": 1690236958.0

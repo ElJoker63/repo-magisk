@@ -2,7 +2,7 @@
   "name": "AEware Magisk Repository",
   "metadata": {
     "version": 1,
-    "timestamp": 1693749503.349302
+    "timestamp": 1694008435.597223
   },
   "modules": [
     {
@@ -79,6 +79,32 @@
           "version": "v0.2",
           "versionCode": 2,
           "zipUrl": "https://repo-magisk.netlify.app/modules/ANRTM/v0.2_2.zip",
+          "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "AZURE",
+      "name": "STRP \u2717 AZURE",
+      "version": "v1.0 (HotFix)",
+      "versionCode": 1012,
+      "author": "@CRANKV2 | Telegram | GITHUB",
+      "description": "\ud83c\udfa8 Enhance Your Display! Fine-Tune Color Calibration for a Stunning Visual Experience. Elevate Your Device's Display Quality with AZURE! \ud83d\udca5 Termux Command su -c AZURE \ud83c\udf08",
+      "track": {
+        "type": "LOCAL_ZIP",
+        "added": 1694006364.064182,
+        "license": "",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1694003504.597113,
+          "version": "v1.0 (HotFix)",
+          "versionCode": 1012,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/AZURE/v1.0_HotFix_1012.zip",
           "changelog": ""
         }
       ]
@@ -601,6 +627,32 @@
           "version": "2.5",
           "versionCode": 25,
           "zipUrl": "https://repo-magisk.netlify.app/modules/EXTEND/2.5_25.zip",
+          "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "Esport",
+      "name": "Esport Gaming\u26a1\ufe0f",
+      "version": "v9.2",
+      "versionCode": 92,
+      "author": "@HenVx",
+      "description": " Gaming Module Boost Performance Your Device By HenVx, All In One Module Gaming And Smooth Gameplay",
+      "track": {
+        "type": "LOCAL_ZIP",
+        "added": 1694007629.51086,
+        "license": "",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1694003624.2845676,
+          "version": "v9.2",
+          "versionCode": 92,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/Esport/v9.2_92.zip",
           "changelog": ""
         }
       ]
@@ -1955,6 +2007,32 @@
       ]
     },
     {
+      "id": "SmoothTweaksUniversal",
+      "name": "SmoothTweaks",
+      "version": "v3.0",
+      "versionCode": 30,
+      "author": "@Sizul767",
+      "description": "Better Performance On Your Phone",
+      "track": {
+        "type": "LOCAL_ZIP",
+        "added": 1694007526.680652,
+        "license": "",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1694003532.7925427,
+          "version": "v3.0",
+          "versionCode": 30,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/SmoothTweaksUniversal/v3.0_30.zip",
+          "changelog": ""
+        }
+      ]
+    },
+    {
       "id": "SomcGameEnhancer-Upgrade",
       "name": "SomcGameEnhancer Upgrade",
       "version": "v7.0.A.1.20",
@@ -2042,6 +2120,32 @@
           "version": "v7.3",
           "versionCode": 73,
           "zipUrl": "https://repo-magisk.netlify.app/modules/SoundEnhancement/v7.3_73.zip",
+          "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "SuperTouch",
+      "name": "Super Touch \u001a",
+      "version": "v4.0",
+      "versionCode": 40,
+      "author": "@HenVx",
+      "description": " High Reponsive Touch For Your Device Gaming Better",
+      "track": {
+        "type": "LOCAL_ZIP",
+        "added": 1694007632.413291,
+        "license": "",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1694003541.7255633,
+          "version": "v4.0",
+          "versionCode": 40,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/SuperTouch/v4.0_40.zip",
           "changelog": ""
         }
       ]
@@ -2175,6 +2279,58 @@
           "versionCode": 109,
           "zipUrl": "https://repo-magisk.netlify.app/modules/ToyBox-Ext/1.0.9_109.zip",
           "changelog": "https://repo-magisk.netlify.app/modules/ToyBox-Ext/1.0.9_109.md"
+        }
+      ]
+    },
+    {
+      "id": "TsukasaEsport",
+      "name": "Tsukasa E-sport 2.1",
+      "version": "2.1",
+      "versionCode": 21,
+      "author": "ZxyonQiy",
+      "description": "Module Perfromance For your gaming",
+      "track": {
+        "type": "LOCAL_ZIP",
+        "added": 1694007633.376935,
+        "license": "",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1694003602.1982048,
+          "version": "2.1",
+          "versionCode": 21,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/TsukasaEsport/2.1_21.zip",
+          "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "UI",
+      "name": "Smooth GUI\u26a1\ufe0f",
+      "version": "v3.1",
+      "versionCode": 31,
+      "author": "@HenVx",
+      "description": "Smooth GUI For Android Module Magisk",
+      "track": {
+        "type": "LOCAL_ZIP",
+        "added": 1694007630.373483,
+        "license": "",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1694003589.081911,
+          "version": "v3.1",
+          "versionCode": 31,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/UI/v3.1_31.zip",
+          "changelog": ""
         }
       ]
     },
@@ -2335,6 +2491,32 @@
       ]
     },
     {
+      "id": "X_THERMAL",
+      "name": " X-THERMAL",
+      "version": "V 6.2",
+      "versionCode": 20,
+      "author": " Kutu Moba",
+      "description": " disable thermal tanpa kawatir panas saat pengecasan",
+      "track": {
+        "type": "LOCAL_ZIP",
+        "added": 1694007634.28952,
+        "license": "",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1694003565.5766094,
+          "version": "V 6.2",
+          "versionCode": 20,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/X_THERMAL/V_6.2_20.zip",
+          "changelog": ""
+        }
+      ]
+    },
+    {
       "id": "XperiaMusic",
       "name": "Xperia Music",
       "version": "v3.2",
@@ -2382,6 +2564,32 @@
           "version": "v5.0",
           "versionCode": 10,
           "zipUrl": "https://repo-magisk.netlify.app/modules/XtremeSensivity\ud83d\udd25/v5.0_10.zip",
+          "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "XtremeTouch",
+      "name": "Xtreme Touch 2.7",
+      "version": "v2.7",
+      "versionCode": 27,
+      "author": "@ZxyonQiy",
+      "description": "\u26a1Xtreme touch\u26a1memberikan touch yang responsive dan smooth",
+      "track": {
+        "type": "LOCAL_ZIP",
+        "added": 1694007636.075932,
+        "license": "",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1694003633.7155824,
+          "version": "v2.7",
+          "versionCode": 27,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/XtremeTouch/v2.7_27.zip",
           "changelog": ""
         }
       ]
@@ -2561,8 +2769,8 @@
     {
       "id": "ainur_jamesdsp",
       "name": "JamesDSP Manager",
-      "version": "v5.6 (8-8-2023)",
-      "versionCode": 95,
+      "version": "v5.7 (8-8-2023)",
+      "versionCode": 96,
       "author": "james34602, zackptg5, ahrion",
       "description": "JamesDSPManager is a reformed audio engine based of AOSP and OmniROM DSPManager source code with enhanced features and tuning",
       "track": {
@@ -2581,14 +2789,21 @@
           "versionCode": 95,
           "zipUrl": "https://repo-magisk.netlify.app/modules/ainur_jamesdsp/v5.6_8-8-2023_95.zip",
           "changelog": "https://repo-magisk.netlify.app/modules/ainur_jamesdsp/v5.6_8-8-2023_95.md"
+        },
+        {
+          "timestamp": 1694003297.324949,
+          "version": "v5.7 (8-8-2023)",
+          "versionCode": 96,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/ainur_jamesdsp/v5.7_8-8-2023_96.zip",
+          "changelog": "https://repo-magisk.netlify.app/modules/ainur_jamesdsp/v5.7_8-8-2023_96.md"
         }
       ]
     },
     {
       "id": "asoul_affinity_opt",
       "name": "A-SOUL Games Optimization",
-      "version": "A.28 (240)",
-      "versionCode": 240,
+      "version": "A.2B (243)",
+      "versionCode": 243,
       "author": "nakixii",
       "description": "Game threads tweaker for Android.",
       "track": {
@@ -2614,6 +2829,13 @@
           "versionCode": 240,
           "zipUrl": "https://repo-magisk.netlify.app/modules/asoul_affinity_opt/A.28_240.zip",
           "changelog": "https://repo-magisk.netlify.app/modules/asoul_affinity_opt/A.28_240.md"
+        },
+        {
+          "timestamp": 1692923817.0,
+          "version": "A.2B (243)",
+          "versionCode": 243,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/asoul_affinity_opt/A.2B_243.zip",
+          "changelog": "https://repo-magisk.netlify.app/modules/asoul_affinity_opt/A.2B_243.md"
         }
       ]
     },
@@ -3449,8 +3671,8 @@
     {
       "id": "isodrive",
       "name": "Isodrive",
-      "version": "1.3",
-      "versionCode": 13,
+      "version": "2.1",
+      "versionCode": 21,
       "author": "Marcel Alexandru Nitan",
       "description": "Use your mobile device to boot Linux distributions/ISO files on your PC",
       "track": {
@@ -3475,6 +3697,13 @@
           "version": "1.3",
           "versionCode": 13,
           "zipUrl": "https://repo-magisk.netlify.app/modules/isodrive/1.3_13.zip",
+          "changelog": ""
+        },
+        {
+          "timestamp": 1693645620.0,
+          "version": "2.1",
+          "versionCode": 21,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/isodrive/2.1_21.zip",
           "changelog": ""
         }
       ]
@@ -5079,8 +5308,8 @@
     {
       "id": "zygisksu",
       "name": "Zygisk on KernelSU",
-      "version": "v4-0.6.4 (73)",
-      "versionCode": 73,
+      "version": "v4-0.7.1 (89-release)",
+      "versionCode": 89,
       "author": "Nullptr, 5ec1cff",
       "description": "Run Zygisk on KernelSU.",
       "track": {
@@ -5098,6 +5327,13 @@
           "version": "v4-0.6.4 (73)",
           "versionCode": 73,
           "zipUrl": "https://repo-magisk.netlify.app/modules/zygiskksu/v4-0.6.4_(73)_73.zip",
+          "changelog": ""
+        },
+        {
+          "timestamp": 1687179483.0,
+          "version": "v4-0.7.1 (89-release)",
+          "versionCode": 89,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/zygisksu/v4-0.7.1_89-release.zip",
           "changelog": ""
         }
       ]

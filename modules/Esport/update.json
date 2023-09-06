@@ -1,0 +1,13 @@
+{
+  "id": "Esport",
+  "timestamp": 1694003624.2845676,
+  "versions": [
+    {
+      "timestamp": 1694003624.2845676,
+      "version": "v9.2",
+      "versionCode": 92,
+      "zipUrl": "https://repo-magisk.netlify.app/modules/Esport/v9.2_92.zip",
+      "changelog": ""
+    }
+  ]
+}

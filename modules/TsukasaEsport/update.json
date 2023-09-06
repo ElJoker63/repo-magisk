@@ -1,0 +1,13 @@
+{
+  "id": "TsukasaEsport",
+  "timestamp": 1694003602.1982048,
+  "versions": [
+    {
+      "timestamp": 1694003602.1982048,
+      "version": "2.1",
+      "versionCode": 21,
+      "zipUrl": "https://repo-magisk.netlify.app/modules/TsukasaEsport/2.1_21.zip",
+      "changelog": ""
+    }
+  ]
+}

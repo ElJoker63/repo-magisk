@@ -1,0 +1,13 @@
+{
+  "id": "X_THERMAL",
+  "timestamp": 1694003565.5766094,
+  "versions": [
+    {
+      "timestamp": 1694003565.5766094,
+      "version": "V 6.2",
+      "versionCode": 20,
+      "zipUrl": "https://repo-magisk.netlify.app/modules/X_THERMAL/V_6.2_20.zip",
+      "changelog": ""
+    }
+  ]
+}

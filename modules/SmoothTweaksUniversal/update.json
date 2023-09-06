@@ -1,0 +1,13 @@
+{
+  "id": "SmoothTweaksUniversal",
+  "timestamp": 1694003532.7925427,
+  "versions": [
+    {
+      "timestamp": 1694003532.7925427,
+      "version": "v3.0",
+      "versionCode": 30,
+      "zipUrl": "https://repo-magisk.netlify.app/modules/SmoothTweaksUniversal/v3.0_30.zip",
+      "changelog": ""
+    }
+  ]
+}

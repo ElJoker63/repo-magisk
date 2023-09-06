@@ -1,0 +1,13 @@
+{
+  "id": "SuperTouch",
+  "timestamp": 1694003541.7255633,
+  "versions": [
+    {
+      "timestamp": 1694003541.7255633,
+      "version": "v4.0",
+      "versionCode": 40,
+      "zipUrl": "https://repo-magisk.netlify.app/modules/SuperTouch/v4.0_40.zip",
+      "changelog": ""
+    }
+  ]
+}

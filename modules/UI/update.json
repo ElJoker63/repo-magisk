@@ -1,0 +1,13 @@
+{
+  "id": "UI",
+  "timestamp": 1694003589.081911,
+  "versions": [
+    {
+      "timestamp": 1694003589.081911,
+      "version": "v3.1",
+      "versionCode": 31,
+      "zipUrl": "https://repo-magisk.netlify.app/modules/UI/v3.1_31.zip",
+      "changelog": ""
+    }
+  ]
+}

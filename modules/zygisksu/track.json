@@ -1,9 +1,8 @@
 {
   "id": "zygisksu",
-  "update_to": "https://github.com/Dr-TSNG/ZygiskOnKernelSU/releases/download/v4-0.6.4/Zygisk-on-KernelSU-v4-0.6.4-73-release.zip",
+  "update_to": "https://github.com/Dr-TSNG/ZygiskOnKernelSU/releases/download/v4-0.7.1/Zygisk-on-KernelSU-v4-0.7.1-89-release.zip",
   "license": "GPL-3.0",
-  "changelog": "",
   "added": 1679025505.129431,
-  "last_update": 1679572814.0,
-  "versions": 1
+  "last_update": 1687179483.0,
+  "versions": 2
 }

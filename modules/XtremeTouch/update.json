@@ -1,0 +1,13 @@
+{
+  "id": "XtremeTouch",
+  "timestamp": 1694003633.7155824,
+  "versions": [
+    {
+      "timestamp": 1694003633.7155824,
+      "version": "v2.7",
+      "versionCode": 27,
+      "zipUrl": "https://repo-magisk.netlify.app/modules/XtremeTouch/v2.7_27.zip",
+      "changelog": ""
+    }
+  ]
+}
