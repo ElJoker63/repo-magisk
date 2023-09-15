@@ -2,7 +2,7 @@
   "name": "AEware Magisk Repository",
   "metadata": {
     "version": 1,
-    "timestamp": 1694741629.597759
+    "timestamp": 1694752726.009728
   },
   "modules": [
     {
@@ -3097,6 +3097,32 @@
       ]
     },
     {
+      "id": "aml",
+      "name": "Audio Modification Library",
+      "version": "v5.1",
+      "versionCode": 59,
+      "author": "zackptg5, ahrion",
+      "description": "AudModLib is a framework that allows the seamless integration of multiple audio mods in Magisk.",
+      "track": {
+        "type": "ONLINE_JSON",
+        "added": 1690238654.391032,
+        "license": "MIT",
+        "homepage": "",
+        "source": "https://github.com/Zackptg5/Audio-Modification-Library",
+        "support": "https://github.com/Zackptg5/Audio-Modification-Library/issues",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1694743421.079769,
+          "version": "v5.1",
+          "versionCode": 59,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/aml/v5.1_59.zip",
+          "changelog": "https://repo-magisk.netlify.app/modules/aml/v5.1_59.md"
+        }
+      ]
+    },
+    {
       "id": "asoul_affinity_opt",
       "name": "A-SOUL Games Optimization",
       "version": "A.2C (244)",
@@ -3153,10 +3179,10 @@
       "track": {
         "type": "GIT",
         "added": 1680541846.392866,
-        "license": "AGPL-3.0",
+        "license": "AGPL-3.0-only",
         "homepage": "",
-        "source": "",
-        "support": "",
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/audio-jitter-silencer",
+        "support": "https://github.com/Magisk-Modules-Alt-Repo/audio-jitter-silencer/issues",
         "donate": ""
       },
       "versions": [

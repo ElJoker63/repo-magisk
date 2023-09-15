@@ -1,0 +1,11 @@
+{
+  "id": "aml",
+  "update_to": "https://github.com/Zackptg5/Audio-Modification-Library/raw/master/update.json",
+  "changelog": "https://raw.githubusercontent.com/Zackptg5/Audio-Modification-Library/master/changelog.md",
+  "license": "MIT",
+  "source": "https://github.com/Zackptg5/Audio-Modification-Library",
+  "support": "https://github.com/Zackptg5/Audio-Modification-Library/issues",
+  "added": 1690238654.391032,
+  "last_update": 1694743421.079769,
+  "versions": 1
+}

@@ -1,0 +1,13 @@
+{
+  "id": "aml",
+  "timestamp": 1694743421.079769,
+  "versions": [
+    {
+      "timestamp": 1694743421.079769,
+      "version": "v5.1",
+      "versionCode": 59,
+      "zipUrl": "https://repo-magisk.netlify.app/modules/aml/v5.1_59.zip",
+      "changelog": "https://repo-magisk.netlify.app/modules/aml/v5.1_59.md"
+    }
+  ]
+}
