@@ -1,0 +1,13 @@
+{
+  "id": "VolteWifiCallingEnabler",
+  "timestamp": 1688844381.0,
+  "versions": [
+    {
+      "timestamp": 1688844381.0,
+      "version": "v1.1.1",
+      "versionCode": 111,
+      "zipUrl": "https://repo-magisk.netlify.app/modules/VolteWifiCallingEnabler/v1.1.1_111.zip",
+      "changelog": "https://repo-magisk.netlify.app/modules/VolteWifiCallingEnabler/v1.1.1_111.md"
+    }
+  ]
+}

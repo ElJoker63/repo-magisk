@@ -21,6 +21,13 @@
       "versionCode": 230809,
       "zipUrl": "https://repo-magisk.netlify.app/modules/ThemedProject/23.08.09_230809.zip",
       "changelog": ""
+    },
+    {
+      "timestamp": 1694681423.0,
+      "version": "23.09.11",
+      "versionCode": 230911,
+      "zipUrl": "https://repo-magisk.netlify.app/modules/ThemedProject/23.09.11_230911.zip",
+      "changelog": ""
     }
   ],
   "timestamp": 1689892735.0

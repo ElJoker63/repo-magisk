@@ -8,6 +8,13 @@
       "versionCode": 21,
       "zipUrl": "https://repo-magisk.netlify.app/modules/TaskerPrivileged/v2.11_21.zip",
       "changelog": ""
+    },
+    {
+      "timestamp": 1694429005.0,
+      "version": "v2.12",
+      "versionCode": 22,
+      "zipUrl": "https://repo-magisk.netlify.app/modules/TaskerPrivileged/v2.12_22.zip",
+      "changelog": ""
     }
   ]
 }

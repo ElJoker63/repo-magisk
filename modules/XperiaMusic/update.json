@@ -8,6 +8,13 @@
       "versionCode": 22,
       "zipUrl": "https://repo-magisk.netlify.app/modules/XperiaMusic/v3.2_22.zip",
       "changelog": ""
+    },
+    {
+      "timestamp": 1694602360.0,
+      "version": "v3.3",
+      "versionCode": 23,
+      "zipUrl": "https://repo-magisk.netlify.app/modules/XperiaMusic/v3.3_23.zip",
+      "changelog": ""
     }
   ]
 }

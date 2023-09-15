@@ -1,0 +1,11 @@
+{
+  "id": "acp",
+  "update_to": "https://github.com/Magisk-Modules-Repo/acp/raw/master/update.json",
+  "changelog": "https://raw.githubusercontent.com/Magisk-Modules-Repo/acp/master/changelog.md",
+  "license": "GPL-2.0-only",
+  "homepage": "https://forum.xda-developers.com/apps/magisk/module-universal-deepbuffer-remover-t3577067",
+  "source": "https://github.com/Magisk-Modules-Repo/acp",
+  "added": 1680213204.578256,
+  "last_update": 1694741534.193608,
+  "versions": 1
+}

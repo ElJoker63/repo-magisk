@@ -7,6 +7,13 @@
       "versionCode": 9,
       "zipUrl": "https://repo-magisk.netlify.app/modules/magisk_proc_monitor/2.2_9.zip",
       "changelog": ""
+    },
+    {
+      "timestamp": 1694360679.0,
+      "version": "2.3",
+      "versionCode": 10,
+      "zipUrl": "https://repo-magisk.netlify.app/modules/magisk_proc_monitor/2.3_10.zip",
+      "changelog": ""
     }
   ],
   "timestamp": 1674918971.0

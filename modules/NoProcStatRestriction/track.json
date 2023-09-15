@@ -2,8 +2,12 @@
   "id": "NoProcStatRestriction",
   "update_to": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/NoProcStatRestriction/master/update.json",
   "license": "WTFPL",
+  "homepage": "",
+  "source": "https://github.com/Magisk-Modules-Alt-Repo/NoProcStatRestriction",
+  "support": "https://github.com/Magisk-Modules-Alt-Repo/NoProcStatRestriction/issues",
+  "donation": "",
   "changelog": "",
-  "added": 1680541968.256236,
-  "last_update": 1673519027.0,
+  "added": 1679874715.81785,
+  "last_update": 1673543796.0,
   "versions": 1
 }

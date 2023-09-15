@@ -1,0 +1,13 @@
+{
+  "id": "Turkish-Ad-Hosts",
+  "timestamp": 1694721209.0,
+  "versions": [
+    {
+      "timestamp": 1694721209.0,
+      "version": "v23091419",
+      "versionCode": 23091419,
+      "zipUrl": "https://repo-magisk.netlify.app/modules/Turkish-Ad-Hosts/v23091419_23091419.zip",
+      "changelog": "https://repo-magisk.netlify.app/modules/Turkish-Ad-Hosts/v23091419_23091419.md"
+    }
+  ]
+}

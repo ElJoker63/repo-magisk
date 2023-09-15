@@ -8,6 +8,13 @@
       "versionCode": 15,
       "zipUrl": "https://repo-magisk.netlify.app/modules/ssh/v0.16_15.zip",
       "changelog": "https://repo-magisk.netlify.app/modules/ssh/v0.16_15.md"
+    },
+    {
+      "timestamp": 1694261773.0,
+      "version": "v0.16",
+      "versionCode": 16,
+      "zipUrl": "https://repo-magisk.netlify.app/modules/ssh/v0.16_16.zip",
+      "changelog": "https://repo-magisk.netlify.app/modules/ssh/v0.16_16.md"
     }
   ]
 }

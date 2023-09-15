@@ -1,6 +1,12 @@
 {
   "id": "NovaInstaller",
   "update_to": "https://raw.githubusercontent.com/Minionguyjpro/NovaInstaller/main/module.json",
+  "license": "Apache-2.0",
+  "homepage": "",
+  "source": "https://github.com/Minionguyjpro/NovaInstaller",
+  "support": "https://github.com/Minionguyjpro/NovaInstaller/issues",
+  "donation": "",
+  "changelog": "https://raw.githubusercontent.com/Minionguyjpro/NovaInstaller/main/changelog.md",
   "added": 1693738685.544513,
   "last_update": 1690904240.0,
   "versions": 1

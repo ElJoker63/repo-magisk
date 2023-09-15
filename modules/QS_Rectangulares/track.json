@@ -1,9 +1,11 @@
 {
   "id": "QS_Rectangulares",
-  "update_to": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/QS_Rectangulares/main/update.json",
-  "license": "GPL-2.0",
-  "changelog": "",
+  "update_to": "https://raw.githubusercontent.com/CrazyBytesVE/QS-Modded/main/update.json",
+  "changelog": "https://github.com/CrazyBytesVE/QS-Modded/blob/main/changelog.md",
+  "license": "GPL-2.0-only",
+  "source": "https://github.com/CrazyBytesVE/QS-Modded",
+  "support": "https://github.com/CrazyBytesVE/QS-Modded/issues",
   "added": 1680541992.3419,
-  "last_update": 1660425389.0,
-  "versions": 1
+  "last_update": 1683573927.0,
+  "versions": 2
 }

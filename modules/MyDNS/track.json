@@ -1,0 +1,13 @@
+{
+  "id": "MyDNS",
+  "update_to": "MyDNS.json",
+  "license": "LGPL-3.0-only",
+  "homepage": "",
+  "source": "https://github.com/Krutyi-4el/MyDNS",
+  "support": "https://github.com/Krutyi-4el/MyDNS/issues",
+  "donation": "",
+  "changelog": "",
+  "added": 1688757318.567457,
+  "last_update": 1681460954.0,
+  "versions": 1
+}

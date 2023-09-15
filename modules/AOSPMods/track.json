@@ -1,0 +1,11 @@
+{
+  "id": "AOSPMods",
+  "update_to": "https://raw.githubusercontent.com/siavash79/AOSPMods/stable/MagiskModuleUpdate_Xposed.json",
+  "changelog": "https://raw.githubusercontent.com/siavash79/AOSPMods/stable/MagiskModuleUpdate_Xposed.json",
+  "license": "GPL-3.0-only",
+  "source": "https://github.com/siavash79/AOSPMods",
+  "support": "https://github.com/siavash79/AOSPMods/issues",
+  "added": 1681111023.136244,
+  "last_update": 1692440759.0,
+  "versions": 1
+}

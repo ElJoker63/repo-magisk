@@ -8,6 +8,13 @@
       "versionCode": 20230902,
       "zipUrl": "https://repo-magisk.netlify.app/modules/Neribox/2.6_20230902.zip",
       "changelog": "https://repo-magisk.netlify.app/modules/Neribox/2.6_20230902.md"
+    },
+    {
+      "timestamp": 1694175040.0,
+      "version": "2.6",
+      "versionCode": 20230908,
+      "zipUrl": "https://repo-magisk.netlify.app/modules/Neribox/2.6_20230908.zip",
+      "changelog": "https://repo-magisk.netlify.app/modules/Neribox/2.6_20230908.md"
     }
   ]
 }

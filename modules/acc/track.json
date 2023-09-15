@@ -1,8 +1,12 @@
 {
   "id": "acc",
-  "update_to": "https://github.com/VR-25/acc.git",
-  "changelog": "https://raw.githubusercontent.com/VR-25/acc/dev/changelog.md",
-  "license": "GPL-3.0",
+  "update_to": "https://raw.githubusercontent.com/VR-25/acc/master/module.json",
+  "license": "GPL-3.0-only",
+  "homepage": "",
+  "source": "https://github.com/VR-25/acc",
+  "support": "https://github.com/VR-25/acc/issues",
+  "donation": "https://github.com/VR-25/acc#links",
+  "changelog": "https://raw.githubusercontent.com/VR-25/acc/master/changelog.md",
   "added": 1680541838.119451,
   "last_update": 1692431280.0,
   "versions": 3

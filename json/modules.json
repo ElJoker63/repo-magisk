@@ -2,7 +2,7 @@
   "name": "AEware Magisk Repository",
   "metadata": {
     "version": 1,
-    "timestamp": 1694008435.597223
+    "timestamp": 1694741629.597759
   },
   "modules": [
     {
@@ -80,6 +80,32 @@
           "versionCode": 2,
           "zipUrl": "https://repo-magisk.netlify.app/modules/ANRTM/v0.2_2.zip",
           "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "AOSPMods",
+      "name": "AOSP Mods (Xposed version)",
+      "version": "3.0.0",
+      "versionCode": 279,
+      "author": "Siavash79 + ElTifo",
+      "description": "Xposed based module for customizations on SystemUI on AOSP based roms. Supports Android 12+",
+      "track": {
+        "type": "ONLINE_JSON",
+        "added": 1681111023.136244,
+        "license": "GPL-3.0-only",
+        "homepage": "",
+        "source": "https://github.com/siavash79/AOSPMods",
+        "support": "https://github.com/siavash79/AOSPMods/issues",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1692440759.0,
+          "version": "3.0.0",
+          "versionCode": 279,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/AOSPMods/3.0.0_279.zip",
+          "changelog": "https://repo-magisk.netlify.app/modules/AOSPMods/3.0.0_279.md"
         }
       ]
     },
@@ -281,11 +307,11 @@
       "description": "Systemless BusyBox symlinked to the Magisk built-in busybox binary",
       "track": {
         "type": "ONLINE_JSON",
-        "added": 1680541856.891051,
-        "license": "GPL-2.0",
+        "added": 1679874715.81785,
+        "license": "GPL-2.0-only",
         "homepage": "",
-        "source": "",
-        "support": "",
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/BuiltIn-BusyBox",
+        "support": "https://github.com/Magisk-Modules-Alt-Repo/BuiltIn-BusyBox/issues",
         "donate": ""
       },
       "versions": [
@@ -536,6 +562,32 @@
           "versionCode": 530,
           "zipUrl": "https://repo-magisk.netlify.app/modules/Detach/v5.3_530.zip",
           "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "DisableCell",
+      "name": "Wifi only mode, disable cell radio completely.",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "author": "xyngg @ github",
+      "description": "Disables cell radio hence make your phone into a small tablet",
+      "track": {
+        "type": "ONLINE_JSON",
+        "added": 1679585236.802674,
+        "license": "LGPL-2.1-only",
+        "homepage": "",
+        "source": "https://github.com/xyngg/DisableCell",
+        "support": "https://github.com/xyngg/DisableCell/issues",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1669371091.0,
+          "version": "1.0.0",
+          "versionCode": 1,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/DisableCell/1.0.0_1.zip",
+          "changelog": "https://repo-magisk.netlify.app/modules/DisableCell/1.0.0_1.md"
         }
       ]
     },
@@ -1022,6 +1074,32 @@
       ]
     },
     {
+      "id": "Hc_memory",
+      "name": "A1-\u5185\u5b58\u7ba1\u7406 [Beta]",
+      "version": "v4 (2023.9.10)",
+      "versionCode": 425,
+      "author": "HChai",
+      "description": "Third-party memory management, support Android 8 ~ 13. project: https://github.com/OneB1ank/A1Memory",
+      "track": {
+        "type": "ONLINE_JSON",
+        "added": 1688711365.002626,
+        "license": "GPL-3.0-only",
+        "homepage": "",
+        "source": "https://github.com/OneB1ank/A1Memory",
+        "support": "https://github.com/OneB1ank/A1Memory/issues",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1694303057.0,
+          "version": "v4 (2023.9.10)",
+          "versionCode": 425,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/Hc_memory/v4_2023.9.10_425.zip",
+          "changelog": "https://repo-magisk.netlify.app/modules/Hc_memory/v4_2023.9.10_425.md"
+        }
+      ]
+    },
+    {
       "id": "HenBz",
       "name": "HenBz AI",
       "version": "1.0 Beta",
@@ -1185,6 +1263,32 @@
       ]
     },
     {
+      "id": "MIUI-Debloater-Stage1",
+      "name": "MIUI Debloater Stage1",
+      "version": "v2.1.0",
+      "versionCode": 210,
+      "author": "Ali Beyaz (avalibeyaz.com/github)",
+      "description": "Debloat various system apps on MIUI devices",
+      "track": {
+        "type": "ONLINE_JSON",
+        "added": 1688079667.544882,
+        "license": "GPL-3.0-only",
+        "homepage": "",
+        "source": "https://github.com/symbuzzer/MIUI-Debloater-Magisk-Modules",
+        "support": "https://github.com/symbuzzer/MIUI-Debloater-Magisk-Modules/issues",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1688150296.0,
+          "version": "v2.1.0",
+          "versionCode": 210,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/MIUI-Debloater-Stage1/v2.1.0_210.zip",
+          "changelog": "https://repo-magisk.netlify.app/modules/MIUI-Debloater-Stage1/v2.1.0_210.md"
+        }
+      ]
+    },
+    {
       "id": "MacRandomizationEnabler",
       "name": "MacRandomizationEnabler",
       "version": "v1",
@@ -1207,6 +1311,32 @@
           "versionCode": 1,
           "zipUrl": "https://repo-magisk.netlify.app/modules/MacRandomizationEnabler/v1_1.zip",
           "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "MagiskShowCameraSoundsModule",
+      "name": "Show Camera Sounds Config",
+      "version": "v1.0.0",
+      "versionCode": 3,
+      "author": "st1011",
+      "description": "Show 'Camera sounds' config on Google Camera.",
+      "track": {
+        "type": "ONLINE_JSON",
+        "added": 1679585236.802674,
+        "license": "MIT",
+        "homepage": "",
+        "source": "https://github.com/st1011/MagiskShowCameraSoundsModule",
+        "support": "https://github.com/st1011/MagiskShowCameraSoundsModule/issues",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1660416752.0,
+          "version": "v1.0.0",
+          "versionCode": 3,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/MagiskShowCameraSoundsModule/v1.0.0_3.zip",
+          "changelog": "https://repo-magisk.netlify.app/modules/MagiskShowCameraSoundsModule/v1.0.0_3.md"
         }
       ]
     },
@@ -1239,8 +1369,8 @@
     {
       "id": "MiSound",
       "name": "Mi Sound Redmi K40",
-      "version": "v2.8",
-      "versionCode": 28,
+      "version": "v2.9",
+      "versionCode": 29,
       "author": "Rei Ryuki the Fixer",
       "description": "Equalizers global type soundfx by Xiaomi Inc. ported from Redmi K40 (alioth). Dolby Atmos EQ for any Android 11 and up. Mi Sound EQ for Miui ROM Android 8 and up.",
       "track": {
@@ -1265,6 +1395,13 @@
           "version": "v2.8",
           "versionCode": 28,
           "zipUrl": "https://repo-magisk.netlify.app/modules/MiSound/v2.8_28.zip",
+          "changelog": ""
+        },
+        {
+          "timestamp": 1694519551.0,
+          "version": "v2.9",
+          "versionCode": 29,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/MiSound/v2.9_29.zip",
           "changelog": ""
         }
       ]
@@ -1476,7 +1613,7 @@
       "id": "Neribox",
       "name": "Neribox",
       "version": "2.6",
-      "versionCode": 20230902,
+      "versionCode": 20230908,
       "author": "\u98ce\u53c8\u97f3\u7406Neri",
       "description": "",
       "track": {
@@ -1495,6 +1632,13 @@
           "versionCode": 20230902,
           "zipUrl": "https://repo-magisk.netlify.app/modules/Neribox/2.6_20230902.zip",
           "changelog": "https://repo-magisk.netlify.app/modules/Neribox/2.6_20230902.md"
+        },
+        {
+          "timestamp": 1694175040.0,
+          "version": "2.6",
+          "versionCode": 20230908,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/Neribox/2.6_20230908.zip",
+          "changelog": "https://repo-magisk.netlify.app/modules/Neribox/2.6_20230908.md"
         }
       ]
     },
@@ -1507,11 +1651,11 @@
       "description": "Remove /proc/stat restriction on Android O and above",
       "track": {
         "type": "ONLINE_JSON",
-        "added": 1680541968.256236,
+        "added": 1679874715.81785,
         "license": "WTFPL",
         "homepage": "",
-        "source": "",
-        "support": "",
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/NoProcStatRestriction",
+        "support": "https://github.com/Magisk-Modules-Alt-Repo/NoProcStatRestriction/issues",
         "donate": ""
       },
       "versions": [
@@ -1560,10 +1704,10 @@
       "track": {
         "type": "ONLINE_JSON",
         "added": 1693738685.544513,
-        "license": "",
+        "license": "Apache-2.0",
         "homepage": "",
-        "source": "",
-        "support": "",
+        "source": "https://github.com/Minionguyjpro/NovaInstaller",
+        "support": "https://github.com/Minionguyjpro/NovaInstaller/issues",
         "donate": ""
       },
       "versions": [
@@ -1690,8 +1834,8 @@
     {
       "id": "OneUIHome",
       "name": "One UI Home",
-      "version": "v1.12",
-      "versionCode": 12,
+      "version": "v1.13",
+      "versionCode": 13,
       "author": "Rei Ryuki the Fixer",
       "description": "One UI Home launcher app by Samsung Electronics Co., Ltd. ported for any Android 8 and up.",
       "track": {
@@ -1709,6 +1853,13 @@
           "version": "v1.12",
           "versionCode": 12,
           "zipUrl": "https://repo-magisk.netlify.app/modules/OneUIHome/v1.12_12.zip",
+          "changelog": ""
+        },
+        {
+          "timestamp": 1694572757.0,
+          "version": "v1.13",
+          "versionCode": 13,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/OneUIHome/v1.13_13.zip",
           "changelog": ""
         }
       ]
@@ -1820,17 +1971,17 @@
     {
       "id": "QS_Rectangulares",
       "name": "Quick Settings Modded",
-      "version": "v1.0",
-      "versionCode": 1,
+      "version": "v1.1",
+      "versionCode": 2,
       "author": "@CrazybytesVE",
       "description": "Este m\u00f3dulo coloca los Quick Settings m\u00e1s rectangulares, con un fondo degradado.",
       "track": {
         "type": "ONLINE_JSON",
         "added": 1680541992.3419,
-        "license": "GPL-2.0",
+        "license": "GPL-2.0-only",
         "homepage": "",
-        "source": "",
-        "support": "",
+        "source": "https://github.com/CrazyBytesVE/QS-Modded",
+        "support": "https://github.com/CrazyBytesVE/QS-Modded/issues",
         "donate": ""
       },
       "versions": [
@@ -1840,6 +1991,13 @@
           "versionCode": 1,
           "zipUrl": "https://repo-magisk.netlify.app/modules/QS_Rectangulares/v1.0_1.zip",
           "changelog": "https://repo-magisk.netlify.app/modules/QS_Rectangulares/v1.0_1.md"
+        },
+        {
+          "timestamp": 1683573927.0,
+          "version": "v1.1",
+          "versionCode": 2,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/QS_Rectangulares/v1.1_2.zip",
+          "changelog": ""
         }
       ]
     },
@@ -1918,6 +2076,32 @@
           "versionCode": 32,
           "zipUrl": "https://repo-magisk.netlify.app/modules/Reducemiui/3.2_32.zip",
           "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "RiProG",
+      "name": "RiProG AI",
+      "version": "4.5 Stable",
+      "versionCode": 45,
+      "author": "RiProG",
+      "description": "Elevate your Android with automatic adaptive tweak",
+      "track": {
+        "type": "ONLINE_JSON",
+        "added": 1691396189.515956,
+        "license": "MIT",
+        "homepage": "",
+        "source": "https://github.com/RiProG-id/RiProG-AI",
+        "support": "https://github.com/RiProG-id/RiProG-AI/issues",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1692540273.0,
+          "version": "4.5 Stable",
+          "versionCode": 45,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/RiProG/4.5_Stable_45.zip",
+          "changelog": "https://repo-magisk.netlify.app/modules/RiProG/4.5_Stable_45.md"
         }
       ]
     },
@@ -2160,10 +2344,10 @@
       "track": {
         "type": "ONLINE_JSON",
         "added": 1680542005.415533,
-        "license": "LGPL-2.1",
-        "homepage": "",
-        "source": "",
-        "support": "",
+        "license": "LGPL-2.1-only",
+        "homepage": "https://forum.xda-developers.com/t/magisk-module-systemless-debloater.4180083/",
+        "source": "https://github.com/zgfg/SystemlessDebloater",
+        "support": "https://github.com/zgfg/SystemlessDebloater/issues",
         "donate": ""
       },
       "versions": [
@@ -2179,8 +2363,8 @@
     {
       "id": "TaskerPrivileged",
       "name": "Tasker Privileged",
-      "version": "v2.11",
-      "versionCode": 21,
+      "version": "v2.12",
+      "versionCode": 22,
       "author": "Rei Ryuki the Fixer",
       "description": "Fixes some missing functionalities of Tasker app due to restrictions in newer Android API versions.",
       "track": {
@@ -2199,16 +2383,23 @@
           "versionCode": 21,
           "zipUrl": "https://repo-magisk.netlify.app/modules/TaskerPrivileged/v2.11_21.zip",
           "changelog": ""
+        },
+        {
+          "timestamp": 1694429005.0,
+          "version": "v2.12",
+          "versionCode": 22,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/TaskerPrivileged/v2.12_22.zip",
+          "changelog": ""
         }
       ]
     },
     {
       "id": "ThemedProject",
       "name": "Themed Project",
-      "version": "23.08.09",
-      "versionCode": 230809,
+      "version": "23.09.11",
+      "versionCode": 230911,
       "author": "Osanosa",
-      "description": "themed.pro",
+      "description": "http://www.themed.pro",
       "track": {
         "type": "GIT",
         "added": 1686562495.79584,
@@ -2239,6 +2430,13 @@
           "versionCode": 230809,
           "zipUrl": "https://repo-magisk.netlify.app/modules/ThemedProject/23.08.09_230809.zip",
           "changelog": ""
+        },
+        {
+          "timestamp": 1694681423.0,
+          "version": "23.09.11",
+          "versionCode": 230911,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/ThemedProject/23.09.11_230911.zip",
+          "changelog": ""
         }
       ]
     },
@@ -2254,8 +2452,8 @@
         "added": 1680542009.627047,
         "license": "0BSD",
         "homepage": "",
-        "source": "",
-        "support": "",
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/ToyBox-Ext",
+        "support": "https://github.com/Magisk-Modules-Alt-Repo/ToyBox-Ext/issues",
         "donate": ""
       },
       "versions": [
@@ -2305,6 +2503,32 @@
           "versionCode": 21,
           "zipUrl": "https://repo-magisk.netlify.app/modules/TsukasaEsport/2.1_21.zip",
           "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "Turkish-Ad-Hosts",
+      "name": "Turkish Ad Hosts - v1.0.6",
+      "version": "v23091419",
+      "versionCode": 23091419,
+      "author": "Ali Beyaz",
+      "description": "T\u00fcrkiye'de yayg\u0131n kullan\u0131lan mobil uygulamalardaki (ve muhtemelen WEB sayfalar\u0131ndaki) izleme (ve beraberinde muhtemelen reklam) a\u011flar\u0131n\u0131 engellemek i\u00e7in gerekli hosts dosyas\u0131",
+      "track": {
+        "type": "ONLINE_JSON",
+        "added": 1688078884.601864,
+        "license": "GPL-3.0-only",
+        "homepage": "https://github.com/symbuzzer/Turkish-Ad-Hosts/wiki",
+        "source": "https://github.com/symbuzzer/Turkish-Ad-Hosts",
+        "support": "https://github.com/symbuzzer/Turkish-Ad-Hosts/issues",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1694721209.0,
+          "version": "v23091419",
+          "versionCode": 23091419,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/Turkish-Ad-Hosts/v23091419_23091419.zip",
+          "changelog": "https://repo-magisk.netlify.app/modules/Turkish-Ad-Hosts/v23091419_23091419.md"
         }
       ]
     },
@@ -2413,10 +2637,36 @@
       ]
     },
     {
+      "id": "VolteWifiCallingEnabler",
+      "name": "Volte and Wifi Calling Enabler",
+      "version": "v1.1.1",
+      "versionCode": 111,
+      "author": "Ali Beyaz (avalibeyaz.com/github)",
+      "description": "Enables Volte and Wifi Calling features",
+      "track": {
+        "type": "ONLINE_JSON",
+        "added": 1679585236.802674,
+        "license": "GPL-3.0-only",
+        "homepage": "",
+        "source": "https://github.com/symbuzzer/Volte-Wifi-Calling-Enabler",
+        "support": "https://github.com/symbuzzer/Volte-Wifi-Calling-Enabler/issues",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1688844381.0,
+          "version": "v1.1.1",
+          "versionCode": 111,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/VolteWifiCallingEnabler/v1.1.1_111.zip",
+          "changelog": "https://repo-magisk.netlify.app/modules/VolteWifiCallingEnabler/v1.1.1_111.md"
+        }
+      ]
+    },
+    {
       "id": "VolumeBooster",
       "name": "Volume Booster",
-      "version": "v0.2",
-      "versionCode": 2,
+      "version": "v0.3",
+      "versionCode": 3,
       "author": "Rei Ryuki the Fixer",
       "description": "Increases maximum phone volumes.",
       "track": {
@@ -2434,6 +2684,13 @@
           "version": "v0.2",
           "versionCode": 2,
           "zipUrl": "https://repo-magisk.netlify.app/modules/VolumeBooster/v0.2_2.zip",
+          "changelog": ""
+        },
+        {
+          "timestamp": 1694433751.0,
+          "version": "v0.3",
+          "versionCode": 3,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/VolumeBooster/v0.3_3.zip",
           "changelog": ""
         }
       ]
@@ -2519,8 +2776,8 @@
     {
       "id": "XperiaMusic",
       "name": "Xperia Music",
-      "version": "v3.2",
-      "versionCode": 22,
+      "version": "v3.3",
+      "versionCode": 23,
       "author": "Rei Ryuki the Fixer",
       "description": "Music player app updatable Play Store version from Sony Mobile Communications Inc. for any Android 4.2 and up.",
       "track": {
@@ -2538,6 +2795,13 @@
           "version": "v3.2",
           "versionCode": 22,
           "zipUrl": "https://repo-magisk.netlify.app/modules/XperiaMusic/v3.2_22.zip",
+          "changelog": ""
+        },
+        {
+          "timestamp": 1694602360.0,
+          "version": "v3.3",
+          "versionCode": 23,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/XperiaMusic/v3.3_23.zip",
           "changelog": ""
         }
       ]
@@ -2687,12 +2951,12 @@
       "author": "VR25",
       "description": "Mainly intended for extending battery service life on Android devices. In a nutshell, this is achieved through limiting charging current, temperature, and voltage. Any root solution is supported. Regardless of whether the system is rooted with Magisk, the installation is always \"systemless\".",
       "track": {
-        "type": "GIT",
+        "type": "ONLINE_JSON",
         "added": 1680541838.119451,
-        "license": "GPL-3.0",
+        "license": "GPL-3.0-only",
         "homepage": "",
-        "source": "",
-        "support": "",
+        "source": "https://github.com/VR-25/acc",
+        "support": "https://github.com/VR-25/acc/issues",
         "donate": ""
       },
       "versions": [
@@ -2716,6 +2980,32 @@
           "versionCode": 202308190,
           "zipUrl": "https://repo-magisk.netlify.app/modules/acc/v2023.8.19_202308190.zip",
           "changelog": "https://repo-magisk.netlify.app/modules/acc/v2023.8.19_202308190.md"
+        }
+      ]
+    },
+    {
+      "id": "acp",
+      "name": "Audio Compatibility Patch",
+      "version": "v2.5",
+      "versionCode": 39,
+      "author": "zackptg5, ahrion, John Fawkes",
+      "description": "Fixes music and streaming apps (Spotify, Pandora, etc) that aren't processing audio effects for various equalizer applications through the modification of audio policy",
+      "track": {
+        "type": "ONLINE_JSON",
+        "added": 1680213204.578256,
+        "license": "GPL-2.0-only",
+        "homepage": "https://forum.xda-developers.com/apps/magisk/module-universal-deepbuffer-remover-t3577067",
+        "source": "https://github.com/Magisk-Modules-Repo/acp",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1694741534.193608,
+          "version": "v2.5",
+          "versionCode": 39,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/acp/v2.5_39.zip",
+          "changelog": "https://repo-magisk.netlify.app/modules/acp/v2.5_39.md"
         }
       ]
     },
@@ -2769,8 +3059,8 @@
     {
       "id": "ainur_jamesdsp",
       "name": "JamesDSP Manager",
-      "version": "v5.7 (8-8-2023)",
-      "versionCode": 96,
+      "version": "v5.8 (9-10-2023/9-10-2023)",
+      "versionCode": 97,
       "author": "james34602, zackptg5, ahrion",
       "description": "JamesDSPManager is a reformed audio engine based of AOSP and OmniROM DSPManager source code with enhanced features and tuning",
       "track": {
@@ -2796,14 +3086,21 @@
           "versionCode": 96,
           "zipUrl": "https://repo-magisk.netlify.app/modules/ainur_jamesdsp/v5.7_8-8-2023_96.zip",
           "changelog": "https://repo-magisk.netlify.app/modules/ainur_jamesdsp/v5.7_8-8-2023_96.md"
+        },
+        {
+          "timestamp": 1694739513.036552,
+          "version": "v5.8 (9-10-2023/9-10-2023)",
+          "versionCode": 97,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/ainur_jamesdsp/v5.8_9-10-20239-10-2023_97.zip",
+          "changelog": "https://repo-magisk.netlify.app/modules/ainur_jamesdsp/v5.8_9-10-20239-10-2023_97.md"
         }
       ]
     },
     {
       "id": "asoul_affinity_opt",
       "name": "A-SOUL Games Optimization",
-      "version": "A.2B (243)",
-      "versionCode": 243,
+      "version": "A.2C (244)",
+      "versionCode": 244,
       "author": "nakixii",
       "description": "Game threads tweaker for Android.",
       "track": {
@@ -2836,6 +3133,13 @@
           "versionCode": 243,
           "zipUrl": "https://repo-magisk.netlify.app/modules/asoul_affinity_opt/A.2B_243.zip",
           "changelog": "https://repo-magisk.netlify.app/modules/asoul_affinity_opt/A.2B_243.md"
+        },
+        {
+          "timestamp": 1694405376.0,
+          "version": "A.2C (244)",
+          "versionCode": 244,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/asoul_affinity_opt/A.2C_244.zip",
+          "changelog": "https://repo-magisk.netlify.app/modules/asoul_affinity_opt/A.2C_244.md"
         }
       ]
     },
@@ -2949,7 +3253,7 @@
       "id": "busybox-ndk",
       "name": "Busybox for Android NDK",
       "version": "1.36.1",
-      "versionCode": 13613,
+      "versionCode": 13614,
       "author": "osm0sis @ xda-developers",
       "description": "Static busybox binary for all Android architectures built with the NDK",
       "track": {
@@ -2982,6 +3286,13 @@
           "versionCode": 13613,
           "zipUrl": "https://repo-magisk.netlify.app/modules/busybox-ndk/1.36.1_13613.zip",
           "changelog": "https://repo-magisk.netlify.app/modules/busybox-ndk/1.36.1_13613.md"
+        },
+        {
+          "timestamp": 1694739483.0,
+          "version": "1.36.1",
+          "versionCode": 13614,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/busybox-ndk/1.36.1_13614.zip",
+          "changelog": "https://repo-magisk.netlify.app/modules/busybox-ndk/1.36.1_13614.md"
         }
       ]
     },
@@ -3867,8 +4178,8 @@
     {
       "id": "magisk_proc_monitor",
       "name": "Process Monitor Tool",
-      "version": "2.2",
-      "versionCode": 9,
+      "version": "2.3",
+      "versionCode": 10,
       "author": "HuskyDG",
       "description": "Provide the way for modules to run script whenever app process start. More information, please visit http://github.com/huskydg/magisk_proc_monitor",
       "track": {
@@ -3886,6 +4197,13 @@
           "version": "2.2",
           "versionCode": 9,
           "zipUrl": "https://repo-magisk.netlify.app/modules/magisk_proc_monitor/2.2_9.zip",
+          "changelog": ""
+        },
+        {
+          "timestamp": 1694360679.0,
+          "version": "2.3",
+          "versionCode": 10,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/magisk_proc_monitor/2.3_10.zip",
           "changelog": ""
         }
       ]
@@ -4577,7 +4895,7 @@
       "id": "ssh",
       "name": "SSH for Magisk",
       "version": "v0.16",
-      "versionCode": 15,
+      "versionCode": 16,
       "author": "D4rCM4rC and Contributors",
       "description": "OpenSSH and Rsync bundled with simple start scripts for Android with Magisk",
       "track": {
@@ -4596,6 +4914,13 @@
           "versionCode": 15,
           "zipUrl": "https://repo-magisk.netlify.app/modules/ssh/v0.16_15.zip",
           "changelog": "https://repo-magisk.netlify.app/modules/ssh/v0.16_15.md"
+        },
+        {
+          "timestamp": 1694261773.0,
+          "version": "v0.16",
+          "versionCode": 16,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/ssh/v0.16_16.zip",
+          "changelog": "https://repo-magisk.netlify.app/modules/ssh/v0.16_16.md"
         }
       ]
     },

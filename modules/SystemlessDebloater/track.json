@@ -1,8 +1,12 @@
 {
   "id": "SystemlessDebloater",
-  "update_to": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/SystemlessDebloater/main/update.json",
-  "license": "LGPL-2.1",
-  "changelog": "",
+  "update_to": "https://github.com/zgfg/SystemlessDebloater/raw/main/update.json",
+  "license": "LGPL-2.1-only",
+  "homepage": "https://forum.xda-developers.com/t/magisk-module-systemless-debloater.4180083/",
+  "source": "https://github.com/zgfg/SystemlessDebloater",
+  "support": "https://github.com/zgfg/SystemlessDebloater/issues",
+  "donation": "https://zgfg.github.io/PayPal.html",
+  "changelog": "https://raw.githubusercontent.com/zgfg/SystemlessDebloater/main/changelog.md",
   "added": 1680542005.415533,
   "last_update": 1683123396.0,
   "versions": 1

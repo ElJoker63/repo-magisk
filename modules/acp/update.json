@@ -1,0 +1,13 @@
+{
+  "id": "acp",
+  "timestamp": 1694741534.193608,
+  "versions": [
+    {
+      "timestamp": 1694741534.193608,
+      "version": "v2.5",
+      "versionCode": 39,
+      "zipUrl": "https://repo-magisk.netlify.app/modules/acp/v2.5_39.zip",
+      "changelog": "https://repo-magisk.netlify.app/modules/acp/v2.5_39.md"
+    }
+  ]
+}

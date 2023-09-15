@@ -1,0 +1,11 @@
+{
+  "id": "MIUI-Debloater-Stage1",
+  "update_to": "https://raw.githubusercontent.com/symbuzzer/MIUI-Debloater-Magisk-Modules/main/stage1/update.json",
+  "changelog": "https://raw.githubusercontent.com/symbuzzer/MIUI-Debloater-Magisk-Modules/main/CHANGELOG.md",
+  "license": "GPL-3.0-only",
+  "source": "https://github.com/symbuzzer/MIUI-Debloater-Magisk-Modules",
+  "support": "https://github.com/symbuzzer/MIUI-Debloater-Magisk-Modules/issues",
+  "added": 1688079667.544882,
+  "last_update": 1688150296.0,
+  "versions": 1
+}

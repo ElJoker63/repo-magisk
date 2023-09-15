@@ -1,0 +1,13 @@
+{
+  "id": "MIUI-Debloater-Stage1",
+  "timestamp": 1688150296.0,
+  "versions": [
+    {
+      "timestamp": 1688150296.0,
+      "version": "v2.1.0",
+      "versionCode": 210,
+      "zipUrl": "https://repo-magisk.netlify.app/modules/MIUI-Debloater-Stage1/v2.1.0_210.zip",
+      "changelog": "https://repo-magisk.netlify.app/modules/MIUI-Debloater-Stage1/v2.1.0_210.md"
+    }
+  ]
+}

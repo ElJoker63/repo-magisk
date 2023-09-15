@@ -1,0 +1,13 @@
+{
+  "id": "Hc_memory",
+  "timestamp": 1694303057.0,
+  "versions": [
+    {
+      "timestamp": 1694303057.0,
+      "version": "v4 (2023.9.10)",
+      "versionCode": 425,
+      "zipUrl": "https://repo-magisk.netlify.app/modules/Hc_memory/v4_2023.9.10_425.zip",
+      "changelog": "https://repo-magisk.netlify.app/modules/Hc_memory/v4_2023.9.10_425.md"
+    }
+  ]
+}

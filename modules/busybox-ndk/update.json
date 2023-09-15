@@ -22,6 +22,13 @@
       "versionCode": 13613,
       "zipUrl": "https://repo-magisk.netlify.app/modules/busybox-ndk/1.36.1_13613.zip",
       "changelog": "https://repo-magisk.netlify.app/modules/busybox-ndk/1.36.1_13613.md"
+    },
+    {
+      "timestamp": 1694739483.0,
+      "version": "1.36.1",
+      "versionCode": 13614,
+      "zipUrl": "https://repo-magisk.netlify.app/modules/busybox-ndk/1.36.1_13614.zip",
+      "changelog": "https://repo-magisk.netlify.app/modules/busybox-ndk/1.36.1_13614.md"
     }
   ]
 }

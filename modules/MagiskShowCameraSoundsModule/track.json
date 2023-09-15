@@ -1,0 +1,11 @@
+{
+  "id": "MagiskShowCameraSoundsModule",
+  "update_to": "https://github.com/st1011/MagiskShowCameraSoundsModule/raw/main/update.json",
+  "changelog": "https://raw.githubusercontent.com/st1011/MagiskShowCameraSoundsModule/main/changelog.md",
+  "license": "MIT",
+  "source": "https://github.com/st1011/MagiskShowCameraSoundsModule",
+  "support": "https://github.com/st1011/MagiskShowCameraSoundsModule/issues",
+  "added": 1679585236.802674,
+  "last_update": 1660416752.0,
+  "versions": 1
+}

@@ -1,0 +1,11 @@
+{
+  "id": "DisableCell",
+  "update_to": "https://github.com/xyngg/DisableCell/raw/main/update.json",
+  "changelog": "https://raw.githubusercontent.com/xyngg/DisableCell/main/changelog.md",
+  "license": "LGPL-2.1-only",
+  "source": "https://github.com/xyngg/DisableCell",
+  "support": "https://github.com/xyngg/DisableCell/issues",
+  "added": 1679585236.802674,
+  "last_update": 1669371091.0,
+  "versions": 1
+}

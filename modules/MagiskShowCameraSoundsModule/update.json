@@ -1,0 +1,13 @@
+{
+  "id": "MagiskShowCameraSoundsModule",
+  "timestamp": 1660416752.0,
+  "versions": [
+    {
+      "timestamp": 1660416752.0,
+      "version": "v1.0.0",
+      "versionCode": 3,
+      "zipUrl": "https://repo-magisk.netlify.app/modules/MagiskShowCameraSoundsModule/v1.0.0_3.zip",
+      "changelog": "https://repo-magisk.netlify.app/modules/MagiskShowCameraSoundsModule/v1.0.0_3.md"
+    }
+  ]
+}

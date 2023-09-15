@@ -15,6 +15,13 @@
       "versionCode": 96,
       "zipUrl": "https://repo-magisk.netlify.app/modules/ainur_jamesdsp/v5.7_8-8-2023_96.zip",
       "changelog": "https://repo-magisk.netlify.app/modules/ainur_jamesdsp/v5.7_8-8-2023_96.md"
+    },
+    {
+      "timestamp": 1694739513.036552,
+      "version": "v5.8 (9-10-2023/9-10-2023)",
+      "versionCode": 97,
+      "zipUrl": "https://repo-magisk.netlify.app/modules/ainur_jamesdsp/v5.8_9-10-20239-10-2023_97.zip",
+      "changelog": "https://repo-magisk.netlify.app/modules/ainur_jamesdsp/v5.8_9-10-20239-10-2023_97.md"
     }
   ]
 }

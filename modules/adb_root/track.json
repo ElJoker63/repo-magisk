@@ -1,0 +1,13 @@
+{
+  "id": "adb_root",
+  "update_to": "adb_root.json",
+  "license": "GPL-3.0-only",
+  "homepage": "",
+  "source": "https://github.com/tiann/adb_root",
+  "support": "https://github.com/tiann/adb_root/issues",
+  "donation": "",
+  "changelog": "https://github.com/tiann/adb_root/releases",
+  "added": 1681714431.242123,
+  "last_update": 1681701322.0,
+  "versions": 1
+}

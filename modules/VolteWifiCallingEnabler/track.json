@@ -1,0 +1,11 @@
+{
+  "id": "VolteWifiCallingEnabler",
+  "update_to": "https://github.com/symbuzzer/Volte-Wifi-Calling-Enabler-Magisk-Module/raw/main/update.json",
+  "changelog": "https://raw.githubusercontent.com/symbuzzer/Volte-Wifi-Calling-Enabler-Magisk-Module/main/changelog.md",
+  "license": "GPL-3.0-only",
+  "source": "https://github.com/symbuzzer/Volte-Wifi-Calling-Enabler",
+  "support": "https://github.com/symbuzzer/Volte-Wifi-Calling-Enabler/issues",
+  "added": 1679585236.802674,
+  "last_update": 1688844381.0,
+  "versions": 1
+}
