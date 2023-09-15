@@ -2,7 +2,7 @@
   "name": "AEware Magisk Repository",
   "metadata": {
     "version": 1,
-    "timestamp": 1694752726.009728
+    "timestamp": 1694758778.324937
   },
   "modules": [
     {
@@ -4072,6 +4072,32 @@
       ]
     },
     {
+      "id": "kp_enhancer",
+      "name": "KnoxPatch Enhancer",
+      "version": "v0.4",
+      "versionCode": 4,
+      "author": "BlackMesa123",
+      "description": "Get Samsung apps/features working again in your rooted Galaxy device.",
+      "track": {
+        "type": "ONLINE_JSON",
+        "added": 1694758321.396534,
+        "license": "",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1691329511.0,
+          "version": "v0.4",
+          "versionCode": 4,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/kp_enhancer/v0.4_4.zip",
+          "changelog": "https://repo-magisk.netlify.app/modules/kp_enhancer/v0.4_4.md"
+        }
+      ]
+    },
+    {
       "id": "lhroot",
       "name": "Linux Chroot Installer",
       "version": "v2.2.0",
@@ -5339,6 +5365,32 @@
           "versionCode": 180,
           "zipUrl": "https://repo-magisk.netlify.app/modules/xhhttp/v0.18.0_180.zip",
           "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "xmlpak",
+      "name": "xmlpak \u2013 a road to vendor apps",
+      "version": "v4.5",
+      "versionCode": 45,
+      "author": "RKBDI, Tadi (j1505243 at xda)",
+      "description": "This module enables you to download and install vendor apps from Google Play. Compatibility is not guaranteed.",
+      "track": {
+        "type": "ONLINE_JSON",
+        "added": 1694758399.589957,
+        "license": "",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1658425615.0,
+          "version": "v4.5",
+          "versionCode": 45,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/xmlpak/v4.5_45.zip",
+          "changelog": "https://repo-magisk.netlify.app/modules/xmlpak/v4.5_45.md"
         }
       ]
     },

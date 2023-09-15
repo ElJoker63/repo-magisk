@@ -1,0 +1,13 @@
+{
+  "id": "kp_enhancer",
+  "timestamp": 1691329511.0,
+  "versions": [
+    {
+      "timestamp": 1691329511.0,
+      "version": "v0.4",
+      "versionCode": 4,
+      "zipUrl": "https://repo-magisk.netlify.app/modules/kp_enhancer/v0.4_4.zip",
+      "changelog": "https://repo-magisk.netlify.app/modules/kp_enhancer/v0.4_4.md"
+    }
+  ]
+}
