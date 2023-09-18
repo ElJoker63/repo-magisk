@@ -7,6 +7,13 @@
       "versionCode": 149,
       "zipUrl": "https://repo-magisk.netlify.app/modules/node_on_android/1.4.9_149.zip",
       "changelog": ""
+    },
+    {
+      "timestamp": 1694987130.0,
+      "version": "1.5.0",
+      "versionCode": 150,
+      "zipUrl": "https://repo-magisk.netlify.app/modules/node_on_android/1.5.0_150.zip",
+      "changelog": ""
     }
   ],
   "timestamp": 1689164467.0

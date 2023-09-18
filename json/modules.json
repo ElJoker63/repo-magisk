@@ -2,7 +2,7 @@
   "name": "AEware Magisk Repository",
   "metadata": {
     "version": 1,
-    "timestamp": 1694758778.324937
+    "timestamp": 1695035149.952294
   },
   "modules": [
     {
@@ -190,8 +190,8 @@
     {
       "id": "Atmos",
       "name": "Dolby Atmos Magic Revision",
-      "version": "v2.15",
-      "versionCode": 25,
+      "version": "v2.16",
+      "versionCode": 26,
       "author": "Rei Ryuki the Fixer",
       "description": "An EQ global type soundfx ported by Little Monk reworked for any Android 4.2 and up. Powered by Dolby Surround (DS).",
       "track": {
@@ -216,6 +216,13 @@
           "version": "v2.15",
           "versionCode": 25,
           "zipUrl": "https://repo-magisk.netlify.app/modules/Atmos/v2.15_25.zip",
+          "changelog": ""
+        },
+        {
+          "timestamp": 1694930749.0,
+          "version": "v2.16",
+          "versionCode": 26,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/Atmos/v2.16_26.zip",
           "changelog": ""
         }
       ]
@@ -627,8 +634,8 @@
     {
       "id": "DolbyAudio",
       "name": "Dolby Audio Moto G Pro",
-      "version": "v6.2",
-      "versionCode": 62,
+      "version": "v6.3",
+      "versionCode": 63,
       "author": "Rei Ryuki the Fixer",
       "description": "An equalizer global type soundfx ported from Motorola G Pro (sofiap_sprout) for any Android 9 and up, 64 bit architecture.",
       "track": {
@@ -653,6 +660,13 @@
           "version": "v6.2",
           "versionCode": 62,
           "zipUrl": "https://repo-magisk.netlify.app/modules/DolbyAudio/v6.2_62.zip",
+          "changelog": ""
+        },
+        {
+          "timestamp": 1694944251.0,
+          "version": "v6.3",
+          "versionCode": 63,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/DolbyAudio/v6.3_63.zip",
           "changelog": ""
         }
       ]
@@ -2396,8 +2410,8 @@
     {
       "id": "ThemedProject",
       "name": "Themed Project",
-      "version": "23.09.11",
-      "versionCode": 230911,
+      "version": "23.09.17",
+      "versionCode": 230917,
       "author": "Osanosa",
       "description": "http://www.themed.pro",
       "track": {
@@ -2436,6 +2450,13 @@
           "version": "23.09.11",
           "versionCode": 230911,
           "zipUrl": "https://repo-magisk.netlify.app/modules/ThemedProject/23.09.11_230911.zip",
+          "changelog": ""
+        },
+        {
+          "timestamp": 1694974205.0,
+          "version": "23.09.17",
+          "versionCode": 230917,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/ThemedProject/23.09.17_230917.zip",
           "changelog": ""
         }
       ]
@@ -2509,8 +2530,8 @@
     {
       "id": "Turkish-Ad-Hosts",
       "name": "Turkish Ad Hosts - v1.0.6",
-      "version": "v23091419",
-      "versionCode": 23091419,
+      "version": "v23091711",
+      "versionCode": 23091711,
       "author": "Ali Beyaz",
       "description": "T\u00fcrkiye'de yayg\u0131n kullan\u0131lan mobil uygulamalardaki (ve muhtemelen WEB sayfalar\u0131ndaki) izleme (ve beraberinde muhtemelen reklam) a\u011flar\u0131n\u0131 engellemek i\u00e7in gerekli hosts dosyas\u0131",
       "track": {
@@ -2529,6 +2550,13 @@
           "versionCode": 23091419,
           "zipUrl": "https://repo-magisk.netlify.app/modules/Turkish-Ad-Hosts/v23091419_23091419.zip",
           "changelog": "https://repo-magisk.netlify.app/modules/Turkish-Ad-Hosts/v23091419_23091419.md"
+        },
+        {
+          "timestamp": 1694949990.0,
+          "version": "v23091711",
+          "versionCode": 23091711,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/Turkish-Ad-Hosts/v23091711_23091711.zip",
+          "changelog": "https://repo-magisk.netlify.app/modules/Turkish-Ad-Hosts/v23091711_23091711.md"
         }
       ]
     },
@@ -4341,8 +4369,8 @@
     {
       "id": "node_on_android",
       "name": "Systemless Node.js",
-      "version": "1.4.9",
-      "versionCode": 149,
+      "version": "1.5.0",
+      "versionCode": 150,
       "author": "Der_Googler",
       "description": "Node.js is a cross-platform, open-source server environment that can run on Windows, Linux, Unix, macOS, and more.",
       "track": {
@@ -4360,6 +4388,13 @@
           "version": "1.4.9",
           "versionCode": 149,
           "zipUrl": "https://repo-magisk.netlify.app/modules/node_on_android/1.4.9_149.zip",
+          "changelog": ""
+        },
+        {
+          "timestamp": 1694987130.0,
+          "version": "1.5.0",
+          "versionCode": 150,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/node_on_android/1.5.0_150.zip",
           "changelog": ""
         }
       ]
