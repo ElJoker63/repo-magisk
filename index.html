@@ -4,37 +4,82 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>AEWARE MAGISK REPOSITORY</title>
-  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="!style.css">
   <link rel="icon" type="image/png" href="favicon.png">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.2/css/all.css"/>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap"/>
+  <link rel="stylesheet" href="css/mdb.dark.min.css"/>
+  <style>
+    .AEWARE_MAGISK_REPOSITORY {
+      font-size: 40px;
+      font-family: "Neon 80s";
+      color: rgb(255, 255, 255);
+      line-height: 0.856;
+      text-align: center;
+      z-index: 5;}
+    
+      .grad{
+        background-image: linear-gradient(#38e6c5, #affa9d);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+      }
+    
+      .gradr{
+        background-image: linear-gradient(#e53737, #fa9d9d);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+      }
+    
+      .gradb{
+        background-image: linear-gradient(#38e6c5, #9de1fa);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+      }
+  </style>
 </head>
 <body>
-<div class="col align-items-center content">
-  <div id="listingInfo" class="col mb-4 w-300 align-items-center">
-      <img width="100%" src="Magisk-App-Featured.png">
-    
-      <div class="col align-items-center content" >
-        <!--p class="AEWARE_MAGISK_REPOSITORY grad">
-          <span class="align-items-center" id="repoName"></span>
-        </p-->
-        <p id="resultado" class="gradb" style="font-size: 20px;"><!--b>VERSION:</b> <span id="version"></span--></p>
-    <strong class="gradb">ULTIMA ACTUALIZACION:</strong> <span class="gradr" id="timestamp"></span>
-    <b class="gradb">LINK DEL REPOSITORIO</b>
-        <div class="caption1" id="publishedByText">
-          <span class="gradr" style="font-size: 25px;" id="baseurl"></span>
+  <div class="container my-5">
+  <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+    <div class="container-fluid">
+      <a class="navbar-brand grad" href="#"><span id="repoName"></span></a>
+    </div>
+  </nav>
+  <div class="p-5 text-center bg-image" style="background-image: url('banner.jpg');height: 628px;">
+    <div class="mask" style="background-color: rgba(0, 0, 0, 0.6)">
+      <div class="d-flex justify-content-center align-items-center h-100">
+        <div class="text-white">
+          <h1 class="mb-3 AEWARE_MAGISK_REPOSITORY grad" id="repoNam"></h1>
+          <h4 class="mb-3"><strong class="gradb">ULTIMA ACTUALIZACION:</strong> <span class="gradr" id="timestamp"></span></h4>
+          <p id="resultado" class="gradb" style="font-size: 20px;"></p>
+          <a class="btn btn-outline-light btn-lg gradr" href="#!" role="button">Copiar Link</a>
         </div>
+      </div>
     </div>
   </div>
 
-  <div class="searchBlock">
-    <fluent-text-field id="searchInput" oninput="searchModules()" placeholder="Search packages..." type="text" autofocus="" class="outline" current-value="" appearance="outline"></fluent-text-field>
-  </div>
+  <div class="row">    
+    <div class="col-md-12 mb-4">
+      <form>
+        <br><br>
+        <div class="form-outline mb-4">
+          <input type="text" id="searchInput" oninput="searchModules()" class="form-control" autocomplete="off">
+          <label class="form-label" for="form2Example1" style="margin-left: 0px">Search packages...</label>
+          <div class="form-notch">
+            <div class="form-notch-leading" style="width: 9px"></div>
+            <div class="form-notch-middle" style="width: 88.8px"></div>
+            <div class="form-notch-trailing"></div>
+          </div>
+      </form>
+    </div>
+  </div>               
+
+                
+<div class="col align-items-center content">
   <fluent-card class="packages">
     <fluent-data-grid id="packageGrid" role="grid" grid-template-columns="1fr 100px 220px" tabindex="0" generate-header="default">
-      
-  <!--h2>Listado de Módulos</h2-->
   <ul id="modulesList"></ul>
-  <!----></fluent-data-grid>
-</fluent-card>
+  </fluent-data-grid>
+</fluent-card-->
 
 
 <script>
@@ -86,7 +131,8 @@ span.addEventListener('click', function() {
     .then(response => response.json())
     .then(jsonData => {
       // Mostrar la información del repositorio
-      //document.getElementById('repoName').textContent = jsonData.name;
+      document.getElementById('repoName').textContent = jsonData.name;
+      document.getElementById('repoNam').textContent = jsonData.name;
       document.getElementById('timestamp').textContent = new Date(jsonData.metadata.timestamp * 1000).toLocaleString();
       //document.getElementById('version').textContent = jsonData.metadata.version;
       // Obtener el elemento HTML donde se mostrará el resultado
@@ -129,6 +175,12 @@ span.addEventListener('click', function() {
 
 
   <script type="module" src="script.js"></script>
-  <div class="caption1 mb-2 grad" >Creado por <a href="https://t.me/ElJoker63" target="_blank"><b>ElJoker63</b></a></div>
+<footer class="text-center text-lg-start">
+  <!-- Copyright -->
+  <div class="text-center p-3" style="background-color: #1266f1">
+    © 2023 Creado por <a href="https://t.me/ElJoker63" target="_blank"><b>ElJoker63</b></a>
+  </div>
+  <!-- Copyright -->
+</footer>
 </body>
 </html>
