@@ -2,7 +2,7 @@
   "name": "AEware Magisk Repository",
   "metadata": {
     "version": 1,
-    "timestamp": 1695035149.952294
+    "timestamp": 1695121242.410468
   },
   "modules": [
     {
@@ -1090,8 +1090,8 @@
     {
       "id": "Hc_memory",
       "name": "A1-\u5185\u5b58\u7ba1\u7406 [Beta]",
-      "version": "v4 (2023.9.10)",
-      "versionCode": 425,
+      "version": "v4 (2023.9.19)",
+      "versionCode": 426,
       "author": "HChai",
       "description": "Third-party memory management, support Android 8 ~ 13. project: https://github.com/OneB1ank/A1Memory",
       "track": {
@@ -1110,6 +1110,13 @@
           "versionCode": 425,
           "zipUrl": "https://repo-magisk.netlify.app/modules/Hc_memory/v4_2023.9.10_425.zip",
           "changelog": "https://repo-magisk.netlify.app/modules/Hc_memory/v4_2023.9.10_425.md"
+        },
+        {
+          "timestamp": 1695100703.0,
+          "version": "v4 (2023.9.19)",
+          "versionCode": 426,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/Hc_memory/v4_2023.9.19_426.zip",
+          "changelog": "https://repo-magisk.netlify.app/modules/Hc_memory/v4_2023.9.19_426.md"
         }
       ]
     },
