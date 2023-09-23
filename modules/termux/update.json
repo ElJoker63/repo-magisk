@@ -1,0 +1,13 @@
+{
+  "id": "termux",
+  "timestamp": 1695509689.0,
+  "versions": [
+    {
+      "timestamp": 1695509689.0,
+      "version": "v1",
+      "versionCode": 1,
+      "zipUrl": "https://repo-magisk.netlify.app/modules/termux/v1_1.zip",
+      "changelog": ""
+    }
+  ]
+}

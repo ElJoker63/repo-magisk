@@ -15,6 +15,13 @@
       "versionCode": 23091711,
       "zipUrl": "https://repo-magisk.netlify.app/modules/Turkish-Ad-Hosts/v23091711_23091711.zip",
       "changelog": "https://repo-magisk.netlify.app/modules/Turkish-Ad-Hosts/v23091711_23091711.md"
+    },
+    {
+      "timestamp": 1695315546.0,
+      "version": "v23092116",
+      "versionCode": 23092116,
+      "zipUrl": "https://repo-magisk.netlify.app/modules/Turkish-Ad-Hosts/v23092116_23092116.zip",
+      "changelog": "https://repo-magisk.netlify.app/modules/Turkish-Ad-Hosts/v23092116_23092116.md"
     }
   ]
 }

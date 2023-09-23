@@ -21,6 +21,13 @@
       "versionCode": 26,
       "zipUrl": "https://repo-magisk.netlify.app/modules/Atmos/v2.16_26.zip",
       "changelog": ""
+    },
+    {
+      "timestamp": 1695491776.0,
+      "version": "v2.17",
+      "versionCode": 27,
+      "zipUrl": "https://repo-magisk.netlify.app/modules/Atmos/v2.17_27.zip",
+      "changelog": ""
     }
   ],
   "timestamp": 1690218654.8440053

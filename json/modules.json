@@ -2,7 +2,7 @@
   "name": "AEware Magisk Repository",
   "metadata": {
     "version": 1,
-    "timestamp": 1695121747.026589
+    "timestamp": 1695510535.768904
   },
   "modules": [
     {
@@ -35,7 +35,7 @@
       "id": "AIST",
       "name": "AIST for devices based on Qualcomm",
       "version": "v1.9",
-      "versionCode": 71,
+      "versionCode": 72,
       "author": "Oleg_Skalskiy",
       "description": "This module Improving Audio Quality On Android & System Tweaks (optional).",
       "track": {
@@ -54,6 +54,13 @@
           "versionCode": 71,
           "zipUrl": "https://repo-magisk.netlify.app/modules/AIST/v1.9_71.zip",
           "changelog": ""
+        },
+        {
+          "timestamp": 1695507392.984048,
+          "version": "v1.9",
+          "versionCode": 72,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/AIST/v1.9_72.zip",
+          "changelog": "https://repo-magisk.netlify.app/modules/AIST/v1.9_72.md"
         }
       ]
     },
@@ -190,8 +197,8 @@
     {
       "id": "Atmos",
       "name": "Dolby Atmos Magic Revision",
-      "version": "v2.16",
-      "versionCode": 26,
+      "version": "v2.17",
+      "versionCode": 27,
       "author": "Rei Ryuki the Fixer",
       "description": "An EQ global type soundfx ported by Little Monk reworked for any Android 4.2 and up. Powered by Dolby Surround (DS).",
       "track": {
@@ -223,6 +230,13 @@
           "version": "v2.16",
           "versionCode": 26,
           "zipUrl": "https://repo-magisk.netlify.app/modules/Atmos/v2.16_26.zip",
+          "changelog": ""
+        },
+        {
+          "timestamp": 1695491776.0,
+          "version": "v2.17",
+          "versionCode": 27,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/Atmos/v2.17_27.zip",
           "changelog": ""
         }
       ]
@@ -601,8 +615,8 @@
     {
       "id": "DolbyAtmos",
       "name": "Dolby Atmos Moto G52",
-      "version": "v1.9",
-      "versionCode": 19,
+      "version": "v2.0",
+      "versionCode": 20,
       "author": "Rei Ryuki the Fixer",
       "description": "An equalizer global type soundfx ported from Motorola G52 (rhode) for any Android 11 and up, 64 bit architecture.",
       "track": {
@@ -628,14 +642,21 @@
           "versionCode": 19,
           "zipUrl": "https://repo-magisk.netlify.app/modules/DolbyAtmos/v1.9_19.zip",
           "changelog": ""
+        },
+        {
+          "timestamp": 1695265808.0,
+          "version": "v2.0",
+          "versionCode": 20,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/DolbyAtmos/v2.0_20.zip",
+          "changelog": ""
         }
       ]
     },
     {
       "id": "DolbyAudio",
       "name": "Dolby Audio Moto G Pro",
-      "version": "v6.3",
-      "versionCode": 63,
+      "version": "v6.4",
+      "versionCode": 64,
       "author": "Rei Ryuki the Fixer",
       "description": "An equalizer global type soundfx ported from Motorola G Pro (sofiap_sprout) for any Android 9 and up, 64 bit architecture.",
       "track": {
@@ -667,6 +688,13 @@
           "version": "v6.3",
           "versionCode": 63,
           "zipUrl": "https://repo-magisk.netlify.app/modules/DolbyAudio/v6.3_63.zip",
+          "changelog": ""
+        },
+        {
+          "timestamp": 1695269930.0,
+          "version": "v6.4",
+          "versionCode": 64,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/DolbyAudio/v6.4_64.zip",
           "changelog": ""
         }
       ]
@@ -1390,8 +1418,8 @@
     {
       "id": "MiSound",
       "name": "Mi Sound Redmi K40",
-      "version": "v2.9",
-      "versionCode": 29,
+      "version": "v3.0-R",
+      "versionCode": 30,
       "author": "Rei Ryuki the Fixer",
       "description": "Equalizers global type soundfx by Xiaomi Inc. ported from Redmi K40 (alioth). Dolby Atmos EQ for any Android 11 and up. Mi Sound EQ for Miui ROM Android 8 and up.",
       "track": {
@@ -1423,6 +1451,13 @@
           "version": "v2.9",
           "versionCode": 29,
           "zipUrl": "https://repo-magisk.netlify.app/modules/MiSound/v2.9_29.zip",
+          "changelog": ""
+        },
+        {
+          "timestamp": 1695280455.0,
+          "version": "v3.0-R",
+          "versionCode": 30,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/MiSound/v3.0-R_30.zip",
           "changelog": ""
         }
       ]
@@ -2299,8 +2334,8 @@
     {
       "id": "SoundEnhancement",
       "name": "Sound Enhancement Sony Xperia 10",
-      "version": "v7.3",
-      "versionCode": 73,
+      "version": "v7.4",
+      "versionCode": 74,
       "author": "Rei Ryuki the Fixer",
       "description": "EQ global type soundfx ported from Sony Xperia 10 (I4113) and Sony Xperia 1 II (XQ-AT51) for any Android 9 and up.",
       "track": {
@@ -2325,6 +2360,13 @@
           "version": "v7.3",
           "versionCode": 73,
           "zipUrl": "https://repo-magisk.netlify.app/modules/SoundEnhancement/v7.3_73.zip",
+          "changelog": ""
+        },
+        {
+          "timestamp": 1695296119.0,
+          "version": "v7.4",
+          "versionCode": 74,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/SoundEnhancement/v7.4_74.zip",
           "changelog": ""
         }
       ]
@@ -2410,6 +2452,32 @@
           "version": "v2.12",
           "versionCode": 22,
           "zipUrl": "https://repo-magisk.netlify.app/modules/TaskerPrivileged/v2.12_22.zip",
+          "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "Termux",
+      "name": "Termux",
+      "version": "v1",
+      "versionCode": 1,
+      "author": "ElJoker63",
+      "description": "Instalador de Termux",
+      "track": {
+        "type": "GIT",
+        "added": 1695508976.98781,
+        "license": "",
+        "homepage": "",
+        "source": "",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1695509689.0,
+          "version": "v1",
+          "versionCode": 1,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/termux/v1_1.zip",
           "changelog": ""
         }
       ]
@@ -2537,8 +2605,8 @@
     {
       "id": "Turkish-Ad-Hosts",
       "name": "Turkish Ad Hosts - v1.0.6",
-      "version": "v23091711",
-      "versionCode": 23091711,
+      "version": "v23092116",
+      "versionCode": 23092116,
       "author": "Ali Beyaz",
       "description": "T\u00fcrkiye'de yayg\u0131n kullan\u0131lan mobil uygulamalardaki (ve muhtemelen WEB sayfalar\u0131ndaki) izleme (ve beraberinde muhtemelen reklam) a\u011flar\u0131n\u0131 engellemek i\u00e7in gerekli hosts dosyas\u0131",
       "track": {
@@ -2564,6 +2632,13 @@
           "versionCode": 23091711,
           "zipUrl": "https://repo-magisk.netlify.app/modules/Turkish-Ad-Hosts/v23091711_23091711.zip",
           "changelog": "https://repo-magisk.netlify.app/modules/Turkish-Ad-Hosts/v23091711_23091711.md"
+        },
+        {
+          "timestamp": 1695315546.0,
+          "version": "v23092116",
+          "versionCode": 23092116,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/Turkish-Ad-Hosts/v23092116_23092116.zip",
+          "changelog": "https://repo-magisk.netlify.app/modules/Turkish-Ad-Hosts/v23092116_23092116.md"
         }
       ]
     },
@@ -4565,8 +4640,8 @@
     {
       "id": "open_webview",
       "name": "Open Webview",
-      "version": "2.1.0",
-      "versionCode": 104,
+      "version": "2.3.0",
+      "versionCode": 106,
       "author": "F3FFO",
       "description": "Open Webview change your system webview",
       "track": {
@@ -4585,6 +4660,13 @@
           "versionCode": 104,
           "zipUrl": "https://repo-magisk.netlify.app/modules/open_webview/2.1.0_104.zip",
           "changelog": "https://repo-magisk.netlify.app/modules/open_webview/2.1.0_104.md"
+        },
+        {
+          "timestamp": 1695479227.0,
+          "version": "2.3.0",
+          "versionCode": 106,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/open_webview/2.3.0_106.zip",
+          "changelog": "https://repo-magisk.netlify.app/modules/open_webview/2.3.0_106.md"
         }
       ]
     },

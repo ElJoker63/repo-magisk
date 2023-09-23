@@ -7,6 +7,13 @@
       "versionCode": 104,
       "zipUrl": "https://repo-magisk.netlify.app/modules/open_webview/2.1.0_104.zip",
       "changelog": "https://repo-magisk.netlify.app/modules/open_webview/2.1.0_104.md"
+    },
+    {
+      "timestamp": 1695479227.0,
+      "version": "2.3.0",
+      "versionCode": 106,
+      "zipUrl": "https://repo-magisk.netlify.app/modules/open_webview/2.3.0_106.zip",
+      "changelog": "https://repo-magisk.netlify.app/modules/open_webview/2.3.0_106.md"
     }
   ],
   "timestamp": 1682256699.0
