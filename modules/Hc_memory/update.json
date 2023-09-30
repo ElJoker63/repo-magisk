@@ -15,6 +15,13 @@
       "versionCode": 426,
       "zipUrl": "https://repo-magisk.netlify.app/modules/Hc_memory/v4_2023.9.19_426.zip",
       "changelog": "https://repo-magisk.netlify.app/modules/Hc_memory/v4_2023.9.19_426.md"
+    },
+    {
+      "timestamp": 1695981713.0,
+      "version": "v4 (2023.9.29)",
+      "versionCode": 431,
+      "zipUrl": "https://repo-magisk.netlify.app/modules/Hc_memory/v4_2023.9.29_431.zip",
+      "changelog": "https://repo-magisk.netlify.app/modules/Hc_memory/v4_2023.9.29_431.md"
     }
   ]
 }

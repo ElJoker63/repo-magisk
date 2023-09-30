@@ -15,6 +15,13 @@
       "versionCode": 5,
       "zipUrl": "https://repo-magisk.netlify.app/modules/SoundAlive/v0.5_5.zip",
       "changelog": ""
+    },
+    {
+      "timestamp": 1696030920.0,
+      "version": "v0.6",
+      "versionCode": 6,
+      "zipUrl": "https://repo-magisk.netlify.app/modules/SoundAlive/v0.6_6.zip",
+      "changelog": ""
     }
   ]
 }

@@ -14,6 +14,13 @@
       "versionCode": 72,
       "zipUrl": "https://repo-magisk.netlify.app/modules/AIST/v1.9_72.zip",
       "changelog": "https://repo-magisk.netlify.app/modules/AIST/v1.9_72.md"
+    },
+    {
+      "timestamp": 1696061672.247207,
+      "version": "v1.9",
+      "versionCode": 75,
+      "zipUrl": "https://repo-magisk.netlify.app/modules/AIST/v1.9_75.zip",
+      "changelog": "https://repo-magisk.netlify.app/modules/AIST/v1.9_75.md"
     }
   ],
   "timestamp": 1690309755.375532

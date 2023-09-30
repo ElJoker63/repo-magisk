@@ -2,7 +2,7 @@
   "name": "AEware Magisk Repository",
   "metadata": {
     "version": 1,
-    "timestamp": 1695510535.768904
+    "timestamp": 1696062006.954929
   },
   "modules": [
     {
@@ -35,7 +35,7 @@
       "id": "AIST",
       "name": "AIST for devices based on Qualcomm",
       "version": "v1.9",
-      "versionCode": 72,
+      "versionCode": 75,
       "author": "Oleg_Skalskiy",
       "description": "This module Improving Audio Quality On Android & System Tweaks (optional).",
       "track": {
@@ -61,6 +61,13 @@
           "versionCode": 72,
           "zipUrl": "https://repo-magisk.netlify.app/modules/AIST/v1.9_72.zip",
           "changelog": "https://repo-magisk.netlify.app/modules/AIST/v1.9_72.md"
+        },
+        {
+          "timestamp": 1696061672.247207,
+          "version": "v1.9",
+          "versionCode": 75,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/AIST/v1.9_75.zip",
+          "changelog": "https://repo-magisk.netlify.app/modules/AIST/v1.9_75.md"
         }
       ]
     },
@@ -1117,11 +1124,11 @@
     },
     {
       "id": "Hc_memory",
-      "name": "A1-\u5185\u5b58\u7ba1\u7406 [Beta]",
-      "version": "v4 (2023.9.19)",
-      "versionCode": 426,
+      "name": "A1-\u5185\u5b58\u7ba1\u7406 [Richard]",
+      "version": "v4 (2023.9.29)",
+      "versionCode": 431,
       "author": "HChai",
-      "description": "Third-party memory management, support Android 8 ~ 13. project: https://github.com/OneB1ank/A1Memory",
+      "description": "Third-party memory management, support Android 8 ~ 14. project: https://github.com/OneB1ank/A1Memory",
       "track": {
         "type": "ONLINE_JSON",
         "added": 1688711365.002626,
@@ -1145,6 +1152,13 @@
           "versionCode": 426,
           "zipUrl": "https://repo-magisk.netlify.app/modules/Hc_memory/v4_2023.9.19_426.zip",
           "changelog": "https://repo-magisk.netlify.app/modules/Hc_memory/v4_2023.9.19_426.md"
+        },
+        {
+          "timestamp": 1695981713.0,
+          "version": "v4 (2023.9.29)",
+          "versionCode": 431,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/Hc_memory/v4_2023.9.29_431.zip",
+          "changelog": "https://repo-magisk.netlify.app/modules/Hc_memory/v4_2023.9.29_431.md"
         }
       ]
     },
@@ -1669,7 +1683,7 @@
       "id": "Neribox",
       "name": "Neribox",
       "version": "2.6",
-      "versionCode": 20230908,
+      "versionCode": 20230929,
       "author": "\u98ce\u53c8\u97f3\u7406Neri",
       "description": "",
       "track": {
@@ -1695,6 +1709,13 @@
           "versionCode": 20230908,
           "zipUrl": "https://repo-magisk.netlify.app/modules/Neribox/2.6_20230908.zip",
           "changelog": "https://repo-magisk.netlify.app/modules/Neribox/2.6_20230908.md"
+        },
+        {
+          "timestamp": 1695972494.0,
+          "version": "2.6",
+          "versionCode": 20230929,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/Neribox/2.6_20230929.zip",
+          "changelog": "https://repo-magisk.netlify.app/modules/Neribox/2.6_20230929.md"
         }
       ]
     },
@@ -1890,8 +1911,8 @@
     {
       "id": "OneUIHome",
       "name": "One UI Home",
-      "version": "v1.13",
-      "versionCode": 13,
+      "version": "v1.15",
+      "versionCode": 15,
       "author": "Rei Ryuki the Fixer",
       "description": "One UI Home launcher app by Samsung Electronics Co., Ltd. ported for any Android 8 and up.",
       "track": {
@@ -1916,6 +1937,13 @@
           "version": "v1.13",
           "versionCode": 13,
           "zipUrl": "https://repo-magisk.netlify.app/modules/OneUIHome/v1.13_13.zip",
+          "changelog": ""
+        },
+        {
+          "timestamp": 1695959486.0,
+          "version": "v1.15",
+          "versionCode": 15,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/OneUIHome/v1.15_15.zip",
           "changelog": ""
         }
       ]
@@ -2301,8 +2329,8 @@
     {
       "id": "SoundAlive",
       "name": "Sound Alive Samsung Galaxy A53 5G",
-      "version": "v0.5",
-      "versionCode": 5,
+      "version": "v0.6",
+      "versionCode": 6,
       "author": "Rei Ryuki the Fixer",
       "description": "An equalizer global type soundfx ported from Samsung Galaxy A53 5G (a53x) for any Android 5 and up.",
       "track": {
@@ -2327,6 +2355,13 @@
           "version": "v0.5",
           "versionCode": 5,
           "zipUrl": "https://repo-magisk.netlify.app/modules/SoundAlive/v0.5_5.zip",
+          "changelog": ""
+        },
+        {
+          "timestamp": 1696030920.0,
+          "version": "v0.6",
+          "versionCode": 6,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/SoundAlive/v0.6_6.zip",
           "changelog": ""
         }
       ]
@@ -2605,8 +2640,8 @@
     {
       "id": "Turkish-Ad-Hosts",
       "name": "Turkish Ad Hosts - v1.0.6",
-      "version": "v23092116",
-      "versionCode": 23092116,
+      "version": "v23092820",
+      "versionCode": 23092820,
       "author": "Ali Beyaz",
       "description": "T\u00fcrkiye'de yayg\u0131n kullan\u0131lan mobil uygulamalardaki (ve muhtemelen WEB sayfalar\u0131ndaki) izleme (ve beraberinde muhtemelen reklam) a\u011flar\u0131n\u0131 engellemek i\u00e7in gerekli hosts dosyas\u0131",
       "track": {
@@ -2639,6 +2674,13 @@
           "versionCode": 23092116,
           "zipUrl": "https://repo-magisk.netlify.app/modules/Turkish-Ad-Hosts/v23092116_23092116.zip",
           "changelog": "https://repo-magisk.netlify.app/modules/Turkish-Ad-Hosts/v23092116_23092116.md"
+        },
+        {
+          "timestamp": 1695933133.0,
+          "version": "v23092820",
+          "versionCode": 23092820,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/Turkish-Ad-Hosts/v23092820_23092820.zip",
+          "changelog": "https://repo-magisk.netlify.app/modules/Turkish-Ad-Hosts/v23092820_23092820.md"
         }
       ]
     },
