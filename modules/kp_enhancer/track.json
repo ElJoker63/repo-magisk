@@ -1,7 +1,12 @@
 {
   "id": "kp_enhancer",
-  "update_to": "https://raw.githubusercontent.com/BlackMesa123/KnoxPatch/main/enhancer/update.json",
-  "added": 1694758321.396534,
+  "enable": true,
+  "update_to": "https://github.com/BlackMesa123/KnoxPatch/raw/main/enhancer/update.json",
+  "changelog": "https://github.com/BlackMesa123/KnoxPatch/raw/main/enhancer/CHANGELOG.md",
+  "license": "GPL-3.0-or-later",
+  "source": "https://github.com/BlackMesa123/KnoxPatch",
+  "support": "https://github.com/BlackMesa123/KnoxPatch/issues",
+  "added": 1688727658.926773,
   "last_update": 1691329511.0,
-  "versions": 1
+  "versions": 2
 }

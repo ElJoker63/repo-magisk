@@ -1,0 +1,13 @@
+{
+  "id": "unlimited-hotspot",
+  "timestamp": 1694691749.0,
+  "versions": [
+    {
+      "timestamp": 1694691749.0,
+      "version": "v7",
+      "versionCode": 7,
+      "zipUrl": "https://repo-magisk.netlify.app/modules/unlimited-hotspot/v7_7.zip",
+      "changelog": ""
+    }
+  ]
+}

@@ -8,6 +8,13 @@
       "versionCode": 20400,
       "zipUrl": "https://repo-magisk.netlify.app/modules/safetynet-fix/v2.4.0_20400.zip",
       "changelog": "https://repo-magisk.netlify.app/modules/safetynet-fix/v2.4.0_20400.md"
+    },
+    {
+      "timestamp": 1693946295.0,
+      "version": "v2.4.1",
+      "versionCode": 20401,
+      "zipUrl": "https://repo-magisk.netlify.app/modules/safetynet-fix/v2.4.1_20401.zip",
+      "changelog": "https://repo-magisk.netlify.app/modules/safetynet-fix/v2.4.1_20401.md"
     }
   ]
 }

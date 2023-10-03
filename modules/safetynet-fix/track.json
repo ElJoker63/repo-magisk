@@ -1,9 +1,10 @@
 {
   "id": "safetynet-fix",
-  "update_to": "https://raw.githubusercontent.com/kdrag0n/safetynet-fix/master/update.json",
+  "update_to": "https://raw.githubusercontent.com/BEASTover9000/USNFvayuLOS/master/update.json",
+  "changelog": "https://raw.githubusercontent.com/BEASTover9000/USNFvayuLOS/master/CHANGELOG.md",
   "license": "MIT",
-  "changelog": "",
-  "added": 1679025505.129431,
-  "last_update": 1673286512.0,
-  "versions": 1
+  "source": "https://github.com/BEASTover9000/USNFvayuLOS",
+  "added": 1679706725.238303,
+  "last_update": 1693946295.0,
+  "versions": 2
 }

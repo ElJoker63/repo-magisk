@@ -7,6 +7,13 @@
       "versionCode": 9,
       "zipUrl": "https://repo-magisk.netlify.app/modules/playintegrityfix/v4.0_9.zip",
       "changelog": ""
+    },
+    {
+      "timestamp": 1695709814.0,
+      "version": "v8.7",
+      "versionCode": 87,
+      "zipUrl": "https://repo-magisk.netlify.app/modules/playintegrityfix/v8.7_87.zip",
+      "changelog": "https://repo-magisk.netlify.app/modules/playintegrityfix/v8.7_87.md"
     }
   ],
   "timestamp": 1690328588.7452676

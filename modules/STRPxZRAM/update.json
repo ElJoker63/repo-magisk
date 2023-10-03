@@ -1,0 +1,13 @@
+{
+  "id": "STRPxZRAM",
+  "timestamp": 1657293966.0,
+  "versions": [
+    {
+      "timestamp": 1657293966.0,
+      "version": "1.0",
+      "versionCode": 20006,
+      "zipUrl": "https://repo-magisk.netlify.app/modules/STRPxZRAM/1.0_20006.zip",
+      "changelog": "https://repo-magisk.netlify.app/modules/STRPxZRAM/1.0_20006.md"
+    }
+  ]
+}

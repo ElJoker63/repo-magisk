@@ -1,0 +1,12 @@
+{
+  "id": "STRPxZRAM",
+  "enable": true,
+  "update_to": "https://github.com/CRANKV2/ZRAM/raw/main/module.json",
+  "changelog": "https://github.com/CRANKV2/ZRAM/raw/main/change.log",
+  "license": "GPL-3.0-only",
+  "source": "https://github.com/CRANKV2/ZRAM",
+  "max_num": 3,
+  "added": 1696253812.478082,
+  "last_update": 1657293966.0,
+  "versions": 1
+}

@@ -2,7 +2,7 @@
   "name": "AEware Magisk Repository",
   "metadata": {
     "version": 1,
-    "timestamp": 1696318569.124607
+    "timestamp": 1696323301.731598
   },
   "modules": [
     {
@@ -2249,6 +2249,58 @@
       ]
     },
     {
+      "id": "STRPxZRAM",
+      "name": "\ud835\ude4e\ud835\ude4f\ud835\ude4d\ud835\ude4b \ud835\ude6d \ud835\ude55\ud835\ude4d\ud835\ude3c\ud835\ude48",
+      "version": "1.0",
+      "versionCode": 20006,
+      "author": "@CRANKV2",
+      "description": "STRP-ZRAM Will Gives You From 1 Up To 15 GB Extra Ram Partition On Your Device!",
+      "track": {
+        "type": "ONLINE_JSON",
+        "added": 1696253812.478082,
+        "license": "GPL-3.0-only",
+        "homepage": "",
+        "source": "https://github.com/CRANKV2/ZRAM",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1657293966.0,
+          "version": "1.0",
+          "versionCode": 20006,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/STRPxZRAM/1.0_20006.zip",
+          "changelog": "https://repo-magisk.netlify.app/modules/STRPxZRAM/1.0_20006.md"
+        }
+      ]
+    },
+    {
+      "id": "STRPxZRAM",
+      "name": "\ud835\ude4e\ud835\ude4f\ud835\ude4d\ud835\ude4b \ud835\ude6d \ud835\ude55\ud835\ude4d\ud835\ude3c\ud835\ude48",
+      "version": "1.0",
+      "versionCode": 20006,
+      "author": "@CRANKV2",
+      "description": "STRP-ZRAM Will Gives You From 1 Up To 15 GB Extra Ram Partition On Your Device!",
+      "track": {
+        "type": "ONLINE_JSON",
+        "added": 1696253812.478082,
+        "license": "GPL-3.0-only",
+        "homepage": "",
+        "source": "https://github.com/CRANKV2/ZRAM",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1657293966.0,
+          "version": "1.0",
+          "versionCode": 20006,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/STRPxZRAM/1.0_20006.zip",
+          "changelog": "https://repo-magisk.netlify.app/modules/STRPxZRAM/1.0_20006.md"
+        }
+      ]
+    },
+    {
       "id": "SideslideCool",
       "name": "Sideslide Cool",
       "version": "v2.2",
@@ -2376,8 +2428,8 @@
     {
       "id": "SoundEnhancement",
       "name": "Sound Enhancement Sony Xperia 10",
-      "version": "v7.4",
-      "versionCode": 74,
+      "version": "v7.5",
+      "versionCode": 75,
       "author": "Rei Ryuki the Fixer",
       "description": "EQ global type soundfx ported from Sony Xperia 10 (I4113) and Sony Xperia 1 II (XQ-AT51) for any Android 9 and up.",
       "track": {
@@ -2409,6 +2461,13 @@
           "version": "v7.4",
           "versionCode": 74,
           "zipUrl": "https://repo-magisk.netlify.app/modules/SoundEnhancement/v7.4_74.zip",
+          "changelog": ""
+        },
+        {
+          "timestamp": 1696320597.0,
+          "version": "v7.5",
+          "versionCode": 75,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/SoundEnhancement/v7.5_75.zip",
           "changelog": ""
         }
       ]
@@ -4253,11 +4312,11 @@
       "description": "Get Samsung apps/features working again in your rooted Galaxy device.",
       "track": {
         "type": "ONLINE_JSON",
-        "added": 1694758321.396534,
-        "license": "",
+        "added": 1688727658.926773,
+        "license": "GPL-3.0-or-later",
         "homepage": "",
-        "source": "",
-        "support": "",
+        "source": "https://github.com/BlackMesa123/KnoxPatch",
+        "support": "https://github.com/BlackMesa123/KnoxPatch/issues",
         "donate": ""
       },
       "versions": [
@@ -4762,17 +4821,17 @@
     {
       "id": "playintegrityfix",
       "name": "Play Integrity Fix",
-      "version": "v4.0",
-      "versionCode": 9,
+      "version": "v8.7",
+      "versionCode": 87,
       "author": "kdrag0n, Displax, chiteroman",
-      "description": "(Should) Pass all Play Integrity veredicts | Google hates this module \ud83d\ude0e\ud83d\ude1c",
+      "description": " Fixes Play Integrity API (and SafetyNet) veredicts.",
       "track": {
-        "type": "LOCAL_ZIP",
-        "added": 1690425524.589383,
-        "license": "free",
-        "homepage": "",
-        "source": "",
-        "support": "",
+        "type": "ONLINE_JSON",
+        "added": 1693434610.039516,
+        "license": "GPL-3.0-only",
+        "homepage": "https://forum.xda-developers.com/t/module-play-integrity-fix.4607985/",
+        "source": "https://github.com/chiteroman/PlayIntegrityFix",
+        "support": "https://github.com/chiteroman/PlayIntegrityFix/issues",
         "donate": ""
       },
       "versions": [
@@ -4782,6 +4841,13 @@
           "versionCode": 9,
           "zipUrl": "https://repo-magisk.netlify.app/modules/playintegrityfix/v4.0_9.zip",
           "changelog": ""
+        },
+        {
+          "timestamp": 1695709814.0,
+          "version": "v8.7",
+          "versionCode": 87,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/playintegrityfix/v8.7_87.zip",
+          "changelog": "https://repo-magisk.netlify.app/modules/playintegrityfix/v8.7_87.md"
         }
       ]
     },
@@ -4976,17 +5042,17 @@
     },
     {
       "id": "safetynet-fix",
-      "name": "Universal SafetyNet Fix",
-      "version": "v2.4.0",
-      "versionCode": 20400,
-      "author": "kdrag0n",
+      "name": "USNFvayuLOS",
+      "version": "v2.4.1",
+      "versionCode": 20401,
+      "author": "ToucH9000",
       "description": "A universal fix for SafetyNet and Play Integrity on Android 8\u201313 devices with hardware attestation.",
       "track": {
         "type": "ONLINE_JSON",
-        "added": 1679025505.129431,
+        "added": 1679706725.238303,
         "license": "MIT",
         "homepage": "",
-        "source": "",
+        "source": "https://github.com/BEASTover9000/USNFvayuLOS",
         "support": "",
         "donate": ""
       },
@@ -4997,6 +5063,13 @@
           "versionCode": 20400,
           "zipUrl": "https://repo-magisk.netlify.app/modules/safetynet-fix/v2.4.0_20400.zip",
           "changelog": "https://repo-magisk.netlify.app/modules/safetynet-fix/v2.4.0_20400.md"
+        },
+        {
+          "timestamp": 1693946295.0,
+          "version": "v2.4.1",
+          "versionCode": 20401,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/safetynet-fix/v2.4.1_20401.zip",
+          "changelog": "https://repo-magisk.netlify.app/modules/safetynet-fix/v2.4.1_20401.md"
         }
       ]
     },
@@ -5374,6 +5447,32 @@
           "version": "1.8.8",
           "versionCode": 188,
           "zipUrl": "https://repo-magisk.netlify.app/modules/universal-gms-doze/1.8.8_188.zip",
+          "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "unlimited-hotspot",
+      "name": "Unlimited Hotspot",
+      "version": "v7",
+      "versionCode": 7,
+      "author": "felikcat",
+      "description": "https://github.com/felikcat/unlimited-hotspot",
+      "track": {
+        "type": "ONLINE_JSON",
+        "added": 1679527941.189307,
+        "license": "WTFPL",
+        "homepage": "",
+        "source": "https://github.com/felikcat/unlimited-hotspot",
+        "support": "",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1694691749.0,
+          "version": "v7",
+          "versionCode": 7,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/unlimited-hotspot/v7_7.zip",
           "changelog": ""
         }
       ]
