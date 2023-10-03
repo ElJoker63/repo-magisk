@@ -2,7 +2,7 @@
   "name": "AEware Magisk Repository",
   "metadata": {
     "version": 1,
-    "timestamp": 1696062006.954929
+    "timestamp": 1696318569.124607
   },
   "modules": [
     {
@@ -1125,8 +1125,8 @@
     {
       "id": "Hc_memory",
       "name": "A1-\u5185\u5b58\u7ba1\u7406 [Richard]",
-      "version": "v4 (2023.9.29)",
-      "versionCode": 431,
+      "version": "v4 (2023.9.30)",
+      "versionCode": 432,
       "author": "HChai",
       "description": "Third-party memory management, support Android 8 ~ 14. project: https://github.com/OneB1ank/A1Memory",
       "track": {
@@ -1159,6 +1159,13 @@
           "versionCode": 431,
           "zipUrl": "https://repo-magisk.netlify.app/modules/Hc_memory/v4_2023.9.29_431.zip",
           "changelog": "https://repo-magisk.netlify.app/modules/Hc_memory/v4_2023.9.29_431.md"
+        },
+        {
+          "timestamp": 1696076104.0,
+          "version": "v4 (2023.9.30)",
+          "versionCode": 432,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/Hc_memory/v4_2023.9.30_432.zip",
+          "changelog": "https://repo-magisk.netlify.app/modules/Hc_memory/v4_2023.9.30_432.md"
         }
       ]
     },
@@ -2640,8 +2647,8 @@
     {
       "id": "Turkish-Ad-Hosts",
       "name": "Turkish Ad Hosts - v1.0.6",
-      "version": "v23092820",
-      "versionCode": 23092820,
+      "version": "v23100214",
+      "versionCode": 23100214,
       "author": "Ali Beyaz",
       "description": "T\u00fcrkiye'de yayg\u0131n kullan\u0131lan mobil uygulamalardaki (ve muhtemelen WEB sayfalar\u0131ndaki) izleme (ve beraberinde muhtemelen reklam) a\u011flar\u0131n\u0131 engellemek i\u00e7in gerekli hosts dosyas\u0131",
       "track": {
@@ -2681,6 +2688,13 @@
           "versionCode": 23092820,
           "zipUrl": "https://repo-magisk.netlify.app/modules/Turkish-Ad-Hosts/v23092820_23092820.zip",
           "changelog": "https://repo-magisk.netlify.app/modules/Turkish-Ad-Hosts/v23092820_23092820.md"
+        },
+        {
+          "timestamp": 1696255996.0,
+          "version": "v23100214",
+          "versionCode": 23100214,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/Turkish-Ad-Hosts/v23100214_23100214.zip",
+          "changelog": "https://repo-magisk.netlify.app/modules/Turkish-Ad-Hosts/v23100214_23100214.md"
         }
       ]
     },
@@ -3277,8 +3291,8 @@
     {
       "id": "asoul_affinity_opt",
       "name": "A-SOUL Games Optimization",
-      "version": "A.2C (244)",
-      "versionCode": 244,
+      "version": "A.2D (245)",
+      "versionCode": 245,
       "author": "nakixii",
       "description": "Game threads tweaker for Android.",
       "track": {
@@ -3318,6 +3332,13 @@
           "versionCode": 244,
           "zipUrl": "https://repo-magisk.netlify.app/modules/asoul_affinity_opt/A.2C_244.zip",
           "changelog": "https://repo-magisk.netlify.app/modules/asoul_affinity_opt/A.2C_244.md"
+        },
+        {
+          "timestamp": 1696140302.0,
+          "version": "A.2D (245)",
+          "versionCode": 245,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/asoul_affinity_opt/A.2D_245.zip",
+          "changelog": "https://repo-magisk.netlify.app/modules/asoul_affinity_opt/A.2D_245.md"
         }
       ]
     },
@@ -5386,8 +5407,8 @@
     {
       "id": "usb-samplerate-unlocker",
       "name": "USB Samplerate Unlocker",
-      "version": "v1.5.2",
-      "versionCode": 1502,
+      "version": "v1.5.3",
+      "versionCode": 1503,
       "author": "zyhk",
       "description": "USB (HAL) audio class drivers have a limiter of sample rates at 96kHz. This mod unlocks the limiter.",
       "track": {
@@ -5427,6 +5448,13 @@
           "versionCode": 1502,
           "zipUrl": "https://repo-magisk.netlify.app/modules/usb-samplerate-unlocker/v1.5.2_1502.zip",
           "changelog": "https://repo-magisk.netlify.app/modules/usb-samplerate-unlocker/v1.5.2_1502.md"
+        },
+        {
+          "timestamp": 1696318252.0,
+          "version": "v1.5.3",
+          "versionCode": 1503,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/usb-samplerate-unlocker/v1.5.3_1503.zip",
+          "changelog": "https://repo-magisk.netlify.app/modules/usb-samplerate-unlocker/v1.5.3_1503.md"
         }
       ]
     },
@@ -5693,8 +5721,8 @@
     {
       "id": "zygisk-sui",
       "name": "Zygisk - Sui",
-      "version": "v12.7.2",
-      "versionCode": 300,
+      "version": "v13.5.1",
+      "versionCode": 319,
       "author": "Rikka",
       "description": "Modern superuser interface implementation. This module requires Magisk 24.0+ and Zygisk enabled. DO NOT add SystemUI and Settings to DenyList.",
       "track": {
@@ -5713,6 +5741,13 @@
           "versionCode": 300,
           "zipUrl": "https://repo-magisk.netlify.app/modules/zygisk-sui/v12.7.2_300.zip",
           "changelog": "https://repo-magisk.netlify.app/modules/zygisk-sui/v12.7.2_300.md"
+        },
+        {
+          "timestamp": 1695131134.0,
+          "version": "v13.5.1",
+          "versionCode": 319,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/zygisk-sui/v13.5.1_319.zip",
+          "changelog": "https://repo-magisk.netlify.app/modules/zygisk-sui/v13.5.1_319.md"
         }
       ]
     },

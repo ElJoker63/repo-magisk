@@ -28,6 +28,13 @@
       "versionCode": 244,
       "zipUrl": "https://repo-magisk.netlify.app/modules/asoul_affinity_opt/A.2C_244.zip",
       "changelog": "https://repo-magisk.netlify.app/modules/asoul_affinity_opt/A.2C_244.md"
+    },
+    {
+      "timestamp": 1696140302.0,
+      "version": "A.2D (245)",
+      "versionCode": 245,
+      "zipUrl": "https://repo-magisk.netlify.app/modules/asoul_affinity_opt/A.2D_245.zip",
+      "changelog": "https://repo-magisk.netlify.app/modules/asoul_affinity_opt/A.2D_245.md"
     }
   ],
   "timestamp": 1690223593.522435

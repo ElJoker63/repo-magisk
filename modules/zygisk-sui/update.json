@@ -8,6 +8,13 @@
       "versionCode": 300,
       "zipUrl": "https://repo-magisk.netlify.app/modules/zygisk-sui/v12.7.2_300.zip",
       "changelog": "https://repo-magisk.netlify.app/modules/zygisk-sui/v12.7.2_300.md"
+    },
+    {
+      "timestamp": 1695131134.0,
+      "version": "v13.5.1",
+      "versionCode": 319,
+      "zipUrl": "https://repo-magisk.netlify.app/modules/zygisk-sui/v13.5.1_319.zip",
+      "changelog": "https://repo-magisk.netlify.app/modules/zygisk-sui/v13.5.1_319.md"
     }
   ]
 }

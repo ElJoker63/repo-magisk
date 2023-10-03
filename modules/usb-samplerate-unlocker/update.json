@@ -29,6 +29,13 @@
       "versionCode": 1502,
       "zipUrl": "https://repo-magisk.netlify.app/modules/usb-samplerate-unlocker/v1.5.2_1502.zip",
       "changelog": "https://repo-magisk.netlify.app/modules/usb-samplerate-unlocker/v1.5.2_1502.md"
+    },
+    {
+      "timestamp": 1696318252.0,
+      "version": "v1.5.3",
+      "versionCode": 1503,
+      "zipUrl": "https://repo-magisk.netlify.app/modules/usb-samplerate-unlocker/v1.5.3_1503.zip",
+      "changelog": "https://repo-magisk.netlify.app/modules/usb-samplerate-unlocker/v1.5.3_1503.md"
     }
   ]
 }
