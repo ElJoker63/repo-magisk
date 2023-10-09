@@ -2,7 +2,7 @@
   "name": "AEware Magisk Repository",
   "metadata": {
     "version": 1,
-    "timestamp": 1696323301.731598
+    "timestamp": 1696877271.063815
   },
   "modules": [
     {
@@ -35,7 +35,7 @@
       "id": "AIST",
       "name": "AIST for devices based on Qualcomm",
       "version": "v1.9",
-      "versionCode": 75,
+      "versionCode": 76,
       "author": "Oleg_Skalskiy",
       "description": "This module Improving Audio Quality On Android & System Tweaks (optional).",
       "track": {
@@ -68,14 +68,21 @@
           "versionCode": 75,
           "zipUrl": "https://repo-magisk.netlify.app/modules/AIST/v1.9_75.zip",
           "changelog": "https://repo-magisk.netlify.app/modules/AIST/v1.9_75.md"
+        },
+        {
+          "timestamp": 1696877019.885771,
+          "version": "v1.9",
+          "versionCode": 76,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/AIST/v1.9_76.zip",
+          "changelog": "https://repo-magisk.netlify.app/modules/AIST/v1.9_76.md"
         }
       ]
     },
     {
       "id": "ANRTM",
       "name": "ANR Timeout Multiplier",
-      "version": "v0.2",
-      "versionCode": 2,
+      "version": "v0.3",
+      "versionCode": 3,
       "author": "Rei Ryuki the Fixer",
       "description": "Increases ANR (Application Not Responding) timeout annoying pops-up in Android 12 and up.",
       "track": {
@@ -93,6 +100,13 @@
           "version": "v0.2",
           "versionCode": 2,
           "zipUrl": "https://repo-magisk.netlify.app/modules/ANRTM/v0.2_2.zip",
+          "changelog": ""
+        },
+        {
+          "timestamp": 1696473344.0,
+          "version": "v0.3",
+          "versionCode": 3,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/ANRTM/v0.3_3.zip",
           "changelog": ""
         }
       ]
@@ -1099,8 +1113,8 @@
     {
       "id": "HEXEditor",
       "name": "HEX Editor",
-      "version": "v1.10",
-      "versionCode": 10,
+      "version": "v1.11",
+      "versionCode": 11,
       "author": "Rei Ryuki the Fixer",
       "description": "Bypasses security restrictions for HEX Editor app.",
       "track": {
@@ -1119,14 +1133,21 @@
           "versionCode": 10,
           "zipUrl": "https://repo-magisk.netlify.app/modules/HEXEditor/v1.10_10.zip",
           "changelog": ""
+        },
+        {
+          "timestamp": 1696818875.0,
+          "version": "v1.11",
+          "versionCode": 11,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/HEXEditor/v1.11_11.zip",
+          "changelog": ""
         }
       ]
     },
     {
       "id": "Hc_memory",
       "name": "A1-\u5185\u5b58\u7ba1\u7406 [Richard]",
-      "version": "v4 (2023.9.30)",
-      "versionCode": 432,
+      "version": "v4 (2023.10.05)",
+      "versionCode": 433,
       "author": "HChai",
       "description": "Third-party memory management, support Android 8 ~ 14. project: https://github.com/OneB1ank/A1Memory",
       "track": {
@@ -1166,6 +1187,13 @@
           "versionCode": 432,
           "zipUrl": "https://repo-magisk.netlify.app/modules/Hc_memory/v4_2023.9.30_432.zip",
           "changelog": "https://repo-magisk.netlify.app/modules/Hc_memory/v4_2023.9.30_432.md"
+        },
+        {
+          "timestamp": 1696506923.0,
+          "version": "v4 (2023.10.05)",
+          "versionCode": 433,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/Hc_memory/v4_2023.10.05_433.zip",
+          "changelog": "https://repo-magisk.netlify.app/modules/Hc_memory/v4_2023.10.05_433.md"
         }
       ]
     },
@@ -2388,8 +2416,8 @@
     {
       "id": "SoundAlive",
       "name": "Sound Alive Samsung Galaxy A53 5G",
-      "version": "v0.6",
-      "versionCode": 6,
+      "version": "v0.7",
+      "versionCode": 7,
       "author": "Rei Ryuki the Fixer",
       "description": "An equalizer global type soundfx ported from Samsung Galaxy A53 5G (a53x) for any Android 5 and up.",
       "track": {
@@ -2422,14 +2450,21 @@
           "versionCode": 6,
           "zipUrl": "https://repo-magisk.netlify.app/modules/SoundAlive/v0.6_6.zip",
           "changelog": ""
+        },
+        {
+          "timestamp": 1696440786.0,
+          "version": "v0.7",
+          "versionCode": 7,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/SoundAlive/v0.7_7.zip",
+          "changelog": ""
         }
       ]
     },
     {
       "id": "SoundEnhancement",
       "name": "Sound Enhancement Sony Xperia 10",
-      "version": "v7.5",
-      "versionCode": 75,
+      "version": "v7.6",
+      "versionCode": 76,
       "author": "Rei Ryuki the Fixer",
       "description": "EQ global type soundfx ported from Sony Xperia 10 (I4113) and Sony Xperia 1 II (XQ-AT51) for any Android 9 and up.",
       "track": {
@@ -2469,6 +2504,13 @@
           "versionCode": 75,
           "zipUrl": "https://repo-magisk.netlify.app/modules/SoundEnhancement/v7.5_75.zip",
           "changelog": ""
+        },
+        {
+          "timestamp": 1696567722.0,
+          "version": "v7.6",
+          "versionCode": 76,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/SoundEnhancement/v7.6_76.zip",
+          "changelog": ""
         }
       ]
     },
@@ -2501,10 +2543,10 @@
     {
       "id": "SystemlessDebloater",
       "name": "Systemless Debloater",
-      "version": "1.5.3",
-      "versionCode": 153,
+      "version": "1.5.4",
+      "versionCode": 154,
       "author": "zgfg @ xda",
-      "description": "Select and debloat preinstalled system apps. Supported up to SAR, Dynamic partitions and A13. Module must be installed through Magisk app, not TWRP - see OP instructions in the XDA thread.",
+      "description": "Select and debloat preinstalled system apps. Successfully tested on up to SAR, Dynamic partitions and A13. Module must be installed through Magisk app, not TWRP - see OP instructions in the XDA thread.",
       "track": {
         "type": "ONLINE_JSON",
         "added": 1680542005.415533,
@@ -2521,6 +2563,13 @@
           "versionCode": 153,
           "zipUrl": "https://repo-magisk.netlify.app/modules/SystemlessDebloater/1.5.3_153.zip",
           "changelog": "https://repo-magisk.netlify.app/modules/SystemlessDebloater/1.5.3_153.md"
+        },
+        {
+          "timestamp": 1696364959.0,
+          "version": "1.5.4",
+          "versionCode": 154,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/SystemlessDebloater/1.5.4_154.zip",
+          "changelog": "https://repo-magisk.netlify.app/modules/SystemlessDebloater/1.5.4_154.md"
         }
       ]
     },
@@ -2706,8 +2755,8 @@
     {
       "id": "Turkish-Ad-Hosts",
       "name": "Turkish Ad Hosts - v1.0.6",
-      "version": "v23100214",
-      "versionCode": 23100214,
+      "version": "v23100915",
+      "versionCode": 23100915,
       "author": "Ali Beyaz",
       "description": "T\u00fcrkiye'de yayg\u0131n kullan\u0131lan mobil uygulamalardaki (ve muhtemelen WEB sayfalar\u0131ndaki) izleme (ve beraberinde muhtemelen reklam) a\u011flar\u0131n\u0131 engellemek i\u00e7in gerekli hosts dosyas\u0131",
       "track": {
@@ -2720,13 +2769,6 @@
         "donate": ""
       },
       "versions": [
-        {
-          "timestamp": 1694721209.0,
-          "version": "v23091419",
-          "versionCode": 23091419,
-          "zipUrl": "https://repo-magisk.netlify.app/modules/Turkish-Ad-Hosts/v23091419_23091419.zip",
-          "changelog": "https://repo-magisk.netlify.app/modules/Turkish-Ad-Hosts/v23091419_23091419.md"
-        },
         {
           "timestamp": 1694949990.0,
           "version": "v23091711",
@@ -2754,6 +2796,13 @@
           "versionCode": 23100214,
           "zipUrl": "https://repo-magisk.netlify.app/modules/Turkish-Ad-Hosts/v23100214_23100214.zip",
           "changelog": "https://repo-magisk.netlify.app/modules/Turkish-Ad-Hosts/v23100214_23100214.md"
+        },
+        {
+          "timestamp": 1696865140.0,
+          "version": "v23100915",
+          "versionCode": 23100915,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/Turkish-Ad-Hosts/v23100915_23100915.zip",
+          "changelog": "https://repo-magisk.netlify.app/modules/Turkish-Ad-Hosts/v23100915_23100915.md"
         }
       ]
     },
@@ -4762,8 +4811,8 @@
     {
       "id": "open_webview",
       "name": "Open Webview",
-      "version": "2.3.0",
-      "versionCode": 106,
+      "version": "2.3.1",
+      "versionCode": 231,
       "author": "F3FFO",
       "description": "Open Webview change your system webview",
       "track": {
@@ -4789,6 +4838,13 @@
           "versionCode": 106,
           "zipUrl": "https://repo-magisk.netlify.app/modules/open_webview/2.3.0_106.zip",
           "changelog": "https://repo-magisk.netlify.app/modules/open_webview/2.3.0_106.md"
+        },
+        {
+          "timestamp": 1696769051.0,
+          "version": "2.3.1",
+          "versionCode": 231,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/open_webview/2.3.1_231.zip",
+          "changelog": "https://repo-magisk.netlify.app/modules/open_webview/2.3.1_231.md"
         }
       ]
     },
@@ -4821,10 +4877,10 @@
     {
       "id": "playintegrityfix",
       "name": "Play Integrity Fix",
-      "version": "v8.7",
-      "versionCode": 87,
+      "version": "v9.1",
+      "versionCode": 91,
       "author": "kdrag0n, Displax, chiteroman",
-      "description": " Fixes Play Integrity API (and SafetyNet) veredicts.",
+      "description": " Fixes Play Integrity API (and SafetyNet) verdicts.",
       "track": {
         "type": "ONLINE_JSON",
         "added": 1693434610.039516,
@@ -4848,6 +4904,13 @@
           "versionCode": 87,
           "zipUrl": "https://repo-magisk.netlify.app/modules/playintegrityfix/v8.7_87.zip",
           "changelog": "https://repo-magisk.netlify.app/modules/playintegrityfix/v8.7_87.md"
+        },
+        {
+          "timestamp": 1696806708.0,
+          "version": "v9.1",
+          "versionCode": 91,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/playintegrityfix/v9.1_91.zip",
+          "changelog": "https://repo-magisk.netlify.app/modules/playintegrityfix/v9.1_91.md"
         }
       ]
     },

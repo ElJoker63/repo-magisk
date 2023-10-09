@@ -7,6 +7,13 @@
       "versionCode": 153,
       "zipUrl": "https://repo-magisk.netlify.app/modules/SystemlessDebloater/1.5.3_153.zip",
       "changelog": "https://repo-magisk.netlify.app/modules/SystemlessDebloater/1.5.3_153.md"
+    },
+    {
+      "timestamp": 1696364959.0,
+      "version": "1.5.4",
+      "versionCode": 154,
+      "zipUrl": "https://repo-magisk.netlify.app/modules/SystemlessDebloater/1.5.4_154.zip",
+      "changelog": "https://repo-magisk.netlify.app/modules/SystemlessDebloater/1.5.4_154.md"
     }
   ],
   "timestamp": 1683123396.0

@@ -8,6 +8,13 @@
       "versionCode": 10,
       "zipUrl": "https://repo-magisk.netlify.app/modules/HEXEditor/v1.10_10.zip",
       "changelog": ""
+    },
+    {
+      "timestamp": 1696818875.0,
+      "version": "v1.11",
+      "versionCode": 11,
+      "zipUrl": "https://repo-magisk.netlify.app/modules/HEXEditor/v1.11_11.zip",
+      "changelog": ""
     }
   ]
 }

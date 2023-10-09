@@ -29,6 +29,13 @@
       "versionCode": 75,
       "zipUrl": "https://repo-magisk.netlify.app/modules/SoundEnhancement/v7.5_75.zip",
       "changelog": ""
+    },
+    {
+      "timestamp": 1696567722.0,
+      "version": "v7.6",
+      "versionCode": 76,
+      "zipUrl": "https://repo-magisk.netlify.app/modules/SoundEnhancement/v7.6_76.zip",
+      "changelog": ""
     }
   ]
 }
