@@ -21,6 +21,13 @@
       "versionCode": 91,
       "zipUrl": "https://repo-magisk.netlify.app/modules/playintegrityfix/v9.1_91.zip",
       "changelog": "https://repo-magisk.netlify.app/modules/playintegrityfix/v9.1_91.md"
+    },
+    {
+      "timestamp": 1696886937.0,
+      "version": "v9.2",
+      "versionCode": 92,
+      "zipUrl": "https://repo-magisk.netlify.app/modules/playintegrityfix/v9.2_92.zip",
+      "changelog": "https://repo-magisk.netlify.app/modules/playintegrityfix/v9.2_92.md"
     }
   ],
   "timestamp": 1690328588.7452676

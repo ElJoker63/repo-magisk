@@ -2,7 +2,7 @@
   "name": "AEware Magisk Repository",
   "metadata": {
     "version": 1,
-    "timestamp": 1696877271.063815
+    "timestamp": 1697352373.918676
   },
   "modules": [
     {
@@ -1225,11 +1225,11 @@
     },
     {
       "id": "HideNavBar",
-      "name": "Fullscreen/Immersive Gestures (Q-T)",
-      "version": "v22.0",
-      "versionCode": 56,
+      "name": "Fullscreen/Immersive Gestures (Q-U)",
+      "version": "v24.0",
+      "versionCode": 59,
       "author": "DanGLES3",
-      "description": "Customize Android 10-13's navigation gestures ",
+      "description": "Customize Android 10-14's navigation gestures",
       "track": {
         "type": "GIT",
         "added": 1680541927.602163,
@@ -1252,6 +1252,13 @@
           "version": "v22.0",
           "versionCode": 56,
           "zipUrl": "https://repo-magisk.netlify.app/modules/HideNavBar/v22.0_56.zip",
+          "changelog": ""
+        },
+        {
+          "timestamp": 1697217956.0,
+          "version": "v24.0",
+          "versionCode": 59,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/HideNavBar/v24.0_59.zip",
           "changelog": ""
         }
       ]
@@ -1717,8 +1724,8 @@
     {
       "id": "Neribox",
       "name": "Neribox",
-      "version": "2.6",
-      "versionCode": 20230929,
+      "version": "2.7",
+      "versionCode": 20231014,
       "author": "\u98ce\u53c8\u97f3\u7406Neri",
       "description": "",
       "track": {
@@ -1751,6 +1758,13 @@
           "versionCode": 20230929,
           "zipUrl": "https://repo-magisk.netlify.app/modules/Neribox/2.6_20230929.zip",
           "changelog": "https://repo-magisk.netlify.app/modules/Neribox/2.6_20230929.md"
+        },
+        {
+          "timestamp": 1697216177.0,
+          "version": "2.7",
+          "versionCode": 20231014,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/Neribox/2.7_20231014.zip",
+          "changelog": "https://repo-magisk.netlify.app/modules/Neribox/2.7_20231014.md"
         }
       ]
     },
@@ -2303,32 +2317,6 @@
       ]
     },
     {
-      "id": "STRPxZRAM",
-      "name": "\ud835\ude4e\ud835\ude4f\ud835\ude4d\ud835\ude4b \ud835\ude6d \ud835\ude55\ud835\ude4d\ud835\ude3c\ud835\ude48",
-      "version": "1.0",
-      "versionCode": 20006,
-      "author": "@CRANKV2",
-      "description": "STRP-ZRAM Will Gives You From 1 Up To 15 GB Extra Ram Partition On Your Device!",
-      "track": {
-        "type": "ONLINE_JSON",
-        "added": 1696253812.478082,
-        "license": "GPL-3.0-only",
-        "homepage": "",
-        "source": "https://github.com/CRANKV2/ZRAM",
-        "support": "",
-        "donate": ""
-      },
-      "versions": [
-        {
-          "timestamp": 1657293966.0,
-          "version": "1.0",
-          "versionCode": 20006,
-          "zipUrl": "https://repo-magisk.netlify.app/modules/STRPxZRAM/1.0_20006.zip",
-          "changelog": "https://repo-magisk.netlify.app/modules/STRPxZRAM/1.0_20006.md"
-        }
-      ]
-    },
-    {
       "id": "SideslideCool",
       "name": "Sideslide Cool",
       "version": "v2.2",
@@ -2755,8 +2743,8 @@
     {
       "id": "Turkish-Ad-Hosts",
       "name": "Turkish Ad Hosts - v1.0.6",
-      "version": "v23100915",
-      "versionCode": 23100915,
+      "version": "v23101316",
+      "versionCode": 23101316,
       "author": "Ali Beyaz",
       "description": "T\u00fcrkiye'de yayg\u0131n kullan\u0131lan mobil uygulamalardaki (ve muhtemelen WEB sayfalar\u0131ndaki) izleme (ve beraberinde muhtemelen reklam) a\u011flar\u0131n\u0131 engellemek i\u00e7in gerekli hosts dosyas\u0131",
       "track": {
@@ -2769,13 +2757,6 @@
         "donate": ""
       },
       "versions": [
-        {
-          "timestamp": 1694949990.0,
-          "version": "v23091711",
-          "versionCode": 23091711,
-          "zipUrl": "https://repo-magisk.netlify.app/modules/Turkish-Ad-Hosts/v23091711_23091711.zip",
-          "changelog": "https://repo-magisk.netlify.app/modules/Turkish-Ad-Hosts/v23091711_23091711.md"
-        },
         {
           "timestamp": 1695315546.0,
           "version": "v23092116",
@@ -2803,6 +2784,13 @@
           "versionCode": 23100915,
           "zipUrl": "https://repo-magisk.netlify.app/modules/Turkish-Ad-Hosts/v23100915_23100915.zip",
           "changelog": "https://repo-magisk.netlify.app/modules/Turkish-Ad-Hosts/v23100915_23100915.md"
+        },
+        {
+          "timestamp": 1697214150.0,
+          "version": "v23101316",
+          "versionCode": 23101316,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/Turkish-Ad-Hosts/v23101316_23101316.zip",
+          "changelog": "https://repo-magisk.netlify.app/modules/Turkish-Ad-Hosts/v23101316_23101316.md"
         }
       ]
     },
@@ -3187,8 +3175,8 @@
     {
       "id": "ZRAMSwapConfigurator",
       "name": "ZRAM Swap Configurator",
-      "version": "v1.16",
-      "versionCode": 16,
+      "version": "v1.17",
+      "versionCode": 17,
       "author": "Rei Ryuki the Fixer",
       "description": "Configures your device ZRAM Swap disk.",
       "track": {
@@ -3213,6 +3201,13 @@
           "version": "v1.16",
           "versionCode": 16,
           "zipUrl": "https://repo-magisk.netlify.app/modules/ZRAMSwapConfigurator/v1.16_16.zip",
+          "changelog": ""
+        },
+        {
+          "timestamp": 1696953956.0,
+          "version": "v1.17",
+          "versionCode": 17,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/ZRAMSwapConfigurator/v1.17_17.zip",
           "changelog": ""
         }
       ]
@@ -4877,10 +4872,10 @@
     {
       "id": "playintegrityfix",
       "name": "Play Integrity Fix",
-      "version": "v9.1",
-      "versionCode": 91,
+      "version": "v9.2",
+      "versionCode": 92,
       "author": "kdrag0n, Displax, chiteroman",
-      "description": " Fixes Play Integrity API (and SafetyNet) verdicts.",
+      "description": "Fixes Play Integrity API (and SafetyNet) verdicts.",
       "track": {
         "type": "ONLINE_JSON",
         "added": 1693434610.039516,
@@ -4911,6 +4906,13 @@
           "versionCode": 91,
           "zipUrl": "https://repo-magisk.netlify.app/modules/playintegrityfix/v9.1_91.zip",
           "changelog": "https://repo-magisk.netlify.app/modules/playintegrityfix/v9.1_91.md"
+        },
+        {
+          "timestamp": 1696886937.0,
+          "version": "v9.2",
+          "versionCode": 92,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/playintegrityfix/v9.2_92.zip",
+          "changelog": "https://repo-magisk.netlify.app/modules/playintegrityfix/v9.2_92.md"
         }
       ]
     },
@@ -5994,10 +5996,10 @@
     {
       "id": "zygisk_lsposed",
       "name": "Zygisk - LSPosed",
-      "version": "v1.9.1 (6990)",
-      "versionCode": 6990,
+      "version": "v1.9.2 (7024)",
+      "versionCode": 7024,
       "author": "LSPosed Developers",
-      "description": "Another enhanced implementation of Xposed Framework. Supports Android 8.1 ~ 13. Requires Magisk 24.0+ and Zygisk enabled.",
+      "description": "Another enhanced implementation of Xposed Framework. Supports Android 8.1 ~ 14. Requires Magisk 24.0+ and Zygisk enabled.",
       "track": {
         "type": "ONLINE_JSON",
         "added": 1679025505.129431,
@@ -6028,6 +6030,13 @@
           "versionCode": 6990,
           "zipUrl": "https://repo-magisk.netlify.app/modules/zygisk_lsposed/v1.9.1_6990.zip",
           "changelog": "https://repo-magisk.netlify.app/modules/zygisk_lsposed/v1.9.1_6990.md"
+        },
+        {
+          "timestamp": 1697034252.0,
+          "version": "v1.9.2 (7024)",
+          "versionCode": 7024,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/zygisk_lsposed/v1.9.2_7024.zip",
+          "changelog": "https://repo-magisk.netlify.app/modules/zygisk_lsposed/v1.9.2_7024.md"
         }
       ]
     },
