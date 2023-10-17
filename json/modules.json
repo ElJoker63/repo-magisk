@@ -2,7 +2,7 @@
   "name": "AEware Magisk Repository",
   "metadata": {
     "version": 1,
-    "timestamp": 1697352373.918676
+    "timestamp": 1697531476.372444
   },
   "modules": [
     {
@@ -2743,8 +2743,8 @@
     {
       "id": "Turkish-Ad-Hosts",
       "name": "Turkish Ad Hosts - v1.0.6",
-      "version": "v23101316",
-      "versionCode": 23101316,
+      "version": "v23101618",
+      "versionCode": 23101618,
       "author": "Ali Beyaz",
       "description": "T\u00fcrkiye'de yayg\u0131n kullan\u0131lan mobil uygulamalardaki (ve muhtemelen WEB sayfalar\u0131ndaki) izleme (ve beraberinde muhtemelen reklam) a\u011flar\u0131n\u0131 engellemek i\u00e7in gerekli hosts dosyas\u0131",
       "track": {
@@ -2757,13 +2757,6 @@
         "donate": ""
       },
       "versions": [
-        {
-          "timestamp": 1695315546.0,
-          "version": "v23092116",
-          "versionCode": 23092116,
-          "zipUrl": "https://repo-magisk.netlify.app/modules/Turkish-Ad-Hosts/v23092116_23092116.zip",
-          "changelog": "https://repo-magisk.netlify.app/modules/Turkish-Ad-Hosts/v23092116_23092116.md"
-        },
         {
           "timestamp": 1695933133.0,
           "version": "v23092820",
@@ -2791,6 +2784,13 @@
           "versionCode": 23101316,
           "zipUrl": "https://repo-magisk.netlify.app/modules/Turkish-Ad-Hosts/v23101316_23101316.zip",
           "changelog": "https://repo-magisk.netlify.app/modules/Turkish-Ad-Hosts/v23101316_23101316.md"
+        },
+        {
+          "timestamp": 1697482398.0,
+          "version": "v23101618",
+          "versionCode": 23101618,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/Turkish-Ad-Hosts/v23101618_23101618.zip",
+          "changelog": "https://repo-magisk.netlify.app/modules/Turkish-Ad-Hosts/v23101618_23101618.md"
         }
       ]
     },
@@ -3215,10 +3215,10 @@
     {
       "id": "acc",
       "name": "Advanced Charging Controller (ACC)",
-      "version": "v2023.8.19",
-      "versionCode": 202308190,
+      "version": "v2023.10.16",
+      "versionCode": 202310160,
       "author": "VR25",
-      "description": "Mainly intended for extending battery service life on Android devices. In a nutshell, this is achieved through limiting charging current, temperature, and voltage. Any root solution is supported. Regardless of whether the system is rooted with Magisk, the installation is always \"systemless\".",
+      "description": "Extend your battery's service life by controlling charging current, temperature, and voltage. Any root solution is supported. The installation is always \"systemless\". Works on Android and KaiOS.",
       "track": {
         "type": "ONLINE_JSON",
         "added": 1680541838.119451,
@@ -3249,6 +3249,13 @@
           "versionCode": 202308190,
           "zipUrl": "https://repo-magisk.netlify.app/modules/acc/v2023.8.19_202308190.zip",
           "changelog": "https://repo-magisk.netlify.app/modules/acc/v2023.8.19_202308190.md"
+        },
+        {
+          "timestamp": 1697485570.0,
+          "version": "v2023.10.16",
+          "versionCode": 202310160,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/acc/v2023.10.16_202310160.zip",
+          "changelog": "https://repo-magisk.netlify.app/modules/acc/v2023.10.16_202310160.md"
         }
       ]
     },
@@ -4872,10 +4879,10 @@
     {
       "id": "playintegrityfix",
       "name": "Play Integrity Fix",
-      "version": "v9.2",
-      "versionCode": 92,
+      "version": "v9.3",
+      "versionCode": 93,
       "author": "kdrag0n, Displax, chiteroman",
-      "description": "Fixes Play Integrity API (and SafetyNet) verdicts.",
+      "description": "Fixes CTS profile (SafetyNet) and DEVICE verdict (Play Integrity)",
       "track": {
         "type": "ONLINE_JSON",
         "added": 1693434610.039516,
@@ -4913,6 +4920,13 @@
           "versionCode": 92,
           "zipUrl": "https://repo-magisk.netlify.app/modules/playintegrityfix/v9.2_92.zip",
           "changelog": "https://repo-magisk.netlify.app/modules/playintegrityfix/v9.2_92.md"
+        },
+        {
+          "timestamp": 1697460127.0,
+          "version": "v9.3",
+          "versionCode": 93,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/playintegrityfix/v9.3_93.zip",
+          "changelog": "https://repo-magisk.netlify.app/modules/playintegrityfix/v9.3_93.md"
         }
       ]
     },
