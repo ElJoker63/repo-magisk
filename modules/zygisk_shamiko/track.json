@@ -1,9 +1,7 @@
 {
   "id": "zygisk_shamiko",
   "update_to": "https://lsposed.github.io/releases/shamiko.json",
-  "license": "",
-  "changelog": "",
   "added": 1679025505.129431,
-  "last_update": 1685850239.0,
-  "versions": 3
+  "last_update": 1697910921.0,
+  "versions": 4
 }

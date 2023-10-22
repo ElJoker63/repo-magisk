@@ -8,6 +8,13 @@
       "versionCode": 21,
       "zipUrl": "https://repo-magisk.netlify.app/modules/zygisk_ifw_enhance/v21_21.zip",
       "changelog": "https://repo-magisk.netlify.app/modules/zygisk_ifw_enhance/v21_21.md"
+    },
+    {
+      "timestamp": 1697946303.0,
+      "version": "v22",
+      "versionCode": 22,
+      "zipUrl": "https://repo-magisk.netlify.app/modules/zygisk_ifw_enhance/v22_22.zip",
+      "changelog": "https://repo-magisk.netlify.app/modules/zygisk_ifw_enhance/v22_22.md"
     }
   ]
 }

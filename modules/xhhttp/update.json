@@ -8,6 +8,13 @@
       "versionCode": 180,
       "zipUrl": "https://repo-magisk.netlify.app/modules/xhhttp/v0.18.0_180.zip",
       "changelog": ""
+    },
+    {
+      "timestamp": 1697918539.0,
+      "version": "v0.19.2",
+      "versionCode": 192,
+      "zipUrl": "https://repo-magisk.netlify.app/modules/xhhttp/v0.19.2_192.zip",
+      "changelog": ""
     }
   ]
 }

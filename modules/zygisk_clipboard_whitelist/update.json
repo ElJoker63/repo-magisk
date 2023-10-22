@@ -8,6 +8,13 @@
       "versionCode": 24,
       "zipUrl": "https://repo-magisk.netlify.app/modules/zygisk_clipboard_whitelist/v24_24.zip",
       "changelog": "https://repo-magisk.netlify.app/modules/zygisk_clipboard_whitelist/v24_24.md"
+    },
+    {
+      "timestamp": 1697947750.0,
+      "version": "v26",
+      "versionCode": 26,
+      "zipUrl": "https://repo-magisk.netlify.app/modules/zygisk_clipboard_whitelist/v26_26.zip",
+      "changelog": "https://repo-magisk.netlify.app/modules/zygisk_clipboard_whitelist/v26_26.md"
     }
   ]
 }
