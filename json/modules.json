@@ -2,7 +2,7 @@
   "name": "AEware Magisk Repository",
   "metadata": {
     "version": 1,
-    "timestamp": 1697959947.727394
+    "timestamp": 1697961111.250969
   },
   "modules": [
     {
@@ -4893,10 +4893,10 @@
     {
       "id": "playintegrityfix",
       "name": "Play Integrity Fix",
-      "version": "v9.3",
-      "versionCode": 93,
-      "author": "kdrag0n, Displax, chiteroman",
-      "description": "Fixes CTS profile (SafetyNet) and DEVICE verdict (Play Integrity)",
+      "version": "v9.6",
+      "versionCode": 96,
+      "author": "chiteroman",
+      "description": "An universal fix for SafetyNet and Play Integrity on Android 8+ devices with hardware attestation.",
       "track": {
         "type": "ONLINE_JSON",
         "added": 1693434610.039516,
@@ -4907,13 +4907,6 @@
         "donate": ""
       },
       "versions": [
-        {
-          "timestamp": 1690328588.7452676,
-          "version": "v4.0",
-          "versionCode": 9,
-          "zipUrl": "https://repo-magisk.netlify.app/modules/playintegrityfix/v4.0_9.zip",
-          "changelog": ""
-        },
         {
           "timestamp": 1695709814.0,
           "version": "v8.7",
@@ -4941,6 +4934,13 @@
           "versionCode": 93,
           "zipUrl": "https://repo-magisk.netlify.app/modules/playintegrityfix/v9.3_93.zip",
           "changelog": "https://repo-magisk.netlify.app/modules/playintegrityfix/v9.3_93.md"
+        },
+        {
+          "timestamp": 1697813233.0,
+          "version": "v9.6",
+          "versionCode": 96,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/playintegrityfix/v9.6_96.zip",
+          "changelog": "https://repo-magisk.netlify.app/modules/playintegrityfix/v9.6_96.md"
         }
       ]
     },
