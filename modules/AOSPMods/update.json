@@ -8,6 +8,13 @@
       "versionCode": 279,
       "zipUrl": "https://repo-magisk.netlify.app/modules/AOSPMods/3.0.0_279.zip",
       "changelog": "https://repo-magisk.netlify.app/modules/AOSPMods/3.0.0_279.md"
+    },
+    {
+      "timestamp": 1697956879.0,
+      "version": "3.1.0",
+      "versionCode": 291,
+      "zipUrl": "https://repo-magisk.netlify.app/modules/AOSPMods/3.1.0_291.zip",
+      "changelog": "https://repo-magisk.netlify.app/modules/AOSPMods/3.1.0_291.md"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "name": "AEware Magisk Repository",
   "metadata": {
     "version": 1,
-    "timestamp": 1697531476.372444
+    "timestamp": 1697959947.727394
   },
   "modules": [
     {
@@ -108,32 +108,6 @@
           "versionCode": 3,
           "zipUrl": "https://repo-magisk.netlify.app/modules/ANRTM/v0.3_3.zip",
           "changelog": ""
-        }
-      ]
-    },
-    {
-      "id": "AOSPMods",
-      "name": "AOSP Mods (Xposed version)",
-      "version": "3.0.0",
-      "versionCode": 279,
-      "author": "Siavash79 + ElTifo",
-      "description": "Xposed based module for customizations on SystemUI on AOSP based roms. Supports Android 12+",
-      "track": {
-        "type": "ONLINE_JSON",
-        "added": 1681111023.136244,
-        "license": "GPL-3.0-only",
-        "homepage": "",
-        "source": "https://github.com/siavash79/AOSPMods",
-        "support": "https://github.com/siavash79/AOSPMods/issues",
-        "donate": ""
-      },
-      "versions": [
-        {
-          "timestamp": 1692440759.0,
-          "version": "3.0.0",
-          "versionCode": 279,
-          "zipUrl": "https://repo-magisk.netlify.app/modules/AOSPMods/3.0.0_279.zip",
-          "changelog": "https://repo-magisk.netlify.app/modules/AOSPMods/3.0.0_279.md"
         }
       ]
     },
@@ -1725,7 +1699,7 @@
       "id": "Neribox",
       "name": "Neribox",
       "version": "2.7",
-      "versionCode": 20231014,
+      "versionCode": 20231019,
       "author": "\u98ce\u53c8\u97f3\u7406Neri",
       "description": "",
       "track": {
@@ -1765,6 +1739,13 @@
           "versionCode": 20231014,
           "zipUrl": "https://repo-magisk.netlify.app/modules/Neribox/2.7_20231014.zip",
           "changelog": "https://repo-magisk.netlify.app/modules/Neribox/2.7_20231014.md"
+        },
+        {
+          "timestamp": 1697725545.0,
+          "version": "2.7",
+          "versionCode": 20231019,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/Neribox/2.7_20231019.zip",
+          "changelog": "https://repo-magisk.netlify.app/modules/Neribox/2.7_20231019.md"
         }
       ]
     },
@@ -2072,6 +2053,39 @@
           "versionCode": 1,
           "zipUrl": "https://repo-magisk.netlify.app/modules/ParanoidLauncher_Port/v1.0_1.zip",
           "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "PixelXpert",
+      "name": "Pixel Xpert",
+      "version": "3.1.0",
+      "versionCode": 291,
+      "author": "Siavash79 + ElTifo",
+      "description": "Xposed based module for customizations on SystemUI on AOSP based roms. Supports Android 12+",
+      "track": {
+        "type": "ONLINE_JSON",
+        "added": 1681111023.136244,
+        "license": "GPL-3.0-only",
+        "homepage": "",
+        "source": "https://github.com/siavash79/AOSPMods",
+        "support": "https://github.com/siavash79/AOSPMods/issues",
+        "donate": ""
+      },
+      "versions": [
+        {
+          "timestamp": 1692440759.0,
+          "version": "3.0.0",
+          "versionCode": 279,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/AOSPMods/3.0.0_279.zip",
+          "changelog": "https://repo-magisk.netlify.app/modules/AOSPMods/3.0.0_279.md"
+        },
+        {
+          "timestamp": 1697956879.0,
+          "version": "3.1.0",
+          "versionCode": 291,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/AOSPMods/3.1.0_291.zip",
+          "changelog": "https://repo-magisk.netlify.app/modules/AOSPMods/3.1.0_291.md"
         }
       ]
     },
@@ -2743,8 +2757,8 @@
     {
       "id": "Turkish-Ad-Hosts",
       "name": "Turkish Ad Hosts - v1.0.6",
-      "version": "v23101618",
-      "versionCode": 23101618,
+      "version": "v23102017",
+      "versionCode": 23102017,
       "author": "Ali Beyaz",
       "description": "T\u00fcrkiye'de yayg\u0131n kullan\u0131lan mobil uygulamalardaki (ve muhtemelen WEB sayfalar\u0131ndaki) izleme (ve beraberinde muhtemelen reklam) a\u011flar\u0131n\u0131 engellemek i\u00e7in gerekli hosts dosyas\u0131",
       "track": {
@@ -2757,13 +2771,6 @@
         "donate": ""
       },
       "versions": [
-        {
-          "timestamp": 1695933133.0,
-          "version": "v23092820",
-          "versionCode": 23092820,
-          "zipUrl": "https://repo-magisk.netlify.app/modules/Turkish-Ad-Hosts/v23092820_23092820.zip",
-          "changelog": "https://repo-magisk.netlify.app/modules/Turkish-Ad-Hosts/v23092820_23092820.md"
-        },
         {
           "timestamp": 1696255996.0,
           "version": "v23100214",
@@ -2791,6 +2798,13 @@
           "versionCode": 23101618,
           "zipUrl": "https://repo-magisk.netlify.app/modules/Turkish-Ad-Hosts/v23101618_23101618.zip",
           "changelog": "https://repo-magisk.netlify.app/modules/Turkish-Ad-Hosts/v23101618_23101618.md"
+        },
+        {
+          "timestamp": 1697822302.0,
+          "version": "v23102017",
+          "versionCode": 23102017,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/Turkish-Ad-Hosts/v23102017_23102017.zip",
+          "changelog": "https://repo-magisk.netlify.app/modules/Turkish-Ad-Hosts/v23102017_23102017.md"
         }
       ]
     },
@@ -5122,10 +5136,10 @@
     {
       "id": "safetynet-fix",
       "name": "USNFvayuLOS",
-      "version": "v2.4.1",
-      "versionCode": 20401,
+      "version": "v2.4.2",
+      "versionCode": 20402,
       "author": "ToucH9000",
-      "description": "A universal fix for SafetyNet and Play Integrity on Android 8\u201313 devices with hardware attestation.",
+      "description": "Universal Pain Killer For Google.",
       "track": {
         "type": "ONLINE_JSON",
         "added": 1679706725.238303,
@@ -5149,6 +5163,13 @@
           "versionCode": 20401,
           "zipUrl": "https://repo-magisk.netlify.app/modules/safetynet-fix/v2.4.1_20401.zip",
           "changelog": "https://repo-magisk.netlify.app/modules/safetynet-fix/v2.4.1_20401.md"
+        },
+        {
+          "timestamp": 1697815468.0,
+          "version": "v2.4.2",
+          "versionCode": 20402,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/safetynet-fix/v2.4.2_20402.zip",
+          "changelog": "https://repo-magisk.netlify.app/modules/safetynet-fix/v2.4.2_20402.md"
         }
       ]
     },
@@ -5717,8 +5738,8 @@
     {
       "id": "xhhttp",
       "name": "xh for Android",
-      "version": "v0.18.0",
-      "versionCode": 180,
+      "version": "v0.19.2",
+      "versionCode": 192,
       "author": "ducaale & Der_Googler",
       "description": "Friendly and fast tool for sending HTTP requests",
       "track": {
@@ -5736,6 +5757,13 @@
           "version": "v0.18.0",
           "versionCode": 180,
           "zipUrl": "https://repo-magisk.netlify.app/modules/xhhttp/v0.18.0_180.zip",
+          "changelog": ""
+        },
+        {
+          "timestamp": 1697918539.0,
+          "version": "v0.19.2",
+          "versionCode": 192,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/xhhttp/v0.19.2_192.zip",
           "changelog": ""
         }
       ]
@@ -5769,8 +5797,8 @@
     {
       "id": "xmlpak-RE",
       "name": "xmlpak-RE \u2013 a road to vendor apps",
-      "version": "v6.0",
-      "versionCode": 60,
+      "version": "v8.0",
+      "versionCode": 80,
       "author": "Rushi Ranpise ,RKBDI, Tadi (j1505243 at xda)",
       "description": "This module enables you to download and install vendor apps from Google Play. Compatibility is not guaranteed.",
       "track": {
@@ -5789,6 +5817,13 @@
           "versionCode": 60,
           "zipUrl": "https://ya0211.github.io/magisk-modules-alt-repo/modules/xmlpak-RE/v6.0_60.zip",
           "changelog": "https://ya0211.github.io/magisk-modules-alt-repo/modules/xmlpak-RE/v6.0_60.md"
+        },
+        {
+          "timestamp": 1697914942.0,
+          "version": "v8.0",
+          "versionCode": 80,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/xmlpak-RE/v8.0_80.zip",
+          "changelog": "https://repo-magisk.netlify.app/modules/xmlpak-RE/v8.0_80.md"
         }
       ]
     },
@@ -5958,8 +5993,8 @@
     {
       "id": "zygisk_clipboard_whitelist",
       "name": "Zygisk - Clipboard Whitelist",
-      "version": "v24",
-      "versionCode": 24,
+      "version": "v26",
+      "versionCode": 26,
       "author": "Kr328",
       "description": "Allow apps access clipboard in background.",
       "track": {
@@ -5978,14 +6013,21 @@
           "versionCode": 24,
           "zipUrl": "https://repo-magisk.netlify.app/modules/zygisk_clipboard_whitelist/v24_24.zip",
           "changelog": "https://repo-magisk.netlify.app/modules/zygisk_clipboard_whitelist/v24_24.md"
+        },
+        {
+          "timestamp": 1697947750.0,
+          "version": "v26",
+          "versionCode": 26,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/zygisk_clipboard_whitelist/v26_26.zip",
+          "changelog": "https://repo-magisk.netlify.app/modules/zygisk_clipboard_whitelist/v26_26.md"
         }
       ]
     },
     {
       "id": "zygisk_ifw_enhance",
       "name": "Zygisk - IFW Enhance",
-      "version": "v21",
-      "versionCode": 21,
+      "version": "v22",
+      "versionCode": 22,
       "author": "Kr328",
       "description": "Allows Intent Firewall to filter results of queryIntent(Activities/Services) APIs.",
       "track": {
@@ -6004,6 +6046,13 @@
           "versionCode": 21,
           "zipUrl": "https://repo-magisk.netlify.app/modules/zygisk_ifw_enhance/v21_21.zip",
           "changelog": "https://repo-magisk.netlify.app/modules/zygisk_ifw_enhance/v21_21.md"
+        },
+        {
+          "timestamp": 1697946303.0,
+          "version": "v22",
+          "versionCode": 22,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/zygisk_ifw_enhance/v22_22.zip",
+          "changelog": "https://repo-magisk.netlify.app/modules/zygisk_ifw_enhance/v22_22.md"
         }
       ]
     },
@@ -6057,8 +6106,8 @@
     {
       "id": "zygisk_shamiko",
       "name": "Shamiko",
-      "version": "v0.7.3 (174)",
-      "versionCode": 174,
+      "version": "v0.7.4 (188)",
+      "versionCode": 188,
       "author": "LSPosed Developers",
       "description": "\u3053\u308c\u3067\u52dd\u3063\u305f\u3068\u601d\u3046\u306a\u3088\u2015\u2015\u2015!!",
       "track": {
@@ -6091,6 +6140,13 @@
           "versionCode": 174,
           "zipUrl": "https://repo-magisk.netlify.app/modules/zygisk_shamiko/v0.7.3_174.zip",
           "changelog": "https://repo-magisk.netlify.app/modules/zygisk_shamiko/v0.7.3_174.md"
+        },
+        {
+          "timestamp": 1697910921.0,
+          "version": "v0.7.4 (188)",
+          "versionCode": 188,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/zygisk_shamiko/v0.7.4_188.zip",
+          "changelog": "https://repo-magisk.netlify.app/modules/zygisk_shamiko/v0.7.4_188.md"
         }
       ]
     },
