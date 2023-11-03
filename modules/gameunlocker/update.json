@@ -1,0 +1,13 @@
+{
+  "id": "gameunlocker",
+  "timestamp": 1688461782.0,
+  "versions": [
+    {
+      "timestamp": 1688461782.0,
+      "version": "r5",
+      "versionCode": 50,
+      "zipUrl": "https://repo-magisk.netlify.app/modules/gameunlocker/r5_50.zip",
+      "changelog": ""
+    }
+  ]
+}

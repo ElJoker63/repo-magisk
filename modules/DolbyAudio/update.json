@@ -29,6 +29,13 @@
       "versionCode": 64,
       "zipUrl": "https://repo-magisk.netlify.app/modules/DolbyAudio/v6.4_64.zip",
       "changelog": ""
+    },
+    {
+      "timestamp": 1698844800.0,
+      "version": "v6.5",
+      "versionCode": 65,
+      "zipUrl": "https://repo-magisk.netlify.app/modules/DolbyAudio/v6.5_65.zip",
+      "changelog": ""
     }
   ]
 }

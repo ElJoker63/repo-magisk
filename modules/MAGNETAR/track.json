@@ -1,6 +1,6 @@
 {
   "id": "MAGNETAR",
-  "update_to": "MAGNETAR-19.2.0-UNIFORM.zip",
+  "update_to": "https://raw.githubusercontent.com/Kyliekyler/MAGNETAR/release/update.json",
   "added": 1690223095.712173,
   "last_update": 1690218706.9075272,
   "versions": 1,

@@ -3,13 +3,6 @@
   "timestamp": 1687308301.0,
   "versions": [
     {
-      "timestamp": 1687308301.0,
-      "version": "v7.2",
-      "versionCode": 72,
-      "zipUrl": "https://repo-magisk.netlify.app/modules/SoundEnhancement/v7.2_72.zip",
-      "changelog": ""
-    },
-    {
       "timestamp": 1693647071.0,
       "version": "v7.3",
       "versionCode": 73,
@@ -35,6 +28,13 @@
       "version": "v7.6",
       "versionCode": 76,
       "zipUrl": "https://repo-magisk.netlify.app/modules/SoundEnhancement/v7.6_76.zip",
+      "changelog": ""
+    },
+    {
+      "timestamp": 1698835150.0,
+      "version": "v7.7",
+      "versionCode": 77,
+      "zipUrl": "https://repo-magisk.netlify.app/modules/SoundEnhancement/v7.7_77.zip",
       "changelog": ""
     }
   ]

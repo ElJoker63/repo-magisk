@@ -29,6 +29,13 @@
       "versionCode": 104113,
       "zipUrl": "https://repo-magisk.netlify.app/modules/adb-ndk/1.0.41_104113.zip",
       "changelog": "https://repo-magisk.netlify.app/modules/adb-ndk/1.0.41_104113.md"
+    },
+    {
+      "timestamp": 1699041020.0,
+      "version": "1.0.41",
+      "versionCode": 104114,
+      "zipUrl": "https://repo-magisk.netlify.app/modules/adb-ndk/1.0.41_104114.zip",
+      "changelog": "https://repo-magisk.netlify.app/modules/adb-ndk/1.0.41_104114.md"
     }
   ]
 }

@@ -22,6 +22,13 @@
       "versionCode": 20,
       "zipUrl": "https://repo-magisk.netlify.app/modules/DolbyAtmos/v2.0_20.zip",
       "changelog": ""
+    },
+    {
+      "timestamp": 1698840051.0,
+      "version": "v2.1",
+      "versionCode": 21,
+      "zipUrl": "https://repo-magisk.netlify.app/modules/DolbyAtmos/v2.1_21.zip",
+      "changelog": ""
     }
   ]
 }

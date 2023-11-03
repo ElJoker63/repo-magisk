@@ -29,6 +29,13 @@
       "versionCode": 30,
       "zipUrl": "https://repo-magisk.netlify.app/modules/MiSound/v3.0-R_30.zip",
       "changelog": ""
+    },
+    {
+      "timestamp": 1698831402.0,
+      "version": "v3.1",
+      "versionCode": 31,
+      "zipUrl": "https://repo-magisk.netlify.app/modules/MiSound/v3.1_31.zip",
+      "changelog": ""
     }
   ]
 }

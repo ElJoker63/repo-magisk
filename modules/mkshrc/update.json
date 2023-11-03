@@ -7,6 +7,13 @@
       "versionCode": 135,
       "zipUrl": "https://repo-magisk.netlify.app/modules/mkshrc/1.3.5_135.zip",
       "changelog": ""
+    },
+    {
+      "timestamp": 1698535694.0,
+      "version": "1.4.7",
+      "versionCode": 147,
+      "zipUrl": "https://repo-magisk.netlify.app/modules/mkshrc/1.4.7_147.zip",
+      "changelog": ""
     }
   ],
   "timestamp": 1685709020.0

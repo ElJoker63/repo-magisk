@@ -1,0 +1,13 @@
+{
+  "id": "adb_root",
+  "timestamp": 1699041185.934865,
+  "versions": [
+    {
+      "timestamp": 1699041185.934865,
+      "version": "v1.1",
+      "versionCode": 11,
+      "zipUrl": "https://repo-magisk.netlify.app/modules/adb_root/v1.1_11.zip",
+      "changelog": ""
+    }
+  ]
+}

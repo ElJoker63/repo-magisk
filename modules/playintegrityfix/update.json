@@ -2,13 +2,6 @@
   "id": "playintegrityfix",
   "versions": [
     {
-      "timestamp": 1696806708.0,
-      "version": "v9.1",
-      "versionCode": 91,
-      "zipUrl": "https://repo-magisk.netlify.app/modules/playintegrityfix/v9.1_91.zip",
-      "changelog": "https://repo-magisk.netlify.app/modules/playintegrityfix/v9.1_91.md"
-    },
-    {
       "timestamp": 1696886937.0,
       "version": "v9.2",
       "versionCode": 92,
@@ -35,6 +28,13 @@
       "versionCode": 98,
       "zipUrl": "https://repo-magisk.netlify.app/modules/playintegrityfix/v9.8_98.zip",
       "changelog": "https://repo-magisk.netlify.app/modules/playintegrityfix/v9.8_98.md"
+    },
+    {
+      "timestamp": 1698753488.0,
+      "version": "v9.9",
+      "versionCode": 99,
+      "zipUrl": "https://repo-magisk.netlify.app/modules/playintegrityfix/v9.9_99.zip",
+      "changelog": "https://repo-magisk.netlify.app/modules/playintegrityfix/v9.9_99.md"
     }
   ],
   "timestamp": 1690328588.7452676

@@ -14,6 +14,13 @@
       "versionCode": 47,
       "zipUrl": "https://repo-magisk.netlify.app/modules/MiuiCore/v4.17_47.zip",
       "changelog": ""
+    },
+    {
+      "timestamp": 1698544731.0,
+      "version": "v4.18",
+      "versionCode": 48,
+      "zipUrl": "https://repo-magisk.netlify.app/modules/MiuiCore/v4.18_48.zip",
+      "changelog": ""
     }
   ],
   "timestamp": 1690200854.872133

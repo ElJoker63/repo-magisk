@@ -8,6 +8,13 @@
       "versionCode": 18,
       "zipUrl": "https://repo-magisk.netlify.app/modules/MiMusic/v2.8_18.zip",
       "changelog": ""
+    },
+    {
+      "timestamp": 1698575348.0,
+      "version": "v2.9",
+      "versionCode": 19,
+      "zipUrl": "https://repo-magisk.netlify.app/modules/MiMusic/v2.9_19.zip",
+      "changelog": ""
     }
   ]
 }

@@ -2,13 +2,6 @@
   "id": "asoul_affinity_opt",
   "versions": [
     {
-      "timestamp": 1690223593.522435,
-      "version": "A.24 (236)",
-      "versionCode": 236,
-      "zipUrl": "https://repo-magisk.netlify.app/modules/asoul_affinity_opt/A.24_236.zip",
-      "changelog": ""
-    },
-    {
       "timestamp": 1692204521.0,
       "version": "A.28 (240)",
       "versionCode": 240,
@@ -35,6 +28,13 @@
       "versionCode": 245,
       "zipUrl": "https://repo-magisk.netlify.app/modules/asoul_affinity_opt/A.2D_245.zip",
       "changelog": "https://repo-magisk.netlify.app/modules/asoul_affinity_opt/A.2D_245.md"
+    },
+    {
+      "timestamp": 1699017090.0,
+      "version": "A.2E (246)",
+      "versionCode": 246,
+      "zipUrl": "https://repo-magisk.netlify.app/modules/asoul_affinity_opt/A.2E_246.zip",
+      "changelog": "https://repo-magisk.netlify.app/modules/asoul_affinity_opt/A.2E_246.md"
     }
   ],
   "timestamp": 1690223593.522435

@@ -14,6 +14,13 @@
       "versionCode": 14,
       "zipUrl": "https://repo-magisk.netlify.app/modules/MiuiSecurity/v1.14_14.zip",
       "changelog": ""
+    },
+    {
+      "timestamp": 1698753233.0,
+      "version": "v1.15",
+      "versionCode": 15,
+      "zipUrl": "https://repo-magisk.netlify.app/modules/MiuiSecurity/v1.15_15.zip",
+      "changelog": ""
     }
   ],
   "timestamp": 1690200871.579794

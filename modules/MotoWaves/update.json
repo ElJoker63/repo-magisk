@@ -15,6 +15,13 @@
       "versionCode": 4,
       "zipUrl": "https://repo-magisk.netlify.app/modules/MotoWaves/v0.4_4.zip",
       "changelog": ""
+    },
+    {
+      "timestamp": 1698821971.0,
+      "version": "v0.5",
+      "versionCode": 5,
+      "zipUrl": "https://repo-magisk.netlify.app/modules/MotoWaves/v0.5_5.zip",
+      "changelog": ""
     }
   ]
 }
