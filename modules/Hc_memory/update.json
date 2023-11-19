@@ -3,13 +3,6 @@
   "timestamp": 1694303057.0,
   "versions": [
     {
-      "timestamp": 1694303057.0,
-      "version": "v4 (2023.9.10)",
-      "versionCode": 425,
-      "zipUrl": "https://repo-magisk.netlify.app/modules/Hc_memory/v4_2023.9.10_425.zip",
-      "changelog": "https://repo-magisk.netlify.app/modules/Hc_memory/v4_2023.9.10_425.md"
-    },
-    {
       "timestamp": 1695100703.0,
       "version": "v4 (2023.9.19)",
       "versionCode": 426,
@@ -36,6 +29,13 @@
       "versionCode": 433,
       "zipUrl": "https://repo-magisk.netlify.app/modules/Hc_memory/v4_2023.10.05_433.zip",
       "changelog": "https://repo-magisk.netlify.app/modules/Hc_memory/v4_2023.10.05_433.md"
+    },
+    {
+      "timestamp": 1699429588.0,
+      "version": "v4 (2023.11.08)",
+      "versionCode": 438,
+      "zipUrl": "https://repo-magisk.netlify.app/modules/Hc_memory/v4_2023.11.08_438.zip",
+      "changelog": "https://repo-magisk.netlify.app/modules/Hc_memory/v4_2023.11.08_438.md"
     }
   ]
 }

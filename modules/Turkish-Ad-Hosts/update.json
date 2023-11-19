@@ -3,13 +3,6 @@
   "timestamp": 1694721209.0,
   "versions": [
     {
-      "timestamp": 1697214150.0,
-      "version": "v23101316",
-      "versionCode": 23101316,
-      "zipUrl": "https://repo-magisk.netlify.app/modules/Turkish-Ad-Hosts/v23101316_23101316.zip",
-      "changelog": "https://repo-magisk.netlify.app/modules/Turkish-Ad-Hosts/v23101316_23101316.md"
-    },
-    {
       "timestamp": 1697482398.0,
       "version": "v23101618",
       "versionCode": 23101618,
@@ -36,6 +29,13 @@
       "versionCode": 23102915,
       "zipUrl": "https://repo-magisk.netlify.app/modules/Turkish-Ad-Hosts/v23102915_23102915.zip",
       "changelog": "https://repo-magisk.netlify.app/modules/Turkish-Ad-Hosts/v23102915_23102915.md"
+    },
+    {
+      "timestamp": 1699128326.0,
+      "version": "v23110420",
+      "versionCode": 23110420,
+      "zipUrl": "https://repo-magisk.netlify.app/modules/Turkish-Ad-Hosts/v23110420_23110420.zip",
+      "changelog": "https://repo-magisk.netlify.app/modules/Turkish-Ad-Hosts/v23110420_23110420.md"
     }
   ]
 }

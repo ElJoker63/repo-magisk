@@ -8,6 +8,13 @@
       "versionCode": 45,
       "zipUrl": "https://repo-magisk.netlify.app/modules/RiProG/4.5_Stable_45.zip",
       "changelog": "https://repo-magisk.netlify.app/modules/RiProG/4.5_Stable_45.md"
+    },
+    {
+      "timestamp": 1697954834.0,
+      "version": "5.4",
+      "versionCode": 54,
+      "zipUrl": "https://repo-magisk.netlify.app/modules/RiProG/5.4_54.zip",
+      "changelog": "https://repo-magisk.netlify.app/modules/RiProG/5.4_54.md"
     }
   ]
 }

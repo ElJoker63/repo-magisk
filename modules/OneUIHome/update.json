@@ -29,6 +29,13 @@
       "versionCode": 16,
       "zipUrl": "https://repo-magisk.netlify.app/modules/OneUIHome/v1.16_16.zip",
       "changelog": ""
+    },
+    {
+      "timestamp": 1699179489.0,
+      "version": "v1.17",
+      "versionCode": 17,
+      "zipUrl": "https://repo-magisk.netlify.app/modules/OneUIHome/v1.17_17.zip",
+      "changelog": ""
     }
   ]
 }

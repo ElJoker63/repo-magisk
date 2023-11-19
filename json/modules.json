@@ -2,7 +2,7 @@
   "name": "AEware Magisk Repository",
   "metadata": {
     "version": 1,
-    "timestamp": 1699042637.609978
+    "timestamp": 1700425323.781754
   },
   "modules": [
     {
@@ -1134,8 +1134,8 @@
     {
       "id": "Hc_memory",
       "name": "A1-\u5185\u5b58\u7ba1\u7406 [Richard]",
-      "version": "v4 (2023.10.05)",
-      "versionCode": 433,
+      "version": "v4 (2023.11.08)",
+      "versionCode": 438,
       "author": "HChai",
       "description": "Third-party memory management, support Android 8 ~ 14. project: https://github.com/OneB1ank/A1Memory",
       "track": {
@@ -1148,13 +1148,6 @@
         "donate": ""
       },
       "versions": [
-        {
-          "timestamp": 1694303057.0,
-          "version": "v4 (2023.9.10)",
-          "versionCode": 425,
-          "zipUrl": "https://repo-magisk.netlify.app/modules/Hc_memory/v4_2023.9.10_425.zip",
-          "changelog": "https://repo-magisk.netlify.app/modules/Hc_memory/v4_2023.9.10_425.md"
-        },
         {
           "timestamp": 1695100703.0,
           "version": "v4 (2023.9.19)",
@@ -1182,6 +1175,13 @@
           "versionCode": 433,
           "zipUrl": "https://repo-magisk.netlify.app/modules/Hc_memory/v4_2023.10.05_433.zip",
           "changelog": "https://repo-magisk.netlify.app/modules/Hc_memory/v4_2023.10.05_433.md"
+        },
+        {
+          "timestamp": 1699429588.0,
+          "version": "v4 (2023.11.08)",
+          "versionCode": 438,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/Hc_memory/v4_2023.11.08_438.zip",
+          "changelog": "https://repo-magisk.netlify.app/modules/Hc_memory/v4_2023.11.08_438.md"
         }
       ]
     },
@@ -1748,7 +1748,7 @@
       "id": "Neribox",
       "name": "Neribox",
       "version": "2.7",
-      "versionCode": 20231019,
+      "versionCode": 20231109,
       "author": "\u98ce\u53c8\u97f3\u7406Neri",
       "description": "",
       "track": {
@@ -1761,13 +1761,6 @@
         "donate": ""
       },
       "versions": [
-        {
-          "timestamp": 1693625032.0,
-          "version": "2.6",
-          "versionCode": 20230902,
-          "zipUrl": "https://repo-magisk.netlify.app/modules/Neribox/2.6_20230902.zip",
-          "changelog": "https://repo-magisk.netlify.app/modules/Neribox/2.6_20230902.md"
-        },
         {
           "timestamp": 1694175040.0,
           "version": "2.6",
@@ -1795,6 +1788,13 @@
           "versionCode": 20231019,
           "zipUrl": "https://repo-magisk.netlify.app/modules/Neribox/2.7_20231019.zip",
           "changelog": "https://repo-magisk.netlify.app/modules/Neribox/2.7_20231019.md"
+        },
+        {
+          "timestamp": 1699516100.0,
+          "version": "2.7",
+          "versionCode": 20231109,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/Neribox/2.7_20231109.zip",
+          "changelog": "https://repo-magisk.netlify.app/modules/Neribox/2.7_20231109.md"
         }
       ]
     },
@@ -1989,9 +1989,9 @@
     },
     {
       "id": "OneUIHome",
-      "name": "One UI Home",
-      "version": "v1.16",
-      "versionCode": 16,
+      "name": "One UI Home 31",
+      "version": "v1.17",
+      "versionCode": 17,
       "author": "Rei Ryuki the Fixer",
       "description": "One UI Home launcher app by Samsung Electronics Co., Ltd. ported for any Android 8 and up.",
       "track": {
@@ -2030,6 +2030,13 @@
           "version": "v1.16",
           "versionCode": 16,
           "zipUrl": "https://repo-magisk.netlify.app/modules/OneUIHome/v1.16_16.zip",
+          "changelog": ""
+        },
+        {
+          "timestamp": 1699179489.0,
+          "version": "v1.17",
+          "versionCode": 17,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/OneUIHome/v1.17_17.zip",
           "changelog": ""
         }
       ]
@@ -2285,9 +2292,9 @@
     {
       "id": "RiProG",
       "name": "RiProG AI",
-      "version": "4.5 Stable",
-      "versionCode": 45,
-      "author": "RiProG",
+      "version": "5.4",
+      "versionCode": 54,
+      "author": "RiProG | Github: RiProG-ID",
       "description": "Elevate your Android with automatic adaptive tweak",
       "track": {
         "type": "ONLINE_JSON",
@@ -2305,6 +2312,13 @@
           "versionCode": 45,
           "zipUrl": "https://repo-magisk.netlify.app/modules/RiProG/4.5_Stable_45.zip",
           "changelog": "https://repo-magisk.netlify.app/modules/RiProG/4.5_Stable_45.md"
+        },
+        {
+          "timestamp": 1697954834.0,
+          "version": "5.4",
+          "versionCode": 54,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/RiProG/5.4_54.zip",
+          "changelog": "https://repo-magisk.netlify.app/modules/RiProG/5.4_54.md"
         }
       ]
     },
@@ -2521,8 +2535,8 @@
     {
       "id": "SoundEnhancement",
       "name": "Sound Enhancement Sony Xperia 10",
-      "version": "v7.7",
-      "versionCode": 77,
+      "version": "v7.9",
+      "versionCode": 79,
       "author": "Rei Ryuki the Fixer",
       "description": "EQ global type soundfx ported from Sony Xperia 10 (I4113) and Sony Xperia 1 II (XQ-AT51) for any Android 9 and up.",
       "track": {
@@ -2535,13 +2549,6 @@
         "donate": ""
       },
       "versions": [
-        {
-          "timestamp": 1693647071.0,
-          "version": "v7.3",
-          "versionCode": 73,
-          "zipUrl": "https://repo-magisk.netlify.app/modules/SoundEnhancement/v7.3_73.zip",
-          "changelog": ""
-        },
         {
           "timestamp": 1695296119.0,
           "version": "v7.4",
@@ -2568,6 +2575,13 @@
           "version": "v7.7",
           "versionCode": 77,
           "zipUrl": "https://repo-magisk.netlify.app/modules/SoundEnhancement/v7.7_77.zip",
+          "changelog": ""
+        },
+        {
+          "timestamp": 1700317833.0,
+          "version": "v7.9",
+          "versionCode": 79,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/SoundEnhancement/v7.9_79.zip",
           "changelog": ""
         }
       ]
@@ -2813,8 +2827,8 @@
     {
       "id": "Turkish-Ad-Hosts",
       "name": "Turkish Ad Hosts - v1.0.6",
-      "version": "v23102915",
-      "versionCode": 23102915,
+      "version": "v23110420",
+      "versionCode": 23110420,
       "author": "Ali Beyaz",
       "description": "T\u00fcrkiye'de yayg\u0131n kullan\u0131lan mobil uygulamalardaki (ve muhtemelen WEB sayfalar\u0131ndaki) izleme (ve beraberinde muhtemelen reklam) a\u011flar\u0131n\u0131 engellemek i\u00e7in gerekli hosts dosyas\u0131",
       "track": {
@@ -2827,13 +2841,6 @@
         "donate": ""
       },
       "versions": [
-        {
-          "timestamp": 1697214150.0,
-          "version": "v23101316",
-          "versionCode": 23101316,
-          "zipUrl": "https://repo-magisk.netlify.app/modules/Turkish-Ad-Hosts/v23101316_23101316.zip",
-          "changelog": "https://repo-magisk.netlify.app/modules/Turkish-Ad-Hosts/v23101316_23101316.md"
-        },
         {
           "timestamp": 1697482398.0,
           "version": "v23101618",
@@ -2861,6 +2868,13 @@
           "versionCode": 23102915,
           "zipUrl": "https://repo-magisk.netlify.app/modules/Turkish-Ad-Hosts/v23102915_23102915.zip",
           "changelog": "https://repo-magisk.netlify.app/modules/Turkish-Ad-Hosts/v23102915_23102915.md"
+        },
+        {
+          "timestamp": 1699128326.0,
+          "version": "v23110420",
+          "versionCode": 23110420,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/Turkish-Ad-Hosts/v23110420_23110420.zip",
+          "changelog": "https://repo-magisk.netlify.app/modules/Turkish-Ad-Hosts/v23110420_23110420.md"
         }
       ]
     },
@@ -3504,8 +3518,8 @@
     {
       "id": "asoul_affinity_opt",
       "name": "A-SOUL Games Optimization",
-      "version": "A.2E (246)",
-      "versionCode": 246,
+      "version": "A.31 (249)",
+      "versionCode": 249,
       "author": "nakixii",
       "description": "Game threads tweaker for Android.",
       "track": {
@@ -3518,13 +3532,6 @@
         "donate": ""
       },
       "versions": [
-        {
-          "timestamp": 1692204521.0,
-          "version": "A.28 (240)",
-          "versionCode": 240,
-          "zipUrl": "https://repo-magisk.netlify.app/modules/asoul_affinity_opt/A.28_240.zip",
-          "changelog": "https://repo-magisk.netlify.app/modules/asoul_affinity_opt/A.28_240.md"
-        },
         {
           "timestamp": 1692923817.0,
           "version": "A.2B (243)",
@@ -3552,6 +3559,13 @@
           "versionCode": 246,
           "zipUrl": "https://repo-magisk.netlify.app/modules/asoul_affinity_opt/A.2E_246.zip",
           "changelog": "https://repo-magisk.netlify.app/modules/asoul_affinity_opt/A.2E_246.md"
+        },
+        {
+          "timestamp": 1699993355.0,
+          "version": "A.31 (249)",
+          "versionCode": 249,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/asoul_affinity_opt/A.31_249.zip",
+          "changelog": "https://repo-magisk.netlify.app/modules/asoul_affinity_opt/A.31_249.md"
         }
       ]
     },
@@ -4725,72 +4739,6 @@
       ]
     },
     {
-      "id": "mkshrc",
-      "name": "Systemless Mkshrc",
-      "version": "1.4.7",
-      "versionCode": 147,
-      "author": "Der_Googler",
-      "description": "Provide a systemless implementation of mkshrc for a better terminal experience on Android devices.",
-      "track": {
-        "type": "GIT",
-        "added": 1680541961.188782,
-        "license": "GPL-3.0",
-        "homepage": "",
-        "source": "",
-        "support": "",
-        "donate": ""
-      },
-      "versions": [
-        {
-          "timestamp": 1685709020.0,
-          "version": "1.3.5",
-          "versionCode": 135,
-          "zipUrl": "https://repo-magisk.netlify.app/modules/mkshrc/1.3.5_135.zip",
-          "changelog": ""
-        },
-        {
-          "timestamp": 1698535694.0,
-          "version": "1.4.7",
-          "versionCode": 147,
-          "zipUrl": "https://repo-magisk.netlify.app/modules/mkshrc/1.4.7_147.zip",
-          "changelog": ""
-        }
-      ]
-    },
-    {
-      "id": "node_on_android",
-      "name": "Systemless Node.js",
-      "version": "1.5.0",
-      "versionCode": 150,
-      "author": "Der_Googler",
-      "description": "Node.js is a cross-platform, open-source server environment that can run on Windows, Linux, Unix, macOS, and more.",
-      "track": {
-        "type": "GIT",
-        "added": 1680541966.821365,
-        "license": "MIT",
-        "homepage": "",
-        "source": "",
-        "support": "",
-        "donate": ""
-      },
-      "versions": [
-        {
-          "timestamp": 1689164467.0,
-          "version": "1.4.9",
-          "versionCode": 149,
-          "zipUrl": "https://repo-magisk.netlify.app/modules/node_on_android/1.4.9_149.zip",
-          "changelog": ""
-        },
-        {
-          "timestamp": 1694987130.0,
-          "version": "1.5.0",
-          "versionCode": 150,
-          "zipUrl": "https://repo-magisk.netlify.app/modules/node_on_android/1.5.0_150.zip",
-          "changelog": ""
-        }
-      ]
-    },
-    {
       "id": "noneDisplayCutout",
       "name": "NotchBarKiller",
       "version": "V1",
@@ -5015,8 +4963,8 @@
     {
       "id": "playintegrityfix",
       "name": "Play Integrity Fix",
-      "version": "v9.9",
-      "versionCode": 99,
+      "version": "v13.0",
+      "versionCode": 130,
       "author": "chiteroman",
       "description": "Fix CTS profile (SafetyNet) and DEVICE verdict (Play Integrity)",
       "track": {
@@ -5029,13 +4977,6 @@
         "donate": ""
       },
       "versions": [
-        {
-          "timestamp": 1696886937.0,
-          "version": "v9.2",
-          "versionCode": 92,
-          "zipUrl": "https://repo-magisk.netlify.app/modules/playintegrityfix/v9.2_92.zip",
-          "changelog": "https://repo-magisk.netlify.app/modules/playintegrityfix/v9.2_92.md"
-        },
         {
           "timestamp": 1697460127.0,
           "version": "v9.3",
@@ -5063,6 +5004,13 @@
           "versionCode": 99,
           "zipUrl": "https://repo-magisk.netlify.app/modules/playintegrityfix/v9.9_99.zip",
           "changelog": "https://repo-magisk.netlify.app/modules/playintegrityfix/v9.9_99.md"
+        },
+        {
+          "timestamp": 1700168217.0,
+          "version": "v13.0",
+          "versionCode": 130,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/playintegrityfix/v13.0_130.zip",
+          "changelog": "https://repo-magisk.netlify.app/modules/playintegrityfix/v13.0_130.md"
         }
       ]
     },
@@ -5853,39 +5801,6 @@
           "version": "4",
           "versionCode": 615,
           "zipUrl": "https://repo-magisk.netlify.app/modules/wispmt/4_615.zip",
-          "changelog": ""
-        }
-      ]
-    },
-    {
-      "id": "xhhttp",
-      "name": "xh for Android",
-      "version": "v0.19.2",
-      "versionCode": 192,
-      "author": "ducaale & Der_Googler",
-      "description": "Friendly and fast tool for sending HTTP requests",
-      "track": {
-        "type": "GIT",
-        "added": 1680542026.215782,
-        "license": "MIT",
-        "homepage": "https://github.com/ducaale/xh",
-        "source": "https://github.com/Magisk-Modules-Alt-Repo/xhhttp.git",
-        "support": "https://github.com/Magisk-Modules-Alt-Repo/xhhttp/issues",
-        "donate": ""
-      },
-      "versions": [
-        {
-          "timestamp": 1678725873.0,
-          "version": "v0.18.0",
-          "versionCode": 180,
-          "zipUrl": "https://repo-magisk.netlify.app/modules/xhhttp/v0.18.0_180.zip",
-          "changelog": ""
-        },
-        {
-          "timestamp": 1697918539.0,
-          "version": "v0.19.2",
-          "versionCode": 192,
-          "zipUrl": "https://repo-magisk.netlify.app/modules/xhhttp/v0.19.2_192.zip",
           "changelog": ""
         }
       ]
