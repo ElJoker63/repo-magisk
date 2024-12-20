@@ -3,13 +3,6 @@
   "timestamp": 1686557854.0,
   "versions": [
     {
-      "timestamp": 1680541591.0,
-      "version": "1.34.1",
-      "versionCode": 13413,
-      "zipUrl": "https://repo-magisk.netlify.app/modules/busybox-ndk/1.34.1_13413.zip",
-      "changelog": "https://repo-magisk.netlify.app/modules/busybox-ndk/1.34.1_13413.md"
-    },
-    {
       "timestamp": 1686557854.0,
       "version": "1.36.1",
       "versionCode": 13612,

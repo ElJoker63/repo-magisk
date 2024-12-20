@@ -2,13 +2,6 @@
   "id": "Atmos",
   "versions": [
     {
-      "timestamp": 1690218654.8440053,
-      "version": "v2.13",
-      "versionCode": 23,
-      "zipUrl": "https://repo-magisk.netlify.app/modules/Atmos/v2.13_23.zip",
-      "changelog": ""
-    },
-    {
       "timestamp": 1687254613.0,
       "version": "v2.15",
       "versionCode": 25,

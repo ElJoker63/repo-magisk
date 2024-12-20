@@ -3,13 +3,6 @@
   "timestamp": 1687682273.0,
   "versions": [
     {
-      "timestamp": 1680505886.0,
-      "version": "v1.0.1",
-      "versionCode": 1001,
-      "zipUrl": "https://repo-magisk.netlify.app/modules/audio-jitter-silencer/v1.0.1_1001.zip",
-      "changelog": ""
-    },
-    {
       "timestamp": 1681206641.0,
       "version": "v1.0.2",
       "versionCode": 1002,

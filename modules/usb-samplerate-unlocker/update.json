@@ -3,20 +3,6 @@
   "timestamp": 1686569585.0,
   "versions": [
     {
-      "timestamp": 1680505721.0,
-      "version": "v1.4.1",
-      "versionCode": 1401,
-      "zipUrl": "https://repo-magisk.netlify.app/modules/usb-samplerate-unlocker/v1.4.1_1401.zip",
-      "changelog": ""
-    },
-    {
-      "timestamp": 1681301324.0,
-      "version": "v1.5.0",
-      "versionCode": 1500,
-      "zipUrl": "https://repo-magisk.netlify.app/modules/usb-samplerate-unlocker/v1.5.0_1500.zip",
-      "changelog": "https://repo-magisk.netlify.app/modules/usb-samplerate-unlocker/v1.5.0_1500.md"
-    },
-    {
       "timestamp": 1686569585.0,
       "version": "v1.5.1",
       "versionCode": 1501,

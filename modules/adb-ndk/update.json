@@ -3,20 +3,6 @@
   "timestamp": 1686557746.0,
   "versions": [
     {
-      "timestamp": 1680541683.0,
-      "version": "1.0.41",
-      "versionCode": 104109,
-      "zipUrl": "https://repo-magisk.netlify.app/modules/adb-ndk/1.0.41_104109.zip",
-      "changelog": "https://repo-magisk.netlify.app/modules/adb-ndk/1.0.41_104109.md"
-    },
-    {
-      "timestamp": 1686557746.0,
-      "version": "1.0.41",
-      "versionCode": 104111,
-      "zipUrl": "https://repo-magisk.netlify.app/modules/adb-ndk/1.0.41_104111.zip",
-      "changelog": "https://repo-magisk.netlify.app/modules/adb-ndk/1.0.41_104111.md"
-    },
-    {
       "timestamp": 1693352052.0,
       "version": "1.0.41",
       "versionCode": 104112,

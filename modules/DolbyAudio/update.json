@@ -3,20 +3,6 @@
   "timestamp": 1687267145.0,
   "versions": [
     {
-      "timestamp": 1687267145.0,
-      "version": "v6.1",
-      "versionCode": 61,
-      "zipUrl": "https://repo-magisk.netlify.app/modules/DolbyAudio/v6.1_61.zip",
-      "changelog": ""
-    },
-    {
-      "timestamp": 1693328350.0,
-      "version": "v6.2",
-      "versionCode": 62,
-      "zipUrl": "https://repo-magisk.netlify.app/modules/DolbyAudio/v6.2_62.zip",
-      "changelog": ""
-    },
-    {
       "timestamp": 1694944251.0,
       "version": "v6.3",
       "versionCode": 63,

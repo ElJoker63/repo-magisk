@@ -3,13 +3,6 @@
   "timestamp": 1685850239.0,
   "versions": [
     {
-      "timestamp": 1668657230.0,
-      "version": "v0.6 (126)",
-      "versionCode": 126,
-      "zipUrl": "https://repo-magisk.netlify.app/modules/zygisk_shamiko/v0.6_(126)_126.zip",
-      "changelog": "https://repo-magisk.netlify.app/modules/zygisk_shamiko/v0.6_(126)_126.md"
-    },
-    {
       "timestamp": 1680843186.0,
       "version": "v0.7 (161)",
       "versionCode": 161,

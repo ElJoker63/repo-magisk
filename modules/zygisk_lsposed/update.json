@@ -3,13 +3,6 @@
   "timestamp": 1673882223.0,
   "versions": [
     {
-      "timestamp": 1673882223.0,
-      "version": "v1.8.6 (6712)",
-      "versionCode": 6712,
-      "zipUrl": "https://repo-magisk.netlify.app/modules/zygisk_lsposed/v1.8.6_(6712)_6712.zip",
-      "changelog": "https://repo-magisk.netlify.app/modules/zygisk_lsposed/v1.8.6_(6712)_6712.md"
-    },
-    {
       "timestamp": 1693323320.0,
       "version": "v1.9.0 (6986)",
       "versionCode": 6986,
