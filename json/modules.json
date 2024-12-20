@@ -2,7 +2,7 @@
   "name": "AEware Magisk Repository",
   "metadata": {
     "version": 1,
-    "timestamp": 1700425323.781754
+    "timestamp": 1734695809.199257
   },
   "modules": [
     {
@@ -500,32 +500,6 @@
           "versionCode": 27,
           "zipUrl": "https://repo-magisk.netlify.app/modules/CloudflareDNS4Magisk-IPv6/v2.7_27.zip",
           "changelog": ""
-        }
-      ]
-    },
-    {
-      "id": "CustomizedNavbar",
-      "name": "Customized Navbar",
-      "version": "3.2",
-      "versionCode": 5,
-      "author": "Pycm [4PDA]",
-      "description": "Change Navbar Gesture Indicator color to match the theme's accent color, increase wide and thickness",
-      "track": {
-        "type": "GIT",
-        "added": 1680541879.470619,
-        "license": "GPL-3.0",
-        "homepage": "",
-        "source": "",
-        "support": "",
-        "donate": ""
-      },
-      "versions": [
-        {
-          "timestamp": 1680734245.0,
-          "version": "3.2",
-          "versionCode": 5,
-          "zipUrl": "https://repo-magisk.netlify.app/modules/CustomizedNavbar/3.2_5.zip",
-          "changelog": "https://repo-magisk.netlify.app/modules/CustomizedNavbar/3.2_5.md"
         }
       ]
     },
@@ -2985,8 +2959,8 @@
     {
       "id": "VolteWifiCallingEnabler",
       "name": "Volte and Wifi Calling Enabler",
-      "version": "v1.1.1",
-      "versionCode": 111,
+      "version": "v1.1.2",
+      "versionCode": 10102,
       "author": "Ali Beyaz (avalibeyaz.com/github)",
       "description": "Enables Volte and Wifi Calling features",
       "track": {
@@ -3005,6 +2979,13 @@
           "versionCode": 111,
           "zipUrl": "https://repo-magisk.netlify.app/modules/VolteWifiCallingEnabler/v1.1.1_111.zip",
           "changelog": "https://repo-magisk.netlify.app/modules/VolteWifiCallingEnabler/v1.1.1_111.md"
+        },
+        {
+          "timestamp": 1713278577.0,
+          "version": "v1.1.2",
+          "versionCode": 10102,
+          "zipUrl": "https://repo-magisk.netlify.app/modules/VolteWifiCallingEnabler/v1.1.2_10102.zip",
+          "changelog": "https://repo-magisk.netlify.app/modules/VolteWifiCallingEnabler/v1.1.2_10102.md"
         }
       ]
     },
