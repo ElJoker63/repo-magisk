@@ -8,6 +8,13 @@
       "versionCode": 111,
       "zipUrl": "https://repo-magisk.netlify.app/modules/VolteWifiCallingEnabler/v1.1.1_111.zip",
       "changelog": "https://repo-magisk.netlify.app/modules/VolteWifiCallingEnabler/v1.1.1_111.md"
+    },
+    {
+      "timestamp": 1713278577.0,
+      "version": "v1.1.2",
+      "versionCode": 10102,
+      "zipUrl": "https://repo-magisk.netlify.app/modules/VolteWifiCallingEnabler/v1.1.2_10102.zip",
+      "changelog": "https://repo-magisk.netlify.app/modules/VolteWifiCallingEnabler/v1.1.2_10102.md"
     }
   ]
 }
