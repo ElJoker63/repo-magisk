@@ -1,0 +1,13 @@
+{
+  "id": "TA_utl",
+  "timestamp": 1762093319.0,
+  "versions": [
+    {
+      "timestamp": 1762093319.0,
+      "version": "v4.3",
+      "versionCode": 635,
+      "zipUrl": "https://repo-magisk.netlify.app/modules/TA_utl/v4.3_635.zip",
+      "changelog": "https://repo-magisk.netlify.app/modules/TA_utl/v4.3_635.md"
+    }
+  ]
+}

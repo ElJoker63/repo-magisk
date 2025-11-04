@@ -1,27 +1,13 @@
 {
   "id": "playintegrityfix",
+  "timestamp": 1762093943.0,
   "versions": [
     {
-      "timestamp": 1698093743.0,
-      "version": "v9.8",
-      "versionCode": 98,
-      "zipUrl": "https://repo-magisk.netlify.app/modules/playintegrityfix/v9.8_98.zip",
-      "changelog": "https://repo-magisk.netlify.app/modules/playintegrityfix/v9.8_98.md"
-    },
-    {
-      "timestamp": 1698753488.0,
-      "version": "v9.9",
-      "versionCode": 99,
-      "zipUrl": "https://repo-magisk.netlify.app/modules/playintegrityfix/v9.9_99.zip",
-      "changelog": "https://repo-magisk.netlify.app/modules/playintegrityfix/v9.9_99.md"
-    },
-    {
-      "timestamp": 1700168217.0,
-      "version": "v13.0",
-      "versionCode": 130,
-      "zipUrl": "https://repo-magisk.netlify.app/modules/playintegrityfix/v13.0_130.zip",
-      "changelog": "https://repo-magisk.netlify.app/modules/playintegrityfix/v13.0_130.md"
+      "timestamp": 1762093943.0,
+      "version": "v4.4-inject-s",
+      "versionCode": 44,
+      "zipUrl": "https://repo-magisk.netlify.app/modules/playintegrityfix/v4.4-inject-s_44.zip",
+      "changelog": "https://repo-magisk.netlify.app/modules/playintegrityfix/v4.4-inject-s_44.md"
     }
-  ],
-  "timestamp": 1690328588.7452676
+  ]
 }

@@ -1,0 +1,13 @@
+{
+  "id": "tracing_off",
+  "timestamp": 1762256072.1317809,
+  "versions": [
+    {
+      "timestamp": 1762256072.1317809,
+      "version": "v1",
+      "versionCode": 1,
+      "zipUrl": "https://repo-magisk.netlify.app/modules/tracing_off/v1_1.zip",
+      "changelog": ""
+    }
+  ]
+}

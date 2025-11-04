@@ -1,0 +1,13 @@
+{
+  "id": "SH_Blocker",
+  "timestamp": 1734696936.0,
+  "versions": [
+    {
+      "timestamp": 1734696936.0,
+      "version": "v3.41",
+      "versionCode": 7,
+      "zipUrl": "https://repo-magisk.netlify.app/modules/SH_Blocker/v3.41_7.zip",
+      "changelog": ""
+    }
+  ]
+}

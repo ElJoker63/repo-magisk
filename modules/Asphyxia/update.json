@@ -1,0 +1,13 @@
+{
+  "id": "Asphyxia",
+  "timestamp": 1745118522.0,
+  "versions": [
+    {
+      "timestamp": 1745118522.0,
+      "version": "v4.3.4",
+      "versionCode": 250420,
+      "zipUrl": "https://repo-magisk.netlify.app/modules/Asphyxia/v4.3.4_250420.zip",
+      "changelog": "https://repo-magisk.netlify.app/modules/Asphyxia/v4.3.4_250420.md"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": "sqlite3",
+  "timestamp": 1762256077.6300173,
+  "versions": [
+    {
+      "timestamp": 1762256077.6300173,
+      "version": "v3.50.4",
+      "versionCode": 20250730,
+      "zipUrl": "https://repo-magisk.netlify.app/modules/sqlite3/v3.50.4_20250730.zip",
+      "changelog": ""
+    }
+  ]
+}

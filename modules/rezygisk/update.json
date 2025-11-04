@@ -1,0 +1,13 @@
+{
+  "id": "rezygisk",
+  "timestamp": 1762258687.332178,
+  "versions": [
+    {
+      "timestamp": 1762258687.332178,
+      "version": "v1.0.0-rc.4",
+      "versionCode": 422,
+      "zipUrl": "https://repo-magisk.netlify.app/modules/rezygisk/v1.0.0-rc.4_422.zip",
+      "changelog": "https://repo-magisk.netlify.app/modules/rezygisk/v1.0.0-rc.4_422.md"
+    }
+  ]
+}

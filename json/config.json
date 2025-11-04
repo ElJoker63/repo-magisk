@@ -6,6 +6,6 @@
   "LOG_DIR": "log",
   "ENV": {
     "CONFIG_VERSION": 1,
-    "TRACK_VERSION": 1
+    "TRACK_VERSION": 2
   }
 }

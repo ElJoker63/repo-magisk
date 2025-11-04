@@ -1,12 +1,8 @@
 {
   "id": "playintegrityfix",
-  "update_to": "https://github.com/chiteroman/PlayIntegrityFix/raw/main/update.json",
-  "changelog": "https://github.com/chiteroman/PlayIntegrityFix/raw/main/changelog.md",
-  "license": "GPL-3.0-only",
-  "homepage": "https://forum.xda-developers.com/t/module-play-integrity-fix.4607985/",
-  "source": "https://github.com/chiteroman/PlayIntegrityFix",
-  "support": "https://github.com/chiteroman/PlayIntegrityFix/issues",
-  "added": 1693434610.039516,
-  "last_update": 1700168217.0,
-  "versions": 3
+  "enable": true,
+  "update_to": "https://raw.githubusercontent.com/KOWX712/PlayIntegrityFix/inject_s/update.json",
+  "added": 1762258215.447609,
+  "last_update": 1762093943.0,
+  "versions": 1
 }

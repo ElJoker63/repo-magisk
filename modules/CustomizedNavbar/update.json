@@ -1,5 +1,6 @@
 {
   "id": "CustomizedNavbar",
+  "timestamp": 1680734245.0,
   "versions": [
     {
       "timestamp": 1680734245.0,
@@ -8,6 +9,5 @@
       "zipUrl": "https://repo-magisk.netlify.app/modules/CustomizedNavbar/3.2_5.zip",
       "changelog": "https://repo-magisk.netlify.app/modules/CustomizedNavbar/3.2_5.md"
     }
-  ],
-  "timestamp": 1680734245.0
+  ]
 }

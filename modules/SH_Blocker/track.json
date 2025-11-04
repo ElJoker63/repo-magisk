@@ -1,4 +1,8 @@
 {
-    "id": "BlockAds",
-    "update_to": "BlockAds-v3.41.zip"
+  "id": "SH_Blocker",
+  "enable": true,
+  "update_to": "BlockAds-v3.41.zip",
+  "added": 1762258207.347241,
+  "last_update": 1734696936.0,
+  "versions": 1
 }

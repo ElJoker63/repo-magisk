@@ -1,0 +1,8 @@
+{
+  "id": "rezygisk",
+  "enable": true,
+  "update_to": "https://raw.githubusercontent.com/ThePedroo/RemoteFiles/refs/heads/main/ReZygisk/update.json",
+  "added": 1762258218.024904,
+  "last_update": 1762258687.332178,
+  "versions": 1
+}

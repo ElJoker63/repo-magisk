@@ -1,0 +1,13 @@
+{
+  "id": "htop",
+  "timestamp": 1762256065.4523294,
+  "versions": [
+    {
+      "timestamp": 1762256065.4523294,
+      "version": "v1",
+      "versionCode": 1,
+      "zipUrl": "https://repo-magisk.netlify.app/modules/htop/v1_1.zip",
+      "changelog": ""
+    }
+  ]
+}
